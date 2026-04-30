@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Briefing AI Daily - Silvio</title>
+    <link>https://SilvioPlumari.github.io/briefing-ai-feed/</link>
+    <language>it-IT</language>
+    <description>Briefing quotidiano automatizzato delle newsletter AI per Silvio Plumari, consulente finanziario presso Blue Ocean Finance.</description>
+    <itunes:author>Silvio Plumari</itunes:author>
+    <itunes:summary>Briefing AI quotidiano</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Silvio Plumari</itunes:name>
+      <itunes:email>newsle212@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Thu, 30 Apr 2026 14:56:15 GMT</lastBuildDate>
+    <item>
+      <title>Briefing AI - 2026-04-30</title>
+      <description><![CDATA[Briefing AI del trenta aprile duemilaventisei. Oggi tratto sette newsletter principali sull'intelligenza artificiale.
+
+Newsletter uno: Ben's Bites, "Building gets easier".
+
+Ben Tossell dedica l'apertura al padre Matthew, che si ritira dopo quarantatré anni nello stesso studio legale, un record impressionante considerando che Ben stesso non ha mai lavorato più di due anni nello stesso posto, tranne per Ben's Bites. Il padre ha trasformato più volte lo studio legale e recentemente ha spinto l'adoz...]]></description>
+      <pubDate>Thu, 30 Apr 2026 14:56:15 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-04-30-1656</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y2EdLBQV35-eAE4C7ls_UU1Eyy0JQ-8Y" length="27423840" type="audio/mpeg" />
+      <itunes:duration>24:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
