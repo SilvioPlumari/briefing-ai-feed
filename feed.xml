@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Briefing AI Daily - Silvio</title>
+    <link>https://SilvioPlumari.github.io/briefing-ai-feed/</link>
+    <language>it-IT</language>
+    <description>Briefing quotidiano automatizzato delle newsletter AI per Silvio Plumari, consulente finanziario presso Blue Ocean Finance.</description>
+    <itunes:author>Silvio Plumari</itunes:author>
+    <itunes:summary>Briefing AI quotidiano</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Silvio Plumari</itunes:name>
+      <itunes:email>newsle212@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Technology" />
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Thu, 30 Apr 2026 10:12:51 GMT</lastBuildDate>
+    <item>
+      <title>Briefing AI - 2026-04-30</title>
+      <description><![CDATA[Briefing AI del ventinove aprile duemilaventisei. Oggi tratto quattro newsletter principali.
+
+Newsletter numero uno: Last Week in AI, episodio duecentoquarantadue. Questa è la newsletter podcast settimanale che fa il punto sugli sviluppi più rilevanti nell'intelligenza artificiale.
+
+Partiamo dai modelli. OpenAI ha rilasciato ChatGPT Images due punto zero, un nuovo modello per la generazione di immagini che eccelle nella creazione di testi accurati all'interno delle immagini e nella produzione di...]]></description>
+      <pubDate>Thu, 30 Apr 2026 10:12:51 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-04-30</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1PsPGTgyBv1Ze1gJHbXO3PrenxgmqYQ33" length="21084000" type="audio/mpeg" />
+      <itunes:duration>18:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
