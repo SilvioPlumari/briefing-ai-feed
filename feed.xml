@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 30 Apr 2026 13:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 14:18:05 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-04-30</title>
+      <description><![CDATA[Briefing AI del trenta aprile duemilaventisei. Oggi tratto sette newsletter principali sull'intelligenza artificiale.
+
+Newsletter uno: Ben's Bites, "Building gets easier".
+
+Ben Tossell dedica l'apertura al padre Matthew, che si ritira dopo quarantatré anni nello stesso studio legale, un record impressionante considerando che Ben stesso non ha mai lavorato più di due anni nello stesso posto, tranne per Ben's Bites. Il padre ha trasformato più volte lo studio legale e recentemente ha spinto l'adoz...]]></description>
+      <pubDate>Thu, 30 Apr 2026 14:18:05 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-04-30</guid>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y2EdLBQV35-eAE4C7ls_UU1Eyy0JQ-8Y" length="27423840" type="audio/mpeg" />
+      <itunes:duration>24:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-04-30</title>
       <description><![CDATA[Briefing AI del ventiquattro aprile duemilaventicinque. Oggi tratto una newsletter principale dedicata agli sviluppi nel campo dell'intelligenza artificiale applicata alla biologia e alla medicina.
 
@@ -27,6 +40,5 @@ La notizia principale riguarda un investimento massiccio nel settore della biolo
       <itunes:duration>8:54</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-
   </channel>
 </rss>
