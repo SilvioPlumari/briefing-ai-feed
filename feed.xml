@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 01 May 2026 11:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 11:03:04 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-02</title>
+      <description><![CDATA[Briefing AI del primo maggio duemilaventisei. Oggi tratto una newsletter principale da The Information.
+
+Newsletter uno: The Information AM, con focus su intelligenza artificiale AI e cybersecurity.
+
+La notizia principale riguarda l'Agenzia per la Sicurezza Nazionale americana, la NSA, che sta utilizzando il modello Mythos di Anthropic per identificare vulnerabilità di sicurezza nei software Microsoft. Questo sviluppo è stato riportato da Bloomberg giovedì scorso e rappresenta un cambio signific...]]></description>
+      <pubDate>Sat, 02 May 2026 11:03:04 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-02-1303</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-02/briefing-2026-05-02.mp3" length="12049920" type="audio/mpeg" />
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-01</title>
       <description><![CDATA[Briefing AI del trenta aprile duemilaventisei. Oggi tratto quattro newsletter principali.
 
