@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 02 May 2026 11:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 11:03:12 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-03</title>
+      <description><![CDATA[Briefing AI del ventotto aprile duemilaventicinque. Oggi tratto una newsletter principale dedicata al mondo dell'intelligenza artificiale AI e al suo impatto sul lavoro.
+
+Newsletter uno: Exclusive intervista con Michael Atalla, Chief Marketing Officer di UiPath, sull'intelligenza artificiale nel mondo del lavoro.
+
+The Rundown AI pubblica oggi un'intervista esclusiva con Michael Atalla, responsabile marketing di UiPath, azienda leader nell'automazione dei processi che proprio questa settimana cel...]]></description>
+      <pubDate>Sun, 03 May 2026 11:03:12 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-03-1303</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-03/briefing-2026-05-03.mp3" length="10116960" type="audio/mpeg" />
+      <itunes:duration>8:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-02</title>
       <description><![CDATA[Briefing AI del primo maggio duemilaventisei. Oggi tratto una newsletter principale da The Information.
 
