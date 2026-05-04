@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 03 May 2026 11:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 11:05:35 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-04</title>
+      <description><![CDATA[# Briefing AI del 3 maggio 2026
+
+Briefing AI del tre maggio duemilaventisei. Oggi tratto sei newsletter principali.
+
+Newsletter uno: The Rundown AI, studio Harvard sull'intelligenza artificiale in pronto soccorso.
+
+Un nuovo studio pubblicato dalla rivista Science mostra che un modello di intelligenza artificiale di OpenAI ha diagnosticato casi di emergenza medica con maggiore precisione rispetto a due medici specialisti. Lo studio dell'Università di Harvard ha testato il modello o-uno-preview, r...]]></description>
+      <pubDate>Mon, 04 May 2026 11:05:35 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-04-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-04/briefing-2026-05-04.mp3" length="16825440" type="audio/mpeg" />
+      <itunes:duration>14:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-03</title>
       <description><![CDATA[Briefing AI del ventotto aprile duemilaventicinque. Oggi tratto una newsletter principale dedicata al mondo dell'intelligenza artificiale AI e al suo impatto sul lavoro.
 
