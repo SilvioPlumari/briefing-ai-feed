@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 04 May 2026 11:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 11:05:41 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-05</title>
+      <description><![CDATA[# Briefing AI del 4 maggio 2026
+
+Buongiorno Silvio. Oggi tratto sei newsletter principali sull'intelligenza artificiale e la tecnologia, con sviluppi rilevanti per il settore finanziario e la consulenza.
+
+## Newsletter 1: The Rundown AI
+
+Partiamo con The Rundown AI e il tema dei data center oceanici. La startup statunitense Panthalassa ha appena chiuso un round di finanziamento da centoquaranta milioni di dollari guidato da Peter Thiel, il fondatore di PayPal e Palantir. L'azienda con sede in Or...]]></description>
+      <pubDate>Tue, 05 May 2026 11:05:41 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-05-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-05/briefing-2026-05-05.mp3" length="23632800" type="audio/mpeg" />
+      <itunes:duration>20:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-04</title>
       <description><![CDATA[# Briefing AI del 3 maggio 2026
 
