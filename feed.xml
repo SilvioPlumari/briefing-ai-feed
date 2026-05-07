@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 06 May 2026 11:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 11:04:43 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-07</title>
+      <description><![CDATA[# Briefing AI del 6 maggio 2026. Oggi tratto 7 newsletter principali.
+
+Buongiorno Silvio. Iniziamo con gli sviluppi più significativi delle ultime ventiquattro ore nel mondo dell'intelligenza artificiale.
+
+Newsletter uno: The Rundown AI.
+
+Il tema centrale è la partnership tra Anthropic e SpaceX AI, quella che fino a pochi mesi fa sembrava impossibile. Elon Musk aveva definito Anthropic come un'azienda che odia la civiltà occidentale. Oggi invece le affitta l'intero cluster di calcolo Colossus 1....]]></description>
+      <pubDate>Thu, 07 May 2026 11:04:43 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-07-1304</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-07/briefing-2026-05-07.mp3" length="18980160" type="audio/mpeg" />
+      <itunes:duration>16:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-06</title>
       <description><![CDATA[Briefing AI del cinque maggio duemilaventisei. Oggi tratto sette newsletter principali sull'intelligenza artificiale, con sviluppi rilevanti per il settore finanziario e tecnologico.
 
