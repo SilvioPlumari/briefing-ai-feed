@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 07 May 2026 11:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 11:04:51 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-08</title>
+      <description><![CDATA[# Briefing AI del 7 maggio 2026
+
+Briefing AI del sette maggio duemilaventisei. Oggi tratto sei newsletter principali provenienti da fonti tecnologiche e di intelligenza artificiale.
+
+## Newsletter uno: The Rundown AI
+
+La prima newsletter arriva da The Rundown AI e si concentra su un importante aggiornamento di OpenAI per gli agenti vocali. OpenAI ha lanciato tre nuovi modelli API vocali: GPT Realtime due, GPT Realtime Translate e GPT Realtime Whisper. Questi modelli rappresentano un significativ...]]></description>
+      <pubDate>Fri, 08 May 2026 11:04:51 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-08-1304</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-08/briefing-2026-05-08.mp3" length="20099040" type="audio/mpeg" />
+      <itunes:duration>17:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-07</title>
       <description><![CDATA[# Briefing AI del 6 maggio 2026. Oggi tratto 7 newsletter principali.
 
