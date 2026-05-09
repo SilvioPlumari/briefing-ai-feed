@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 08 May 2026 11:04:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 11:04:54 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-09</title>
+      <description><![CDATA[Briefing AI del otto maggio duemilaventisei. Oggi tratto tre newsletter principali.
+
+Newsletter uno: Ben's Builds, un'app email costruita con agenti AI.
+
+Ben, l'autore della newsletter Ben's Bites, ha dedicato questa edizione a raccontare come ha costruito un client email personalizzato usando agenti di intelligenza artificiale AI. Ben utilizzava Superhuman da anni, un'app email premium che costa diverse centinaia di dollari all'anno, ma voleva smettere di pagare per funzionalità che non usava. ...]]></description>
+      <pubDate>Sat, 09 May 2026 11:04:54 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-09-1304</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-09/briefing-2026-05-09.mp3" length="16420800" type="audio/mpeg" />
+      <itunes:duration>14:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-08</title>
       <description><![CDATA[# Briefing AI del 7 maggio 2026
 
