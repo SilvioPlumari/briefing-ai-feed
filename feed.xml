@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 10 May 2026 11:03:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 11:04:15 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-11</title>
+      <description><![CDATA[Briefing AI del 10 maggio 2025. Oggi tratto 4 newsletter principali.
+
+Newsletter uno: Google DeepMind's powerful AI co-mathematician, da The Rundown AI.
+
+Google DeepMind ha appena pubblicato un sistema di intelligenza artificiale progettato come co-matematico per ricercatori umani. Il sistema si basa su Gemini tre punto uno e utilizza un'architettura ad agenti multipli, proprio come gli ambienti di coding AI più avanzati. Un agente coordinatore divide il lavoro di ricerca in flussi paralleli, ci...]]></description>
+      <pubDate>Mon, 11 May 2026 11:04:15 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-11-1304</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-11/briefing-2026-05-11.mp3" length="12931680" type="audio/mpeg" />
+      <itunes:duration>11:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-10</title>
       <description><![CDATA[Briefing AI del ventotto maggio duemilaventisei. Oggi tratto una newsletter principale sul tema critico della revisione del codice generato da intelligenza artificiale.
 
