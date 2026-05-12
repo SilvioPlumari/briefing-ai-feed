@@ -13,8 +13,19 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 11 May 2026 11:04:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 11:06:58 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-12</title>
+      <description><![CDATA[Briefing AI dell'undici maggio duemilaventisei. Oggi tratto sei newsletter principali.
+
+Newsletter uno: The Rundown AI. Il laboratorio Thinking Machines di Mira Murati ha presentato i modelli di interazione, una nuova categoria di intelligenza artificiale progettata per collaborazioni in tempo reale attraverso voce, video e testo. Questa mossa rappresenta una direzione diversa rispetto all'approccio agenziale che domina il settore. I modelli elaborano input in blocchi da duecento millisecondi, p...]]></description>
+      <pubDate>Tue, 12 May 2026 11:06:58 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-12-1306</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-12/briefing-2026-05-12.mp3" length="27700320" type="audio/mpeg" />
+      <itunes:duration>24:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-11</title>
       <description><![CDATA[Briefing AI del 10 maggio 2025. Oggi tratto 4 newsletter principali.
 
