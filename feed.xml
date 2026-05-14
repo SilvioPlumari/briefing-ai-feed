@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 13 May 2026 11:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:05:47 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-14</title>
+      <description><![CDATA[Briefing AI del tredici maggio duemilaventisei. Oggi tratto sette newsletter principali.
+
+Newsletter uno: The Rundown AI. Il titolo è "Il problema enterprise di OpenAI con Anthropic sta crescendo".
+
+Anthropic ha superato per la prima volta OpenAI nell'adozione enterprise secondo i dati di spesa pubblicati da Ramp. L'azienda fintech che traccia pagamenti aziendali di oltre cinquantamila business statunitensi ha mostrato che Anthropic ha raggiunto il trentaquattro virgola quattro percento di adozi...]]></description>
+      <pubDate>Thu, 14 May 2026 11:05:47 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-14-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-14/briefing-2026-05-14.mp3" length="22213440" type="audio/mpeg" />
+      <itunes:duration>19:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-13</title>
       <description><![CDATA[Briefing AI del 12 maggio 2026. Oggi tratto 6 newsletter principali sull'intelligenza artificiale.
 
