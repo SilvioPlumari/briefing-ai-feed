@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 19 May 2026 11:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 11:07:01 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-21</title>
+      <description><![CDATA[Briefing AI del venti maggio duemilaventisei. Oggi tratto tredici newsletter principali.
+
+Newsletter uno: The Rundown AI, OpenAI cracks an 80-year math belief.
+
+OpenAI ha annunciato che un suo modello di ragionamento interno ha dimostrato falsa una teoria matematica di ottant'anni fa legata al problema della distanza unitaria di Erdős del millenovecentoquarantasei. Il problema chiedeva quanti collegamenti di uguale lunghezza si possono disegnare tra punti, e per ottant'anni una teoria basata su ...]]></description>
+      <pubDate>Thu, 21 May 2026 11:07:01 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-21-1307</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-21/briefing-2026-05-21.mp3" length="27331680" type="audio/mpeg" />
+      <itunes:duration>24:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-19</title>
       <description><![CDATA[Briefing AI del diciotto maggio duemilaventisei. Oggi tratto undici newsletter principali sull'intelligenza artificiale.
 
