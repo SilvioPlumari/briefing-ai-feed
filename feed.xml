@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 21 May 2026 11:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 11:04:21 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-22</title>
+      <description><![CDATA[# Briefing AI del 21 maggio 2026
+
+Buongiorno Silvio, sono le sette di mattina. Briefing intelligenza artificiale del ventuno maggio duemilaventisei. Oggi tratto sette newsletter principali con sviluppi significativi dal settore tech e intelligenza artificiale.
+
+Newsletter uno: The Rundown AI con intervista esclusiva a Sundar Pichai.
+
+The Rundown ha pubblicato un'intervista esclusiva con Sundar Pichai, amministratore delegato di Google, durante la conferenza I/O duemilaventisei. Pichai ha dichiar...]]></description>
+      <pubDate>Fri, 22 May 2026 11:04:21 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-22-1304</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-22/briefing-2026-05-22.mp3" length="15878400" type="audio/mpeg" />
+      <itunes:duration>14:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-21</title>
       <description><![CDATA[Briefing AI del venti maggio duemilaventisei. Oggi tratto tredici newsletter principali.
 
