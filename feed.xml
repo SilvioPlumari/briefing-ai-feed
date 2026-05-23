@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 22 May 2026 11:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 11:02:41 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-23</title>
+      <description><![CDATA[Briefing AI del ventidue maggio duemilaventisei. Oggi tratto una newsletter principale da The Information.
+
+Newsletter uno: The Information AM.
+
+Cominciamo con le notizie più rilevanti dal mondo della tecnologia e dell'intelligenza artificiale AI. La newsletter di oggi porta diverse storie significative, a partire da OpenAI e i suoi piani per la quotazione in borsa.
+
+Sam Altman, amministratore delegato di OpenAI, ha parlato mercoledì con tutto il personale dell'azienda riguardo ai tempi della po...]]></description>
+      <pubDate>Sat, 23 May 2026 11:02:41 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-23-1302</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-23/briefing-2026-05-23.mp3" length="12291840" type="audio/mpeg" />
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-22</title>
       <description><![CDATA[# Briefing AI del 21 maggio 2026
 
