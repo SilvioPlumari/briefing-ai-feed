@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 23 May 2026 11:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 11:04:14 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-25</title>
+      <description><![CDATA[Briefing AI del ventitré maggio duemilaventisei. Oggi tratto tre newsletter principali.
+
+Newsletter uno: The Rundown AI, titolo "Google cracks decades-old math problems".
+
+Google DeepMind ha annunciato che il suo sistema di intelligenza artificiale chiamato AlphaProof Nexus ha risolto autonomamente nove problemi matematici aperti di Erdős, considerati tra le questioni più difficili e irrisolte della matematica. Questi problemi erano rimasti senza soluzione per decenni, due di essi addirittura pe...]]></description>
+      <pubDate>Mon, 25 May 2026 11:04:14 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-25-1304</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-25/briefing-2026-05-25.mp3" length="17119200" type="audio/mpeg" />
+      <itunes:duration>15:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-23</title>
       <description><![CDATA[Briefing AI del ventidue maggio duemilaventisei. Oggi tratto una newsletter principale da The Information.
 
