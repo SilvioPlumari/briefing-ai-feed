@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 26 May 2026 11:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 11:06:58 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-27</title>
+      <description><![CDATA[# Briefing AI del 26 maggio 2026
+
+Briefing AI del ventisei maggio duemilaventisei. Oggi tratto sette newsletter principali sull'intelligenza artificiale.
+
+Newsletter numero uno: The Rundown AI.
+
+Il CEO di Google DeepMind, Demis Hassabis, prevede l'arrivo dell'intelligenza artificiale generale AGI entro il duemilatrenta, con un margine di più o meno un anno. In un'intervista esclusiva rilasciata durante la conferenza Google I/O, Hassabis ha dichiarato di essere più fiducioso che mai sul fatto che...]]></description>
+      <pubDate>Wed, 27 May 2026 11:06:58 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-27-1306</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-27/briefing-2026-05-27.mp3" length="21342720" type="audio/mpeg" />
+      <itunes:duration>18:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-26</title>
       <description><![CDATA[# Briefing AI del 25 maggio 2026
 
