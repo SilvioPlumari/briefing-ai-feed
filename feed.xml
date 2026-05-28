@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 27 May 2026 11:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:07:37 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-28</title>
+      <description><![CDATA[# Briefing AI del 27 maggio 2026
+
+Briefing AI del ventisette maggio duemilaventisei. Oggi tratto sei newsletter principali.
+
+Newsletter uno: The Rundown AI. Il titolo di oggi è "Il momento biologico dell'intelligenza artificiale di Zuckerberg".
+
+Biohub, l'organizzazione no-profit sostenuta da Mark Zuckerberg e Priscilla Chan attraverso la Chan Zuckerberg Initiative, ha rilasciato quello che definisce un modello mondiale della biologia delle proteine. Si tratta di una piattaforma open source chia...]]></description>
+      <pubDate>Thu, 28 May 2026 11:07:37 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-28-1307</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-28/briefing-2026-05-28.mp3" length="25546080" type="audio/mpeg" />
+      <itunes:duration>22:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-27</title>
       <description><![CDATA[# Briefing AI del 26 maggio 2026
 
