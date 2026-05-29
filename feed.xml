@@ -13,8 +13,19 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Thu, 28 May 2026 11:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 11:05:34 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-29</title>
+      <description><![CDATA[Briefing AI del ventotto maggio duemilaventisei. Oggi tratto sette newsletter principali sul mondo dell'intelligenza artificiale.
+
+Newsletter uno: The Rundown AI. Anthropic ha superato OpenAI sia tecnologicamente che sul mercato. L'azienda ha lanciato Claude Opus quattro punto otto, un modello che batte GPT cinque punto cinque e Gemini tre punto uno Pro su quasi tutti i benchmark principali, inclusi coding autonomo, analisi finanziaria e computer use. Il modello costa quanto la versione quattro ...]]></description>
+      <pubDate>Fri, 29 May 2026 11:05:34 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-29-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-29/briefing-2026-05-29.mp3" length="20444160" type="audio/mpeg" />
+      <itunes:duration>18:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-28</title>
       <description><![CDATA[# Briefing AI del 27 maggio 2026
 
