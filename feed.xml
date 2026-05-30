@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 29 May 2026 11:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 11:05:28 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-05-30</title>
+      <description><![CDATA[Briefing AI del ventinove maggio duemilaventisei. Oggi tratto quattro newsletter principali.
+
+Newsletter uno: The Information Briefing, con focus sull'esplosione del razzo New Glenn di Blue Origin e le implicazioni per SpaceX.
+
+Giovedì sera si è verificato un incidente gravissimo per Blue Origin, l'azienda spaziale di Jeff Bezos. Il razzo New Glenn è esploso sulla rampa di lancio in Florida durante un test dei motori. L'esplosione ha completamente distrutto l'unico sito di lancio disponibile per...]]></description>
+      <pubDate>Sat, 30 May 2026 11:05:28 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-05-30-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-05-30/briefing-2026-05-30.mp3" length="17405760" type="audio/mpeg" />
+      <itunes:duration>15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-29</title>
       <description><![CDATA[Briefing AI del ventotto maggio duemilaventisei. Oggi tratto sette newsletter principali sul mondo dell'intelligenza artificiale.
 
