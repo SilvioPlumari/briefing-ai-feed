@@ -13,8 +13,21 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 30 May 2026 11:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 11:05:03 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-06-01</title>
+      <description><![CDATA[Briefing AI del trentuno maggio duemilaventisei. Oggi tratto tre newsletter principali.
+
+Newsletter uno: The Rundown AI. Titolo: l'intelligenza artificiale AI punta al vostro appartamento come prossimo dataset.
+
+La notizia principale riguarda una startup tedesca chiamata MicroAGI che ha lanciato a New York un servizio di pulizia domestica completamente gratuito. Il meccanismo è il seguente: l'azienda invia addetti alle pulizie dotati di telecamere montate sulla testa che registrano l'intero proc...]]></description>
+      <pubDate>Mon, 01 Jun 2026 11:05:03 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-06-01-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-06-01/briefing-2026-06-01.mp3" length="16404480" type="audio/mpeg" />
+      <itunes:duration>14:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-05-30</title>
       <description><![CDATA[Briefing AI del ventinove maggio duemilaventisei. Oggi tratto quattro newsletter principali.
 
