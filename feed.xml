@@ -13,8 +13,23 @@
     </itunes:owner>
     <itunes:category text="Technology" />
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 01 Jun 2026 11:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 11:05:52 GMT</lastBuildDate>
     <item>
+      <title>Briefing AI - 2026-06-02</title>
+      <description><![CDATA[# Briefing AI del primo giugno duemilaventisei
+
+Briefing AI del primo giugno duemilaventisei. Oggi tratto cinque newsletter principali.
+
+**Newsletter uno: The Rundown AI - Nvidia domina lo stack degli agenti AI**
+
+Nvidia ha fatto annunci importanti alla conferenza COMPUTEX a Taiwan. L'amministratore delegato Jensen Huang ha aperto dichiarando che l'era degli agenti di intelligenza artificiale AI è arrivata, e l'azienda ha presentato prodotti che coprono l'intera filiera tecnologica per supportar...]]></description>
+      <pubDate>Tue, 02 Jun 2026 11:05:52 GMT</pubDate>
+      <guid isPermaLink="false">briefing-2026-06-02-1305</guid>
+      <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/briefing-2026-06-02/briefing-2026-06-02.mp3" length="22002720" type="audio/mpeg" />
+      <itunes:duration>19:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+<item>
       <title>Briefing AI - 2026-06-01</title>
       <description><![CDATA[Briefing AI del trentuno maggio duemilaventisei. Oggi tratto tre newsletter principali.
 
