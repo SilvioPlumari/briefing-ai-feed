@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 03 Jun 2026 16:11:04 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 03 Jun 2026 16:24:55 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-03</title>
+        <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha appena tenuto la sua conferenza Build e il messaggio è chiarissimo: basta fare da megafono per OpenAI, da oggi facciamo da soli. Sette nuovi modelli proprietari, un agente autonomo che gira su Teams, persino un chip quantistico progettato con l'aiuto dell'AI. È la prima volta che vediamo Microsoft davvero indipendente nella sua strategia di intelligenza artificiale.
+
+Partiamo dai modelli. Si chiamano MAI, Microsoft AI, e copron...]]></description>
+        <pubDate>Wed, 03 Jun 2026 16:24:55 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-03-1824</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1M9JkiRnvCdO2-01ajQ0c1G62D0P8FtgD" length="11426880"
+  type="audio/mpeg" />
+        <itunes:duration>10:12</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha deciso di smettere di fare la spalla di OpenAI e oggi vi racconto come.
 
@@ -29,7 +41,7 @@ Partiamo dalla vera bomba: Microsoft Build duemilaventisei. Redmond ha lanciato 
         <itunes:duration>9:00</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha appena presentato sette nuovi modelli proprietari, il suo primo agente autonomo e perfino un chip quantistico. Per la prima volta dopo anni, non sembra più il megafono di OpenAI ma una casa tecnologica con una sua strada nell'intelligenza artificiale.
 
