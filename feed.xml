@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 03 Jun 2026 15:18:22 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 03 Jun 2026 15:43:34 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-03</title>
+        <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha deciso di giocare in proprio: sette nuovi modelli, un agente autonomo, e un chip quantistico che potrebbe funzionare già nel duemilanoveventinove. Per anni hanno fatto da distributore per OpenAI, adesso vogliono scrivere da soli la loro storia nell'era degli agenti.
+
+Partiamo dalla conferenza Build, che è stata un festival di annunci. Microsoft AI ha rilasciato sette modelli proprietari: ragionamento, coding, immagini, voce, tr...]]></description>
+        <pubDate>Wed, 03 Jun 2026 15:43:34 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-03-1743</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tFTJH2tHMqclJ1jygPmkeb_2M92vIMx7" length="11076480"
+  type="audio/mpeg" />
+        <itunes:duration>9:56</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha deciso che non vuole più essere solo il megafono di OpenAI. Alla conferenza Build ha sganciato sette nuovi modelli fatti in casa, un agente autonomo che lavora sempre attivo, e persino un chip quantistico. Il messaggio è chiaro: stiamo costruendo la nostra strada nell'era degli agenti.
 
@@ -29,7 +41,7 @@ Partiamo proprio da Build. Microsoft rilascia sette modelli della famiglia MAI, 
         <itunes:duration>9:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, qui AI Espresso, il podcast quotidiano sull'intelligenza artificiale. Oggi è mercoledì 3 giugno 2026. Anthropic ha appena triplicato l'accesso al suo modello di cybersecurity più potente, quello che finora teneva blindato per paura che finisse nelle mani sbagliate. E non è l'unica mossa importante di oggi nel mondo AI.
 
