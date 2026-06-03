@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Briefing AI Daily - Silvio</title>
-    <link>https://SilvioPlumari.github.io/briefing-ai-feed/</link>
-    <language>it-IT</language>
-    <description>Briefing quotidiano automatizzato delle newsletter AI per Silvio Plumari, consulente finanziario presso Blue Ocean Finance.</description>
-    <itunes:author>Silvio Plumari</itunes:author>
-    <itunes:summary>Briefing AI quotidiano</itunes:summary>
-    <itunes:owner>
-      <itunes:name>Silvio Plumari</itunes:name>
-      <itunes:email>newsle212@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Technology" />
-    <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Wed, 03 Jun 2026 11:06:19 GMT</lastBuildDate>
-    <item>
+  <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+      <title>AI Espresso - Silvio</title>
+      <link>https://SilvioPlumari.github.io/briefing-ai-feed/</link>
+      <language>it-IT</language>
+      <description>AI Espresso: il podcast quotidiano sull'intelligenza
+  artificiale per professionisti della finanza. A cura di Silvio Plumari, Blue
+  Ocean Finance.</description>
+      <itunes:author>Silvio Plumari</itunes:author>
+      <itunes:summary>Podcast quotidiano AI per professionisti della
+  finanza</itunes:summary>
+      <itunes:owner>
+        <itunes:name>Silvio Plumari</itunes:name>
+        <itunes:email>newsle212@gmail.com</itunes:email>
+      </itunes:owner>
+      <itunes:category text="Technology" />
+      <itunes:explicit>false</itunes:explicit>
+      <lastBuildDate>Wed, 03 Jun 2026 14:47:37 GMT</lastBuildDate>
+      <item>
+        <title>AI Espresso - 2026-06-03</title>
+        <description><![CDATA[Buongiorno, qui AI Espresso, il podcast quotidiano sull'intelligenza artificiale. Oggi è mercoledì 3 giugno 2026. Anthropic ha appena triplicato l'accesso al suo modello di cybersecurity più potente, quello che finora teneva blindato per paura che finisse nelle mani sbagliate. E non è l'unica mossa importante di oggi nel mondo AI.
+
+Partiamo dalla notizia che ha fatto più rumore stamattina. Anthropic sta espandendo il suo Project Glasswing a centocinquanta nuove organizzazioni. Per chi non lo con...]]></description>
+        <pubDate>Wed, 03 Jun 2026 14:47:37 GMT</pubDate>
+        <guid isPermaLink="false">briefing-2026-06-03-1647</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KDhgPODT87OFbE45M-y8pNnFspMlQzoM" length="13585920"
+  type="audio/mpeg" />
+        <itunes:duration>12:06</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
       <title>Briefing AI - 2026-06-03</title>
       <description><![CDATA[# Briefing AI del 2 giugno 2026
 
@@ -409,5 +425,5 @@ Ben Tossell dedica l'apertura al padre Matthew, che si ritira dopo quarantatré 
       <itunes:duration>24:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-  </channel>
-</rss>
+    </channel>
+  </rss>
