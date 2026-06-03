@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 03 Jun 2026 15:43:34 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 03 Jun 2026 15:53:04 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-03</title>
+        <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha appena presentato sette nuovi modelli proprietari, il suo primo agente autonomo e perfino un chip quantistico. Per la prima volta dopo anni, non sembra più il megafono di OpenAI ma una casa tecnologica con una sua strada nell'intelligenza artificiale.
+
+Partiamo da Build, la conferenza sviluppatori di Microsoft. Hanno lanciato la famiglia MAI, sette modelli interni che coprono ragionamento, codice, immagini, voce e trascrizione....]]></description>
+        <pubDate>Wed, 03 Jun 2026 15:53:04 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-03-1753</guid>
+        <enclosure url="https://drive.google.com/uc?export=download&amp;id=19wlMHm3VnPYwosrBQeXTZHivx5N2HXjN" length="6756000"
+  type="audio/mpeg" />
+        <itunes:duration>6:04</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha deciso di giocare in proprio: sette nuovi modelli, un agente autonomo, e un chip quantistico che potrebbe funzionare già nel duemilanoveventinove. Per anni hanno fatto da distributore per OpenAI, adesso vogliono scrivere da soli la loro storia nell'era degli agenti.
 
@@ -29,7 +41,7 @@ Partiamo dalla conferenza Build, che è stata un festival di annunci. Microsoft 
         <itunes:duration>9:56</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha deciso che non vuole più essere solo il megafono di OpenAI. Alla conferenza Build ha sganciato sette nuovi modelli fatti in casa, un agente autonomo che lavora sempre attivo, e persino un chip quantistico. Il messaggio è chiaro: stiamo costruendo la nostra strada nell'era degli agenti.
 
