@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 03 Jun 2026 16:24:55 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 04 Jun 2026 11:05:46 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-04</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 3 giugno 2026. Anthropic ha appena lanciato Opus 4.8 e ha quadruplicato il numero di aziende che possono usare i suoi modelli per la cybersecurity. Due mosse che dicono molto su dove sta andando l'AI.
+
+Partiamo da Opus 4.8. Anthropic dice che è il nuovo modello di punta, ottimizzato per coding e task agentici. Ma la cosa interessante non è la potenza bruta, è l'honesty. Secondo i loro test, questo modello è quattro volte meno incline a lasciar passare errori nel codic...]]></description>
+        <pubDate>Thu, 04 Jun 2026 11:05:46 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-04-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-04/ai-espresso-2026-06-04.mp3" length="12005760"
+  type="audio/mpeg" />
+        <itunes:duration>10:43</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha appena tenuto la sua conferenza Build e il messaggio è chiarissimo: basta fare da megafono per OpenAI, da oggi facciamo da soli. Sette nuovi modelli proprietari, un agente autonomo che gira su Teams, persino un chip quantistico progettato con l'aiuto dell'AI. È la prima volta che vediamo Microsoft davvero indipendente nella sua strategia di intelligenza artificiale.
 
@@ -29,7 +41,7 @@ Partiamo dai modelli. Si chiamano MAI, Microsoft AI, e copron...]]></description
         <itunes:duration>10:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha deciso di smettere di fare la spalla di OpenAI e oggi vi racconto come.
 
