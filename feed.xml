@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 04 Jun 2026 11:05:46 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 05 Jun 2026 11:07:05 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-05</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 4 giugno 2026
+
+Buongiorno, AI Espresso del quattro giugno duemilaventisei. Oggi parliamo di AI che si costruisce da sola, di fatture che esplodono, e di SpaceX che chiede più soldi di tutti nella storia. Partiamo.
+
+Anthropic ha pubblicato un report che francamente fa riflettere. Si chiama "When AI builds itself" e dice una cosa semplice: i modelli AI stanno già accelerando lo sviluppo dei loro successori. Più dell'ottanta percento del codice che Anthropic ha integra...]]></description>
+        <pubDate>Fri, 05 Jun 2026 11:07:05 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-05-1307</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-05/ai-espresso-2026-06-05.mp3" length="21378720"
+  type="audio/mpeg" />
+        <itunes:duration>19:05</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-04</title>
         <description><![CDATA[Buongiorno, AI Espresso del 3 giugno 2026. Anthropic ha appena lanciato Opus 4.8 e ha quadruplicato il numero di aziende che possono usare i suoi modelli per la cybersecurity. Due mosse che dicono molto su dove sta andando l'AI.
 
@@ -29,7 +43,7 @@ Partiamo da Opus 4.8. Anthropic dice che è il nuovo modello di punta, ottimizza
         <itunes:duration>10:43</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre giugno duemilaventisei. Microsoft ha appena tenuto la sua conferenza Build e il messaggio è chiarissimo: basta fare da megafono per OpenAI, da oggi facciamo da soli. Sette nuovi modelli proprietari, un agente autonomo che gira su Teams, persino un chip quantistico progettato con l'aiuto dell'AI. È la prima volta che vediamo Microsoft davvero indipendente nella sua strategia di intelligenza artificiale.
 
