@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 05 Jun 2026 11:07:05 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 06 Jun 2026 11:04:27 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-06</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 5 giugno 2026. Satya Nadella incazzato nero, Switch che vale quanto una piccola nazione, e un test di realtà brutale per chi pensa di essere avanti con l'AI. Partiamo.
+
+Prima notizia, grossa. Microsoft, casino interno. Un vice presidente, Omar Shahine, scrive un memo dove dice che vogliono rendere le persone "dipendenti" dai loro agenti AI, nello specifico Scout, il nuovo prodotto basato su OpenClaw che hanno annunciato martedì alla conferenza Build. Il piano prevedev...]]></description>
+        <pubDate>Sat, 06 Jun 2026 11:04:27 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-06-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-06/ai-espresso-2026-06-06.mp3" length="11376960"
+  type="audio/mpeg" />
+        <itunes:duration>10:11</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-05</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 4 giugno 2026
 
@@ -31,7 +43,7 @@ Anthropic ha pubblicato un report che francamente fa riflettere. Si chiama "When
         <itunes:duration>19:05</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-04</title>
         <description><![CDATA[Buongiorno, AI Espresso del 3 giugno 2026. Anthropic ha appena lanciato Opus 4.8 e ha quadruplicato il numero di aziende che possono usare i suoi modelli per la cybersecurity. Due mosse che dicono molto su dove sta andando l'AI.
 
