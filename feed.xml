@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 06 Jun 2026 11:04:27 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 07 Jun 2026 11:04:12 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-07</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 29 maggio 2026. Oggi parliamo di una cosa che il novanta per cento degli sviluppatori AI sta ancora facendo a mano, mentre gli ingegneri di Anthropic hanno smesso un mese fa.
+
+Il modello è diventato commodity. Il vero vantaggio competitivo è il sistema che ci costruisci intorno. Lo ha detto Marc Andreessen ai partner di a16z a gennaio. Lo ha ribadito Dario Amodei a Davos. Lo ha confermato Demis Hassabis a maggio. Nel 2026 la difesa competitiva non sta nel modello, sta...]]></description>
+        <pubDate>Sun, 07 Jun 2026 11:04:12 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-07-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-07/ai-espresso-2026-06-07.mp3" length="6021600"
+  type="audio/mpeg" />
+        <itunes:duration>5:24</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-06</title>
         <description><![CDATA[Buongiorno, AI Espresso del 5 giugno 2026. Satya Nadella incazzato nero, Switch che vale quanto una piccola nazione, e un test di realtà brutale per chi pensa di essere avanti con l'AI. Partiamo.
 
@@ -29,7 +41,7 @@ Prima notizia, grossa. Microsoft, casino interno. Un vice presidente, Omar Shahi
         <itunes:duration>10:11</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-05</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 4 giugno 2026
 
