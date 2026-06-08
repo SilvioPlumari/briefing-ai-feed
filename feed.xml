@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 07 Jun 2026 11:04:12 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 08 Jun 2026 11:04:21 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-08</title>
+        <description><![CDATA[Buongiorno, AI Espresso del sette giugno duemilaventisei. OpenAI potrebbe finire in parte nelle mani dello stato americano, e la cosa fa discutere più di quanto pensiate.
+
+Partiamo dalla notizia grossa. La Casa Bianca e OpenAI stanno discutendo di dare al governo federale una quota dell'azienda. Non è fantapolitica: si parla di una percentuale tra l'uno e il cinque percento, con le azioni che finirebbero in un fondo sovrano pensato per redistribuire i guadagni dell'AI agli americani. Sam Altman ...]]></description>
+        <pubDate>Mon, 08 Jun 2026 11:04:21 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-08-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-08/ai-espresso-2026-06-08.mp3" length="9934560"
+  type="audio/mpeg" />
+        <itunes:duration>8:55</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-07</title>
         <description><![CDATA[Buongiorno, AI Espresso del 29 maggio 2026. Oggi parliamo di una cosa che il novanta per cento degli sviluppatori AI sta ancora facendo a mano, mentre gli ingegneri di Anthropic hanno smesso un mese fa.
 
@@ -29,7 +41,7 @@ Il modello è diventato commodity. Il vero vantaggio competitivo è il sistema c
         <itunes:duration>5:24</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-06</title>
         <description><![CDATA[Buongiorno, AI Espresso del 5 giugno 2026. Satya Nadella incazzato nero, Switch che vale quanto una piccola nazione, e un test di realtà brutale per chi pensa di essere avanti con l'AI. Partiamo.
 
