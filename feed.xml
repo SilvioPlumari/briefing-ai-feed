@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 12 Jun 2026 11:04:39 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 13 Jun 2026 11:05:09 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-13</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 13 giugno 2026. E niente, oggi SpaceX inizia a quotarsi in borsa e tutto il mercato tech si chiede quanto durerà il rally. Ma andiamo con ordine.
+
+Partiamo proprio da SpaceX. IPO ufficialmente prezzata a centotrentacinque dollari per azione, esattamente il prezzo che avevano annunciato, senza negoziazione. Una mossa che ha ribaltato completamente le regole di Wall Street, dove di solito si parte con un range e poi si aggiusta. Elon Musk ha fatto il suo solito gioco: p...]]></description>
+        <pubDate>Sat, 13 Jun 2026 11:05:09 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-13-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-13/ai-espresso-2026-06-13.mp3" length="11172960"
+  type="audio/mpeg" />
+        <itunes:duration>9:57</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-12</title>
         <description><![CDATA[Buongiorno, AI Espresso del dodici giugno duemilaventisei. Jeff Bezos esce allo scoperto con Prometheus, dodici miliardi di dollari freschi e un obiettivo ambizioso: costruire un ingegnere artificiale generale che progetta motori a reazione, turbine, macchinari complessi. Non un assistente, un ingegnere vero.
 
@@ -29,7 +41,7 @@ Partiamo proprio da qui. Prometheus non è più solo un nome che girava sottotra
         <itunes:duration>11:23</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-11</title>
         <description><![CDATA[Buongiorno, AI Espresso del dieci giugno ventiventisei. Anthropic ha lanciato Claude Fable Cinque e Washington si è svegliata con una lettera che paragona i regolatori ad alberi che parlano. Cominciamo.
 
