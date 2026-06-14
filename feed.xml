@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 13 Jun 2026 11:05:09 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 14 Jun 2026 11:03:43 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-14</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 13 giugno. E oggi si parte con la bomba: per la prima volta nella storia, il governo americano ha fatto spegnere un modello di intelligenza artificiale già pubblico. Tre giorni dopo il lancio, Anthropic ha dovuto staccare la spina a Fable 5 e Mythos 5. E la storia è un casino totale.
+
+Andiamo in ordine. Nove giugno: Anthropic lancia Fable 5, il primo modello pubblico della famiglia Mythos, quella top di gamma. Stesso giorno lancia anche Mythos 5 per clienti enterprise...]]></description>
+        <pubDate>Sun, 14 Jun 2026 11:03:43 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-14-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-14/ai-espresso-2026-06-14.mp3" length="9305760"
+  type="audio/mpeg" />
+        <itunes:duration>8:21</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-13</title>
         <description><![CDATA[Buongiorno, AI Espresso del 13 giugno 2026. E niente, oggi SpaceX inizia a quotarsi in borsa e tutto il mercato tech si chiede quanto durerà il rally. Ma andiamo con ordine.
 
@@ -29,7 +41,7 @@ Partiamo proprio da SpaceX. IPO ufficialmente prezzata a centotrentacinque dolla
         <itunes:duration>9:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-12</title>
         <description><![CDATA[Buongiorno, AI Espresso del dodici giugno duemilaventisei. Jeff Bezos esce allo scoperto con Prometheus, dodici miliardi di dollari freschi e un obiettivo ambizioso: costruire un ingegnere artificiale generale che progetta motori a reazione, turbine, macchinari complessi. Non un assistente, un ingegnere vero.
 
