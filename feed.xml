@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 14 Jun 2026 11:03:43 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 15 Jun 2026 11:04:38 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-15</title>
+        <description><![CDATA[Buongiorno, AI Espresso del quattordici giugno duemilaventisei. Anthropic ha appena vissuto la settimana più imbarazzante della sua storia: l'azienda che si vende come campione della sicurezza AI è stata costretta dal governo americano a bloccare i suoi due modelli più potenti, Mythos e Fable 5, in tutto il mondo.
+
+Andiamo ai fatti. L'amministrazione ha emesso un ordine di controllo all'export dopo che è emersa una vulnerabilità nei modelli. Anthropic dice che si tratta di un jailbreak minore, n...]]></description>
+        <pubDate>Mon, 15 Jun 2026 11:04:38 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-15-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-15/ai-espresso-2026-06-15.mp3" length="12135840"
+  type="audio/mpeg" />
+        <itunes:duration>10:49</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-14</title>
         <description><![CDATA[Buongiorno, AI Espresso del 13 giugno. E oggi si parte con la bomba: per la prima volta nella storia, il governo americano ha fatto spegnere un modello di intelligenza artificiale già pubblico. Tre giorni dopo il lancio, Anthropic ha dovuto staccare la spina a Fable 5 e Mythos 5. E la storia è un casino totale.
 
@@ -29,7 +41,7 @@ Andiamo in ordine. Nove giugno: Anthropic lancia Fable 5, il primo modello pubbl
         <itunes:duration>8:21</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-13</title>
         <description><![CDATA[Buongiorno, AI Espresso del 13 giugno 2026. E niente, oggi SpaceX inizia a quotarsi in borsa e tutto il mercato tech si chiede quanto durerà il rally. Ma andiamo con ordine.
 
