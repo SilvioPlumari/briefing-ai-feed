@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 18 Jun 2026 11:05:09 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Jun 2026 11:05:01 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-19</title>
+        <description><![CDATA[Buongiorno, AI Espresso del diciotto giugno duemilaventisei. Midjourney, quella che fino a ieri faceva solo immagini con l'AI, ha appena presentato uno scanner medico per il corpo intero. E non è uno scherzo.
+
+Partiamo da qui perché è la notizia più folle della giornata. David Holz, fondatore di Midjourney, ha svelato il Midjourney Scanner: un dispositivo che ti fa scendere lentamente in un anello d'acqua pieno di sensori a ultrasuoni. In sessanta secondi ti mappa tutto il corpo dall'interno. Ho...]]></description>
+        <pubDate>Fri, 19 Jun 2026 11:05:01 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-19-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-19/ai-espresso-2026-06-19.mp3" length="11986560"
+  type="audio/mpeg" />
+        <itunes:duration>10:40</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-18</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciassette giugno duemilaventisei. Partiamo subito perché oggi c'è parecchio da dire, a cominciare dalla situazione più tesa: l'amministrazione Trump ha bloccato i modelli più potenti di Anthropic, e la storia si sta facendo sempre più complicata.
 
@@ -29,7 +41,7 @@ Allora, Mythos e Fable, i due modelli di punta di Anthropic, restano offline. Il
         <itunes:duration>11:38</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-17</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 16 giugno 2026
 
