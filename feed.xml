@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 20 Jun 2026 11:03:30 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 21 Jun 2026 11:03:17 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-21</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 14 maggio 2025. Oggi parliamo di qualcosa che sta cambiando il modo in cui le aziende vendono: agenti AI che gestiscono l'intero processo di go-to-market al posto vostro.
+
+Allora, partiamo dai fatti. C'è un caso studio che sta facendo rumore: Carles Reina è entrato in ElevenLabs come dipendente numero quattro e ha costruito una macchina di go-to-market che ha portato l'azienda a cinquecento milioni di dollari di fatturato. Niente male, no? Ma la vera notizia è che il ...]]></description>
+        <pubDate>Sun, 21 Jun 2026 11:03:17 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-21-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-21/ai-espresso-2026-06-21.mp3" length="6695040"
+  type="audio/mpeg" />
+        <itunes:duration>6:01</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-20</title>
         <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di una confusione che sta costando soldi veri: tutti vogliono un agente AI, ma quasi nessuno ne ha davvero bisogno.
 
@@ -30,7 +42,7 @@ Partiamo dal problema. Il tuo amico ti racconta entusiasta che si è fatto un ag
         <itunes:duration>6:36</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-19</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciotto giugno duemilaventisei. Midjourney, quella che fino a ieri faceva solo immagini con l'AI, ha appena presentato uno scanner medico per il corpo intero. E non è uno scherzo.
 
