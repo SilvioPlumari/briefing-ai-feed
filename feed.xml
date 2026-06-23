@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 22 Jun 2026 11:04:02 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 23 Jun 2026 11:05:50 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-23</title>
+        <description><![CDATA[# AI Espresso del 22 giugno 2026
+
+Buongiorno, AI Espresso del ventidue giugno. Apriamo con un terremoto nel panorama degli investimenti tech: SpaceX crolla in borsa mentre Tesla sale, e gli investitori si chiedono quale sia la scommessa migliore su Elon Musk.
+
+Partiamo proprio da qui. Le azioni SpaceX sono scese del sedici per cento in un solo giorno, portandosi a centocinquantaquattro dollari e sessanta. Terzo giorno consecutivo di ribasso dopo il debutto in borsa. Intanto Tesla sale dell'uno p...]]></description>
+        <pubDate>Tue, 23 Jun 2026 11:05:50 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-23-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-23/ai-espresso-2026-06-23.mp3" length="16648320"
+  type="audio/mpeg" />
+        <itunes:duration>14:53</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-22</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventuno giugno duemilaventisei. Google DeepMind perde pezzi pregiati e questa volta fa ancora più male.
 
@@ -29,7 +43,7 @@ John Jumper, premio Nobel per la chimica grazie ad AlphaFold, lascia Google Deep
         <itunes:duration>7:38</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-21</title>
         <description><![CDATA[Buongiorno, AI Espresso del 14 maggio 2025. Oggi parliamo di qualcosa che sta cambiando il modo in cui le aziende vendono: agenti AI che gestiscono l'intero processo di go-to-market al posto vostro.
 
