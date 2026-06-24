@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 23 Jun 2026 11:05:50 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 24 Jun 2026 11:04:55 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-24</title>
+        <description><![CDATA[Buongiorno, AI Espresso del ventitré giugno. Anthropic porta Claude dentro Slack e non è un semplice bot: è un collega che taggeri, che lavora in autonomia, che segue i thread e si ricorda cosa sta succedendo. Lo chiamano Claude Tag e potrebbe mandare a casa mezza startup che vende agenti aziendali.
+
+Partiamo da qui perché è grossa. Claude Tag non è il solito assistente che risponde quando lo chiami. Lo tagghi in un canale, gli dai un task, lui lo spezzetta in step, usa gli strumenti che gli hai...]]></description>
+        <pubDate>Wed, 24 Jun 2026 11:04:55 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-24-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-24/ai-espresso-2026-06-24.mp3" length="13940160"
+  type="audio/mpeg" />
+        <itunes:duration>12:27</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-23</title>
         <description><![CDATA[# AI Espresso del 22 giugno 2026
 
@@ -31,7 +43,7 @@ Partiamo proprio da qui. Le azioni SpaceX sono scese del sedici per cento in un 
         <itunes:duration>14:53</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-22</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventuno giugno duemilaventisei. Google DeepMind perde pezzi pregiati e questa volta fa ancora più male.
 
