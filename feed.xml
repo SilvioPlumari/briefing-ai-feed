@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 24 Jun 2026 11:04:55 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 25 Jun 2026 11:05:18 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-25</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 24 giugno 2026. 
+
+OpenAI ha appena svelato il suo primo chip personalizzato e il messaggio è chiaro: basta dipendere solo da Nvidia.
+
+Partiamo da questa. Il chip si chiama Jalapeño, nome piccante per un progetto grosso. È stato progettato insieme a Broadcom in appena nove mesi, cosa che OpenAI definisce il ciclo di sviluppo più veloce mai realizzato per un chip di questo tipo. E qui viene il bello: i loro stessi modelli di intelligenza artificiale hanno aiutato a pr...]]></description>
+        <pubDate>Thu, 25 Jun 2026 11:05:18 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-25-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-25/ai-espresso-2026-06-25.mp3" length="14627520"
+  type="audio/mpeg" />
+        <itunes:duration>12:57</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-24</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventitré giugno. Anthropic porta Claude dentro Slack e non è un semplice bot: è un collega che taggeri, che lavora in autonomia, che segue i thread e si ricorda cosa sta succedendo. Lo chiamano Claude Tag e potrebbe mandare a casa mezza startup che vende agenti aziendali.
 
@@ -29,7 +43,7 @@ Partiamo da qui perché è grossa. Claude Tag non è il solito assistente che ri
         <itunes:duration>12:27</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-23</title>
         <description><![CDATA[# AI Espresso del 22 giugno 2026
 
