@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 25 Jun 2026 11:05:18 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 26 Jun 2026 11:05:53 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-26</title>
+        <description><![CDATA[Buongiorno, AI Espresso del venticinque giugno. E niente, si vede che quando i modelli diventano troppo bravi, a Washington gli viene l'ansia. Partiamo da qui.
+
+OpenAI doveva rilasciare GPT cinque punto sei, il loro nuovo modello di punta. Doveva, appunto. Perché l'amministrazione Trump ha chiesto di rallentare. Il modello esce solo per un gruppo ristretto di partner, approvati uno a uno dal governo. Il motivo ufficiale: capacità simili a quelle di Mythos, serve più testing per la sicurezza. Sam...]]></description>
+        <pubDate>Fri, 26 Jun 2026 11:05:53 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-26-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-26/ai-espresso-2026-06-26.mp3" length="13123200"
+  type="audio/mpeg" />
+        <itunes:duration>11:44</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-25</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 24 giugno 2026. 
 
@@ -31,7 +43,7 @@ Partiamo da questa. Il chip si chiama Jalapeño, nome piccante per un progetto g
         <itunes:duration>12:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-24</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventitré giugno. Anthropic porta Claude dentro Slack e non è un semplice bot: è un collega che taggeri, che lavora in autonomia, che segue i thread e si ricorda cosa sta succedendo. Lo chiamano Claude Tag e potrebbe mandare a casa mezza startup che vende agenti aziendali.
 
