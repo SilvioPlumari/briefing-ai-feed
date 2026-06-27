@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 26 Jun 2026 11:05:53 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 27 Jun 2026 11:04:27 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-27</title>
+        <description><![CDATA[Buongiorno, AI Espresso del ventisei giugno. Oggi si parla di lavori che spariscono, di pragmatismo ai vertici dell'AI, e di Apple che alza i prezzi perché i chip costano troppo. Partiamo.
+
+Prima notizia, ed è pesante. Sapete quei lavori che fino a ieri pagavano tra i centoventi e i duecento mila dollari l'anno? Ecco, alcuni non esistono più. Non stiamo parlando di previsioni, parliamo di numeri sul tavolo. Nel duemila venticinque ci sono stati un milione e duecentomila licenziamenti, e il quatt...]]></description>
+        <pubDate>Sat, 27 Jun 2026 11:04:27 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-27-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-27/ai-espresso-2026-06-27.mp3" length="11799840"
+  type="audio/mpeg" />
+        <itunes:duration>10:33</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-26</title>
         <description><![CDATA[Buongiorno, AI Espresso del venticinque giugno. E niente, si vede che quando i modelli diventano troppo bravi, a Washington gli viene l'ansia. Partiamo da qui.
 
@@ -29,7 +41,7 @@ OpenAI doveva rilasciare GPT cinque punto sei, il loro nuovo modello di punta. D
         <itunes:duration>11:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-25</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 24 giugno 2026. 
 
