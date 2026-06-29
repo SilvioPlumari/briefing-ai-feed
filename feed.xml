@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 28 Jun 2026 11:04:35 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 29 Jun 2026 11:03:49 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-06-29</title>
+        <description><![CDATA[Buongiorno, AI Espresso del ventotto giugno duemilaventisei. OpenAI ha appena lanciato GPT cinque punto sei, il modello più potente di sempre, ma c'è un problema: non lo puoi usare. Almeno non ancora.
+
+Partiamo da qui perché è la notizia che cambia le carte in tavola. GPT cinque punto sei arriva in tre versioni: Sol, il top di gamma con capacità di ragionamento profondo e una modalità ultra che genera sotto-agenti in parallelo per task complessi. Terra, la versione bilanciata che costa la metà d...]]></description>
+        <pubDate>Mon, 29 Jun 2026 11:03:49 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-06-29-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-06-29/ai-espresso-2026-06-29.mp3" length="9292800"
+  type="audio/mpeg" />
+        <itunes:duration>8:18</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-28</title>
         <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di una cosa che probabilmente vi riguarda da vicino: perché alcuni tirano fuori da Claude il decuplo di quello che ci tirate fuori voi, usando lo stesso identico modello.
 
@@ -31,7 +43,7 @@ La maggior pa...]]></description>
         <itunes:duration>6:55</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-27</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventisei giugno. Oggi si parla di lavori che spariscono, di pragmatismo ai vertici dell'AI, e di Apple che alza i prezzi perché i chip costano troppo. Partiamo.
 
