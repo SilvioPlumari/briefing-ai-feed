@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 30 Jun 2026 11:05:11 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 01 Jul 2026 11:06:09 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-01</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 30 giugno 2026
+
+Buongiorno, AI Espresso del trenta giugno. La puntata di oggi è piena, quindi tenetevi pronti. Partiamo subito perché c'è tantissimo.
+
+Prima notizia, e fa rumore: dopo diciotto giorni di blocco, il Dipartimento del Commercio americano ha sbloccato i modelli Fable cinque e Mythos cinque di Anthropic. Tornano online da mercoledì. Diciotto giorni in cui l'azienda è rimasta praticamente ferma sui suoi prodotti più potenti. E questa situazione ha lasciato...]]></description>
+        <pubDate>Wed, 01 Jul 2026 11:06:09 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-01-1306</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-01/ai-espresso-2026-07-01.mp3" length="18834240"
+  type="audio/mpeg" />
+        <itunes:duration>16:52</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-06-30</title>
         <description><![CDATA[# Buongiorno, AI Espresso del ventinove giugno duemilaventisei
 
@@ -29,7 +43,7 @@ Allora, partiamo con la notizia che sta facendo più rumore: OpenAI ha appena la
         <itunes:duration>11:40</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-29</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventotto giugno duemilaventisei. OpenAI ha appena lanciato GPT cinque punto sei, il modello più potente di sempre, ma c'è un problema: non lo puoi usare. Almeno non ancora.
 
