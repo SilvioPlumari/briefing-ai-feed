@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 01 Jul 2026 11:06:09 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 02 Jul 2026 11:05:37 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-02</title>
+        <description><![CDATA[Buongiorno, AI Espresso del primo luglio duemilaventisei. E dopo diciotto giorni di blackout, Anthropic ha riacceso Fable 5 in tutto il mondo.
+
+Partiamo da qui perché è la notizia che il mondo AI aspettava. Il dodici giugno scorso il governo americano aveva oscurato Fable 5, il modello più potente disponibile al pubblico. Motivo: alcuni ricercatori di Amazon avevano aggirato le protezioni e individuato falle di sicurezza che potevano essere usate per attacchi cyber. Anthropic aveva protestato di...]]></description>
+        <pubDate>Thu, 02 Jul 2026 11:05:37 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-02-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-02/ai-espresso-2026-07-02.mp3" length="12367680"
+  type="audio/mpeg" />
+        <itunes:duration>11:04</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-01</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 30 giugno 2026
 
@@ -31,7 +43,7 @@ Prima notizia, e fa rumore: dopo diciotto giorni di blocco, il Dipartimento del 
         <itunes:duration>16:52</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-06-30</title>
         <description><![CDATA[# Buongiorno, AI Espresso del ventinove giugno duemilaventisei
 
