@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 02 Jul 2026 11:05:37 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 03 Jul 2026 11:05:30 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-03</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 3 luglio duemilaventisei
+
+Caffè in mano? Partiamo subito perché oggi c'è parecchio da smarcare. La notizia che sta facendo più rumore è questa: OpenAI starebbe discutendo con il governo americano di cedere una quota del cinque per cento della società. Stiamo parlando di oltre quaranta miliardi di dollari di valore, considerando che l'azienda vale circa ottocentocinquantadue miliardi. 
+
+E non è solo OpenAI. Sam Altman ha scritto un editoriale sul Financial Times dove...]]></description>
+        <pubDate>Fri, 03 Jul 2026 11:05:30 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-03-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-03/ai-espresso-2026-07-03.mp3" length="15754560"
+  type="audio/mpeg" />
+        <itunes:duration>14:06</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-02</title>
         <description><![CDATA[Buongiorno, AI Espresso del primo luglio duemilaventisei. E dopo diciotto giorni di blackout, Anthropic ha riacceso Fable 5 in tutto il mondo.
 
@@ -29,7 +43,7 @@ Partiamo da qui perché è la notizia che il mondo AI aspettava. Il dodici giugn
         <itunes:duration>11:04</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-01</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 30 giugno 2026
 
