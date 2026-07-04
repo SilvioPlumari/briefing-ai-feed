@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 03 Jul 2026 11:05:30 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 04 Jul 2026 11:03:42 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-04</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 3 luglio 2026. Oggi si parla di agenti che lavorano mentre dormi, di Microsoft che mette due miliardi e mezzo su consulenza AI, e di Google che deve sborsare quattro virgola uno miliardi di euro per Android. Partiamo.
+
+C'è un modo nuovo di lavorare con l'AI che sta emergendo, e sta tutto in una frase: scegli una metrica, metti dei vincoli, e lascia che un agente la ottimizzi mentre dormi. Andrej Karpathy, quello che ha fondato il team AI di Tesla, lo chiama autoresear...]]></description>
+        <pubDate>Sat, 04 Jul 2026 11:03:42 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-04-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-04/ai-espresso-2026-07-04.mp3" length="8820000"
+  type="audio/mpeg" />
+        <itunes:duration>7:48</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-03</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 3 luglio duemilaventisei
 
@@ -31,7 +43,7 @@ E non è solo OpenAI. Sam Altman ha scritto un editoriale sul Financial Times do
         <itunes:duration>14:06</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-02</title>
         <description><![CDATA[Buongiorno, AI Espresso del primo luglio duemilaventisei. E dopo diciotto giorni di blackout, Anthropic ha riacceso Fable 5 in tutto il mondo.
 
