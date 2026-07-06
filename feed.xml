@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 04 Jul 2026 11:03:42 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 06 Jul 2026 11:03:51 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-06</title>
+        <description><![CDATA[Buongiorno, AI Espresso del cinque luglio duemilaventisei. Meta dice di aver raggiunto OpenAI, la Corea del Sud scommette milleduecento miliardi di euro sui chip, e l'IPO di SK Hynix al Nasdaq ci dice che l'AI non è più questione di modelli ma di chi controlla l'infrastruttura. Partiamo.
+
+Meta ha appena fatto sapere ai suoi dipendenti che Watermelon, il modello che sta addestrando in questo momento, ha già raggiunto le performance di GPT cinque punto cinque di OpenAI. Lo dice Alexandr Wang, capo...]]></description>
+        <pubDate>Mon, 06 Jul 2026 11:03:51 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-06-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-06/ai-espresso-2026-07-06.mp3" length="9107040"
+  type="audio/mpeg" />
+        <itunes:duration>8:08</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-04</title>
         <description><![CDATA[Buongiorno, AI Espresso del 3 luglio 2026. Oggi si parla di agenti che lavorano mentre dormi, di Microsoft che mette due miliardi e mezzo su consulenza AI, e di Google che deve sborsare quattro virgola uno miliardi di euro per Android. Partiamo.
 
@@ -29,7 +41,7 @@ C'è un modo nuovo di lavorare con l'AI che sta emergendo, e sta tutto in una fr
         <itunes:duration>7:48</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-03</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 3 luglio duemilaventisei
 
