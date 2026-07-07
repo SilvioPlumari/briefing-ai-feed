@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 06 Jul 2026 11:03:51 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 07 Jul 2026 11:05:12 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-07</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del sei luglio duemilaventisei
+
+Allora, si parla tanto di cervelli, umani e artificiali. Anthropic ha pubblicato una ricerca che sta facendo discutere neuroscienziati e addetti ai lavori: dentro Claude hanno trovato una specie di "area di lavoro nascosta", un J-space, che il modello userebbe per ragionare. Una sorta di blocco note interno dove tiene i concetti attivi mentre pensa. E la cosa curiosa? Non è stata programmata. È emersa da sola durante l'addestramento. Tipo...]]></description>
+        <pubDate>Tue, 07 Jul 2026 11:05:12 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-07-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-07/ai-espresso-2026-07-07.mp3" length="12356640"
+  type="audio/mpeg" />
+        <itunes:duration>11:02</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-06</title>
         <description><![CDATA[Buongiorno, AI Espresso del cinque luglio duemilaventisei. Meta dice di aver raggiunto OpenAI, la Corea del Sud scommette milleduecento miliardi di euro sui chip, e l'IPO di SK Hynix al Nasdaq ci dice che l'AI non è più questione di modelli ma di chi controlla l'infrastruttura. Partiamo.
 
@@ -29,7 +41,7 @@ Meta ha appena fatto sapere ai suoi dipendenti che Watermelon, il modello che st
         <itunes:duration>8:08</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-04</title>
         <description><![CDATA[Buongiorno, AI Espresso del 3 luglio 2026. Oggi si parla di agenti che lavorano mentre dormi, di Microsoft che mette due miliardi e mezzo su consulenza AI, e di Google che deve sborsare quattro virgola uno miliardi di euro per Android. Partiamo.
 
