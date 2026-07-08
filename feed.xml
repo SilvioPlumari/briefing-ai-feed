@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 07 Jul 2026 11:05:12 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 08 Jul 2026 11:04:46 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-08</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 7 luglio 2026
+
+Buongiorno, AI Espresso del sette luglio 2026. Meta stamattina ha piazzato un colpo grosso e la Cina studia come rispondere agli Stati Uniti sul fronte dei controlli AI. Caffè in mano e partiamo.
+
+Meta ha lanciato Muse Image, il suo primo modello di generazione immagini fatto in casa. E non è un esperimento: debutta direttamente al secondo posto nella classifica Arena, subito dietro a GPT Image due di OpenAI. Il modello arriva da Alexandr Wang e dal s...]]></description>
+        <pubDate>Wed, 08 Jul 2026 11:04:46 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-08-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-08/ai-espresso-2026-07-08.mp3" length="14278560"
+  type="audio/mpeg" />
+        <itunes:duration>12:44</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-07</title>
         <description><![CDATA[# Buongiorno, AI Espresso del sei luglio duemilaventisei
 
@@ -29,7 +43,7 @@ Allora, si parla tanto di cervelli, umani e artificiali. Anthropic ha pubblicato
         <itunes:duration>11:02</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-06</title>
         <description><![CDATA[Buongiorno, AI Espresso del cinque luglio duemilaventisei. Meta dice di aver raggiunto OpenAI, la Corea del Sud scommette milleduecento miliardi di euro sui chip, e l'IPO di SK Hynix al Nasdaq ci dice che l'AI non è più questione di modelli ma di chi controlla l'infrastruttura. Partiamo.
 
