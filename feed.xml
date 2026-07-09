@@ -16,8 +16,24 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 08 Jul 2026 11:04:46 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 09 Jul 2026 11:05:28 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-09</title>
+        <description><![CDATA[# Buongiorno, AI Espresso dell'otto luglio duemilaventisei
+
+Allora, oggi è una di quelle giornate in cui l'AI fa sul serio. SpaceX AI e Cursor hanno appena lanciato Grok quattro punto cinque, OpenAI sta per rilasciare GPT cinque punto sei, e Meta entra nel gioco delle immagini con un modello tutto suo. Direi che abbiamo parecchio da snocciolare, quindi partiamo subito.
+
+## Il grande rilancio di Grok
+
+Cominciamo dalla bomba della mattina. SpaceX AI e Cursor hanno lanciato Grok quattro punto cinqu...]]></description>
+        <pubDate>Thu, 09 Jul 2026 11:05:28 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-09-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-09/ai-espresso-2026-07-09.mp3" length="14087040"
+  type="audio/mpeg" />
+        <itunes:duration>12:38</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-08</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 7 luglio 2026
 
@@ -31,7 +47,7 @@ Meta ha lanciato Muse Image, il suo primo modello di generazione immagini fatto 
         <itunes:duration>12:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-07</title>
         <description><![CDATA[# Buongiorno, AI Espresso del sei luglio duemilaventisei
 
