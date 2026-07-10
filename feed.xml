@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 09 Jul 2026 11:05:28 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 10 Jul 2026 11:08:52 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-10</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 9 luglio 2026
+
+Buongiorno, AI Espresso del 9 luglio 2026. Allora, oggi si parla di soldi, di intelligence a basso costo e di una guerra dei prezzi che cambierà come pagate l'AI. Partiamo.
+
+OpenAI ha lanciato ufficialmente la famiglia GPT cinque punto sei. Tre modelli: Sol, il top di gamma, poi Terra e Luna per chi vuole spendere meno. Sol è il pezzo forte, arriva quasi ai livelli di Fable di Anthropic ma costa molto meno. Sui test di coding agentivo batte anche Fabl...]]></description>
+        <pubDate>Fri, 10 Jul 2026 11:08:52 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-10-1308</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-10/ai-espresso-2026-07-10.mp3" length="19648320"
+  type="audio/mpeg" />
+        <itunes:duration>17:31</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-09</title>
         <description><![CDATA[# Buongiorno, AI Espresso dell'otto luglio duemilaventisei
 
@@ -33,7 +47,7 @@ Cominciamo dalla bomba della mattina. SpaceX AI e Cursor hanno lanciato Grok qua
         <itunes:duration>12:38</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-08</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 7 luglio 2026
 
