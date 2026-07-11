@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 10 Jul 2026 11:08:52 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 11 Jul 2026 11:03:17 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-11</title>
+        <description><![CDATA[Buongiorno, AI Espresso del dieci luglio. E niente, oggi si parla di un cambio di paradigma grosso nell'AI: il giorno in cui hai capito che il modello è solo metà della storia.
+
+Partiamo dalla notizia che fa più rumore. OpenAI ha appena lanciato ChatGPT Work, la loro risposta diretta a Claude Cowork di Anthropic. È un agente che si collega ai dati aziendali e ti automatizza fogli di calcolo, presentazioni, previsioni finanziarie, ricerca. Roba da ufficio insomma, ma pesante. La mossa interessant...]]></description>
+        <pubDate>Sat, 11 Jul 2026 11:03:17 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-11-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-11/ai-espresso-2026-07-11.mp3" length="8173920"
+  type="audio/mpeg" />
+        <itunes:duration>7:17</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-10</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 9 luglio 2026
 
@@ -31,7 +43,7 @@ OpenAI ha lanciato ufficialmente la famiglia GPT cinque punto sei. Tre modelli: 
         <itunes:duration>17:31</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-09</title>
         <description><![CDATA[# Buongiorno, AI Espresso dell'otto luglio duemilaventisei
 
