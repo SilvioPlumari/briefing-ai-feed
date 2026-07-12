@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 11 Jul 2026 11:03:17 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 12 Jul 2026 11:04:00 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-12</title>
+        <description><![CDATA[# AI Espresso del 7 maggio 2025
+
+Buongiorno, AI Espresso di oggi. Cambio di registro: niente modelli, niente chip nuovi, oggi parliamo di come si costruisce un impero da zero. Jensen Huang, il fondatore di Nvidia, ha fatto un'intervista lunga con Condoleezza Rice, e dentro c'è praticamente un manuale di strategia travestito da storia personale.
+
+Partiamo dall'inizio. Huang arriva negli Stati Uniti a nove anni dalla Thailandia, scappa da un colpo di stato. I genitori lo mandano avanti con il frat...]]></description>
+        <pubDate>Sun, 12 Jul 2026 11:04:00 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-12-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-12/ai-espresso-2026-07-12.mp3" length="6441120"
+  type="audio/mpeg" />
+        <itunes:duration>5:47</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-11</title>
         <description><![CDATA[Buongiorno, AI Espresso del dieci luglio. E niente, oggi si parla di un cambio di paradigma grosso nell'AI: il giorno in cui hai capito che il modello è solo metà della storia.
 
@@ -29,7 +43,7 @@ Partiamo dalla notizia che fa più rumore. OpenAI ha appena lanciato ChatGPT Wor
         <itunes:duration>7:17</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-10</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 9 luglio 2026
 
