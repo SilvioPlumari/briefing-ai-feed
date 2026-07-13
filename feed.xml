@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 12 Jul 2026 11:04:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 13 Jul 2026 11:04:13 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-13</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 12 luglio 2026. Apple che porta OpenAI in tribunale per furto di segreti industriali. Non è roba da poco.
+
+Partiamo da qui perché è la notizia che tiene banco. Apple ha depositato una causa contro OpenAI, il suo ex partner per Siri, accusandoli di aver trasformato una campagna di reclutamento in un'operazione di spionaggio industriale. I numeri fanno impressione: oltre quattrocento ex dipendenti Apple ora lavorano per OpenAI. E secondo Apple, alcuni sono arrivati port...]]></description>
+        <pubDate>Mon, 13 Jul 2026 11:04:13 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-13-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-13/ai-espresso-2026-07-13.mp3" length="9916320"
+  type="audio/mpeg" />
+        <itunes:duration>8:48</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-12</title>
         <description><![CDATA[# AI Espresso del 7 maggio 2025
 
@@ -31,7 +43,7 @@ Partiamo dall'inizio. Huang arriva negli Stati Uniti a nove anni dalla Thailandi
         <itunes:duration>5:47</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-11</title>
         <description><![CDATA[Buongiorno, AI Espresso del dieci luglio. E niente, oggi si parla di un cambio di paradigma grosso nell'AI: il giorno in cui hai capito che il modello è solo metà della storia.
 
