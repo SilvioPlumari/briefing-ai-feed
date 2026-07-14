@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 13 Jul 2026 11:04:13 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 14 Jul 2026 11:05:21 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-14</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 13 luglio 2026
+
+Duecento economisti, sedici premi Nobel, un messaggio: preparatevi, perché l'intelligenza artificiale sta per travolgere il mercato del lavoro, e abbiamo pochissimo tempo.
+
+Partiamo da qui perché è grossa. Stanford ha organizzato una dichiarazione firmata da gente pesante. Si chiama "We Must Act Now", dobbiamo agire ora, e dice tre cose. Uno: l'AI diventerà radicalmente più potente nei prossimi dieci anni. Due: il cambiamento sarà il più grande e vel...]]></description>
+        <pubDate>Tue, 14 Jul 2026 11:05:21 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-14-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-14/ai-espresso-2026-07-14.mp3" length="15594240"
+  type="audio/mpeg" />
+        <itunes:duration>14:02</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-13</title>
         <description><![CDATA[Buongiorno, AI Espresso del 12 luglio 2026. Apple che porta OpenAI in tribunale per furto di segreti industriali. Non è roba da poco.
 
@@ -29,7 +43,7 @@ Partiamo da qui perché è la notizia che tiene banco. Apple ha depositato una c
         <itunes:duration>8:48</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-12</title>
         <description><![CDATA[# AI Espresso del 7 maggio 2025
 
