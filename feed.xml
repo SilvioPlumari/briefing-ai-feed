@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 14 Jul 2026 11:05:21 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 15 Jul 2026 11:05:38 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-15</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del quattordici luglio duemilaventisei
+
+Demis Hassabis ha fatto una mossa che non vedevamo da tempo: proporre un piano concreto di regolamentazione dell'AI prima che il governo improvvisi altre emergenze. E questa volta l'industria intera ha risposto presente.
+
+Il CEO di Google DeepMind ha pubblicato ieri un piano per creare un organismo indipendente, finanziato dall'industria ma che lavora col governo, per testare i modelli AI più avanzati prima del rilascio pubblico. ...]]></description>
+        <pubDate>Wed, 15 Jul 2026 11:05:38 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-15-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-15/ai-espresso-2026-07-15.mp3" length="15040320"
+  type="audio/mpeg" />
+        <itunes:duration>13:28</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-14</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 13 luglio 2026
 
@@ -31,7 +45,7 @@ Partiamo da qui perché è grossa. Stanford ha organizzato una dichiarazione fir
         <itunes:duration>14:02</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-13</title>
         <description><![CDATA[Buongiorno, AI Espresso del 12 luglio 2026. Apple che porta OpenAI in tribunale per furto di segreti industriali. Non è roba da poco.
 
