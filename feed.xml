@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 15 Jul 2026 11:05:38 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 16 Jul 2026 11:05:44 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-16</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del quindici luglio. OpenAI lancia il suo primo hardware e Apple gli fa causa. Benvenuti nella guerra dei dispositivi AI.
+
+Partiamo dalla notizia che fa più rumore. OpenAI ha lanciato il Codex Micro, una tastierina meccanica da duecentotrenta dollari pensata per controllare gli agenti AI mentre codificano. Non è il classico accessorio tech: i tasti cambiano colore in base a quello che sta facendo l'agente, ci sono controlli per approvare o rifiutare le azioni, un joysti...]]></description>
+        <pubDate>Thu, 16 Jul 2026 11:05:44 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-16-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-16/ai-espresso-2026-07-16.mp3" length="14633760"
+  type="audio/mpeg" />
+        <itunes:duration>13:05</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-15</title>
         <description><![CDATA[# Buongiorno, AI Espresso del quattordici luglio duemilaventisei
 
@@ -31,7 +43,7 @@ Il CEO di Google DeepMind ha pubblicato ieri un piano per creare un organismo in
         <itunes:duration>13:28</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-14</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 13 luglio 2026
 
