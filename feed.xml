@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 16 Jul 2026 11:05:44 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 17 Jul 2026 11:05:29 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-17</title>
+        <description><![CDATA[Buongiorno, AI Espresso del sedici luglio duemilaventisei. Moonshot AI da Pechino ha appena fatto qualcosa che nessuno si aspettava: ha piazzato un modello open-source nella stessa lega di Claude Fable cinque e GPT cinque punto sei Sol. E non è una cosa da poco.
+
+Il modello si chiama Kimi K tre, ha una finestra di contesto da un milione di token e batte sia Fable che Sol su alcuni benchmark specifici: ricerca web, lavoro su fogli di calcolo, design frontend, coding lungo. Sul benchmark Intellige...]]></description>
+        <pubDate>Fri, 17 Jul 2026 11:05:29 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-17-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-17/ai-espresso-2026-07-17.mp3" length="14215200"
+  type="audio/mpeg" />
+        <itunes:duration>12:44</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-16</title>
         <description><![CDATA[# Buongiorno, AI Espresso del quindici luglio. OpenAI lancia il suo primo hardware e Apple gli fa causa. Benvenuti nella guerra dei dispositivi AI.
 
@@ -29,7 +41,7 @@ Partiamo dalla notizia che fa più rumore. OpenAI ha lanciato il Codex Micro, un
         <itunes:duration>13:05</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-15</title>
         <description><![CDATA[# Buongiorno, AI Espresso del quattordici luglio duemilaventisei
 
