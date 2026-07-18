@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 17 Jul 2026 11:05:29 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 18 Jul 2026 11:03:37 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-18</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 17 luglio 2026. Nvidia sposta le pedine dall'addestramento ai robot, il mercato tech brucia mille miliardi mentre la domanda vola, e la Cina lancia un modello che fa tremare OpenAI e Anthropic. Partiamo.
+
+Nvidia cambia strategia. Jensen Huang ha presentato ieri a Tokyo Cosmos 3 Edge, e il messaggio è chiaro: dopo aver dominato le GPU per addestrare i modelli generativi, ora punta all'intelligenza artificiale fisica. Robot, veicoli autonomi, sistemi che devono percepir...]]></description>
+        <pubDate>Sat, 18 Jul 2026 11:03:37 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-18-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-18/ai-espresso-2026-07-18.mp3" length="9333600"
+  type="audio/mpeg" />
+        <itunes:duration>8:15</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-17</title>
         <description><![CDATA[Buongiorno, AI Espresso del sedici luglio duemilaventisei. Moonshot AI da Pechino ha appena fatto qualcosa che nessuno si aspettava: ha piazzato un modello open-source nella stessa lega di Claude Fable cinque e GPT cinque punto sei Sol. E non è una cosa da poco.
 
@@ -29,7 +41,7 @@ Il modello si chiama Kimi K tre, ha una finestra di contesto da un milione di to
         <itunes:duration>12:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-16</title>
         <description><![CDATA[# Buongiorno, AI Espresso del quindici luglio. OpenAI lancia il suo primo hardware e Apple gli fa causa. Benvenuti nella guerra dei dispositivi AI.
 
