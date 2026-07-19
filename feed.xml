@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 18 Jul 2026 11:03:37 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 19 Jul 2026 11:03:48 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-19</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di soldi veri, pitch deck leggendari e una lezione su come si costruisce un impero dell'AI partendo da zero prodotto.
+
+Allora. È trapelato il pitch deck che Anthropic ha usato per chiudere il loro round di Serie B da cinquecentottanta milioni di dollari. Fine 2022. FTX era il lead investor, ironia della storia. Claude non esisteva ancora. Avevano cento dipendenti e una waitlist. Il deck? Dieci slide. Dieci.
+
+E adesso ascoltate i numeri, pe...]]></description>
+        <pubDate>Sun, 19 Jul 2026 11:03:48 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-19-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-19/ai-espresso-2026-07-19.mp3" length="4986240"
+  type="audio/mpeg" />
+        <itunes:duration>4:23</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-18</title>
         <description><![CDATA[Buongiorno, AI Espresso del 17 luglio 2026. Nvidia sposta le pedine dall'addestramento ai robot, il mercato tech brucia mille miliardi mentre la domanda vola, e la Cina lancia un modello che fa tremare OpenAI e Anthropic. Partiamo.
 
@@ -29,7 +43,7 @@ Nvidia cambia strategia. Jensen Huang ha presentato ieri a Tokyo Cosmos 3 Edge, 
         <itunes:duration>8:15</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-17</title>
         <description><![CDATA[Buongiorno, AI Espresso del sedici luglio duemilaventisei. Moonshot AI da Pechino ha appena fatto qualcosa che nessuno si aspettava: ha piazzato un modello open-source nella stessa lega di Claude Fable cinque e GPT cinque punto sei Sol. E non è una cosa da poco.
 
