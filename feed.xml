@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 19 Jul 2026 11:03:48 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 20 Jul 2026 11:03:42 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-20</title>
+        <description><![CDATA[Buongiorno, AI Espresso del diciannove luglio. E oggi parliamo di Cina, perché giovedì un lab di Pechino ha fatto una cosa che nessuno si aspettava così presto.
+
+Moonshot AI ha rilasciato Kimi K3. Due virgola otto trilioni di parametri, un milione di token di contesto, capacità visive native, e soprattutto la promessa di rilasciare i pesi completi open source entro il ventisette luglio. Quindi tra otto giorni chiunque potrà scaricare e far girare questo modello sui propri server.
+
+E perché è imp...]]></description>
+        <pubDate>Mon, 20 Jul 2026 11:03:42 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-20-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-20/ai-espresso-2026-07-20.mp3" length="11040960"
+  type="audio/mpeg" />
+        <itunes:duration>9:49</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-19</title>
         <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di soldi veri, pitch deck leggendari e una lezione su come si costruisce un impero dell'AI partendo da zero prodotto.
 
@@ -31,7 +45,7 @@ E adesso ascoltate i numeri, pe...]]></description>
         <itunes:duration>4:23</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-18</title>
         <description><![CDATA[Buongiorno, AI Espresso del 17 luglio 2026. Nvidia sposta le pedine dall'addestramento ai robot, il mercato tech brucia mille miliardi mentre la domanda vola, e la Cina lancia un modello che fa tremare OpenAI e Anthropic. Partiamo.
 
