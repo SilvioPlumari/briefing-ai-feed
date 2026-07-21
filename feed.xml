@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 20 Jul 2026 11:03:42 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 21 Jul 2026 11:06:02 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-21</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 20 luglio 2026
+
+Buongiorno, AI Espresso del venti luglio duemilaventisei. Allora, cominciamo da quella cosa che in teoria non dovrebbe essere possibile: Claude Fable cinque ha appena smontato un problema matematico che resisteva da ottantasette anni. E lo ha fatto tipo come compito a casa durante la finale dei Mondiali.
+
+Il congettura jacobiana, questa roba che dal millenovecentotrentanove tormentava i matematici, è stata distrutta con una formula talmente corta che...]]></description>
+        <pubDate>Tue, 21 Jul 2026 11:06:02 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-21-1306</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-21/ai-espresso-2026-07-21.mp3" length="12307680"
+  type="audio/mpeg" />
+        <itunes:duration>10:56</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-20</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciannove luglio. E oggi parliamo di Cina, perché giovedì un lab di Pechino ha fatto una cosa che nessuno si aspettava così presto.
 
@@ -31,7 +45,7 @@ E perché è imp...]]></description>
         <itunes:duration>9:49</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-19</title>
         <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di soldi veri, pitch deck leggendari e una lezione su come si costruisce un impero dell'AI partendo da zero prodotto.
 
