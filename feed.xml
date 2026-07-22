@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 21 Jul 2026 11:06:02 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 22 Jul 2026 11:06:38 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-22</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 21 luglio 2026
+
+Buongiorno, AI Espresso del ventuno luglio. Google lancia tre nuovi modelli Gemini e tutti continuano a chiedersi: ma il Pro dove sta?
+
+Partiamo da Mountain View. Google ha rilasciato tre modelli della famiglia Flash: il tre punto sei Flash, il tre punto cinque Flash Lite per la velocità, e il tre punto cinque Flash Cyber per la sicurezza informatica. Tutti e tre puntano sull'efficienza, non sull'intelligenza pura. Il problema? Il tre punto sei Flash...]]></description>
+        <pubDate>Wed, 22 Jul 2026 11:06:38 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-22-1306</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-22/ai-espresso-2026-07-22.mp3" length="13000800"
+  type="audio/mpeg" />
+        <itunes:duration>11:36</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-21</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 20 luglio 2026
 
@@ -31,7 +45,7 @@ Il congettura jacobiana, questa roba che dal millenovecentotrentanove tormentava
         <itunes:duration>10:56</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-20</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciannove luglio. E oggi parliamo di Cina, perché giovedì un lab di Pechino ha fatto una cosa che nessuno si aspettava così presto.
 
