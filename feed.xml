@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 24 Jul 2026 11:05:17 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 25 Jul 2026 11:03:30 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-25</title>
+        <description><![CDATA[Buongiorno, AI Espresso del ventiquattro luglio. Anthropic ha appena dato una mazzata alla concorrenza tagliando a metà il costo dell'intelligenza di frontiera.
+
+Oggi esce Claude Opus 5, e la cosa grossa non è quello che hanno alzato, ma quello che hanno tenuto fermo: il prezzo. Cinque dollari in entrata, venticinque in uscita, identico a Opus 4.8. La metà di quello che costa Fable 5. E le performance? Abbastanza vicine alla frontiera da rendere il livello sotto praticamente lo standard per tutt...]]></description>
+        <pubDate>Sat, 25 Jul 2026 11:03:30 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-25-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-25/ai-espresso-2026-07-25.mp3" length="7951680"
+  type="audio/mpeg" />
+        <itunes:duration>7:03</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-24</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 23 luglio duemilaventisei
 
@@ -31,7 +43,7 @@ OpenAI stava testando due modelli, uno si chiama Sol e l'altro probabilmente è 
         <itunes:duration>17:10</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-23</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 23 luglio 2026
 
