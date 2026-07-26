@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 25 Jul 2026 11:03:30 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 26 Jul 2026 11:03:35 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-26</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 14 maggio 2024. Oggi parliamo di soldi veri, quelli che si fanno davvero nell'AI, ma non come pensate.
+
+Il miglior cacciatore di bug di Google ha portato a casa ottocentoundicimila dollari l'anno scorso. Non ha fondato una startup, non ha raccolto capitali, non ha lanciato un prodotto. Ha letto codice altrui, ha trovato dove era rotto, e Google lo ha pagato più di quanto guadagneranno mai la maggior parte delle startup finanziate.
+
+E qui arriva il punto. Google ha dis...]]></description>
+        <pubDate>Sun, 26 Jul 2026 11:03:35 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-26-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-26/ai-espresso-2026-07-26.mp3" length="7786080"
+  type="audio/mpeg" />
+        <itunes:duration>6:57</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-25</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventiquattro luglio. Anthropic ha appena dato una mazzata alla concorrenza tagliando a metà il costo dell'intelligenza di frontiera.
 
@@ -29,7 +43,7 @@ Oggi esce Claude Opus 5, e la cosa grossa non è quello che hanno alzato, ma que
         <itunes:duration>7:03</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-24</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 23 luglio duemilaventisei
 
