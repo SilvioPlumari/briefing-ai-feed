@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 27 Jul 2026 11:05:01 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 28 Jul 2026 11:04:39 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-28</title>
+        <description><![CDATA[# Testo per AI Espresso - 27 luglio 2026
+
+Buongiorno, AI Espresso del ventisette luglio. Oggi si parla di pesi aperti, perché Moonshot ha appena rilasciato il modello più grande mai reso open source nella storia, e questo sta facendo tremare parecchie certezze a Washington.
+
+Partiamo da Kimi K3. Moonshot AI ha pubblicato i pesi del suo modello da due virgola otto trilioni di parametri. È ufficialmente il più grande modello mai reso disponibile con licenza aperta. Chiunque abbia GPU abbastanza po...]]></description>
+        <pubDate>Tue, 28 Jul 2026 11:04:39 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-28-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-28/ai-espresso-2026-07-28.mp3" length="11353440"
+  type="audio/mpeg" />
+        <itunes:duration>10:06</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-27</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 26 luglio 2026
 
@@ -31,7 +45,7 @@ Partiamo da qui perché è la notizia grossa della settimana. Claude Opus 5 è d
         <itunes:duration>10:08</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-26</title>
         <description><![CDATA[Buongiorno, AI Espresso del 14 maggio 2024. Oggi parliamo di soldi veri, quelli che si fanno davvero nell'AI, ma non come pensate.
 
