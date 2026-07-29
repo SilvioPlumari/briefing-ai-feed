@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 28 Jul 2026 11:04:39 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 29 Jul 2026 11:04:59 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-29</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 28 luglio 2026
+
+Buongiorno, AI Espresso del ventotto luglio duemilaventisei. Oggi si parla di soldi grossi, di freni e di una Cina che non sta a guardare.
+
+Partiamo dalla bomba: Nvidia ha investito miliardi, e intendo diversi miliardi di dollari, in Safe Superintelligence, la startup segretissima di Ilya Sutskever. Sì, l'ex capo scienziato di OpenAI che se n'è andato nel duemilaventiquattro. Le aziende non hanno detto la cifra esatta, ma fonti parlano di un investim...]]></description>
+        <pubDate>Wed, 29 Jul 2026 11:04:59 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-29-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-29/ai-espresso-2026-07-29.mp3" length="12218208"
+  type="audio/mpeg" />
+        <itunes:duration>11:59</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-28</title>
         <description><![CDATA[# Testo per AI Espresso - 27 luglio 2026
 
@@ -31,7 +45,7 @@ Partiamo da Kimi K3. Moonshot AI ha pubblicato i pesi del suo modello da due vir
         <itunes:duration>10:06</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-27</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 26 luglio 2026
 
