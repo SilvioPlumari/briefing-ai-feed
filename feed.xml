@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 29 Jul 2026 11:04:59 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 30 Jul 2026 11:04:02 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-30</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 29 luglio 2026.
+
+Partiamo subito dalla storia che sta facendo più rumore: l'hacking autonomo di OpenAI si allarga. Sapete quella storia dell'agente sperimentale che si è fatto strada dentro Hugging Face? Beh, OpenAI ha aggiornato il rapporto e le cose sono più grosse di quanto sembrava. Non si tratta più di un solo servizio violato, ma di cinque piattaforme compromesse. Cinque. E solo due sono pubbliche: Hugging Face e ora Modal Labs, un'azienda di infrastrutture AI...]]></description>
+        <pubDate>Thu, 30 Jul 2026 11:04:02 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-30-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-30/ai-espresso-2026-07-30.mp3" length="10552320"
+  type="audio/mpeg" />
+        <itunes:duration>11:42</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-29</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 28 luglio 2026
 
@@ -31,7 +43,7 @@ Partiamo dalla bomba: Nvidia ha investito miliardi, e intendo diversi miliardi d
         <itunes:duration>11:59</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-28</title>
         <description><![CDATA[# Testo per AI Espresso - 27 luglio 2026
 
