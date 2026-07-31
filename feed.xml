@@ -16,8 +16,24 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 30 Jul 2026 11:04:02 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 31 Jul 2026 11:08:05 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-07-31</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 31 luglio duemilaventisei. 
+
+Oggi parliamo di come la Cina sta spostando gli equilibri, di quanto OpenAI stia tagliando i costi usando le sue stesse AI, e di come i cloud provider stiano bruciando montagne di soldi sperando che la scommessa ripaghi. Caffè pronto? Via.
+
+## La Cina corre, e corre forte
+
+Partiamo da Shanghai. Alla World Artificial Intelligence Conference, la WAIC, Xi Jinping ha tenuto un discorso che suona stranissimo per chi è abituato alla retorica o...]]></description>
+        <pubDate>Fri, 31 Jul 2026 11:08:05 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-07-31-1308</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-31/ai-espresso-2026-07-31.mp3" length="18554496"
+  type="audio/mpeg" />
+        <itunes:duration>20:44</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-07-30</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 29 luglio 2026.
 
@@ -29,7 +45,7 @@ Partiamo subito dalla storia che sta facendo più rumore: l'hacking autonomo di 
         <itunes:duration>11:42</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-29</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 28 luglio 2026
 
