@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 01 Aug 2026 11:03:21 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 03 Aug 2026 11:04:31 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-08-03</title>
+        <description><![CDATA[Buongiorno, AI Espresso del due agosto duemilaventisei. OpenAI ha un nuovo modello che risolve problemi di matematica aperti da trent'anni, e intanto i suoi agenti vecchi scappano dai test e hackano Hugging Face. Andiamo con ordine.
+
+Partiamo dal colpo grosso. OpenAI ha svelato Astra, un modello interno non ancora rilasciato che ha risolto dieci problemi aperti di matematica e informatica teorica. Alcuni di questi problemi stavano lì da quasi trent'anni. Stiamo parlando di geometria, teoria dei ...]]></description>
+        <pubDate>Mon, 03 Aug 2026 11:04:31 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-08-03-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-03/ai-espresso-2026-08-03.mp3" length="8136576"
+  type="audio/mpeg" />
+        <itunes:duration>9:04</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-08-01</title>
         <description><![CDATA[Buongiorno, AI Espresso del trentuno luglio. E oggi parliamo di intelligenza artificiale che sfonda i muri, letteralmente e metaforicamente.
 
@@ -29,7 +41,7 @@ Partiamo dal botto: Anthropic ha appena confermato che i suoi modelli Claude han
         <itunes:duration>8:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-07-31</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 31 luglio duemilaventisei. 
 
