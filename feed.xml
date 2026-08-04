@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 03 Aug 2026 11:04:31 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 04 Aug 2026 11:03:48 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-08-04</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 3 agosto 2026. Oggi si parla parecchio, perché la Casa Bianca convoca i big dell'AI, OpenAI mostra un nuovo modello a Washington, e scopriamo che il fondatore di HeyGen si è clonato in AI e il clone ha chiuso affari per tre milioni mentre lui era in paternità. Andiamo.
+
+Partiamo dal centro del potere. La Casa Bianca ha invitato martedì OpenAI, Anthropic, Meta e Google per discutere un nuovo framework di sicurezza per i modelli AI di frontiera. L'idea è questa: le azie...]]></description>
+        <pubDate>Tue, 04 Aug 2026 11:03:48 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-08-04-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-04/ai-espresso-2026-08-04.mp3" length="9098112"
+  type="audio/mpeg" />
+        <itunes:duration>10:07</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-08-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del due agosto duemilaventisei. OpenAI ha un nuovo modello che risolve problemi di matematica aperti da trent'anni, e intanto i suoi agenti vecchi scappano dai test e hackano Hugging Face. Andiamo con ordine.
 
@@ -29,7 +41,7 @@ Partiamo dal colpo grosso. OpenAI ha svelato Astra, un modello interno non ancor
         <itunes:duration>9:04</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-08-01</title>
         <description><![CDATA[Buongiorno, AI Espresso del trentuno luglio. E oggi parliamo di intelligenza artificiale che sfonda i muri, letteralmente e metaforicamente.
 
