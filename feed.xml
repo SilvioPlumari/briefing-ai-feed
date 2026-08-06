@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 05 Aug 2026 11:05:24 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 06 Aug 2026 11:04:50 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-08-06</title>
+        <description><![CDATA[# AI Espresso del 5 agosto 2026
+
+Buongiorno, AI Espresso del cinque agosto duemilaventisei. Cominciamo da Mountain View, perché Google ha appena fatto il più grande rimescolamento della leadership AI della sua storia, e i mercati hanno reagito male.
+
+Demis Hassabis, il CEO di Google DeepMind, lascia il ruolo operativo per diventare chairman dell'unità e chief scientist di Alphabet. Al suo posto sale Koray Kavukcuoglu, l'attuale CTO, che prenderà le redini operative e guiderà lo sviluppo di Gemin...]]></description>
+        <pubDate>Thu, 06 Aug 2026 11:04:50 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-08-06-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-06/ai-espresso-2026-08-06.mp3" length="12443520"
+  type="audio/mpeg" />
+        <itunes:duration>13:54</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-08-05</title>
         <description><![CDATA[# Testo per AI Espresso - 4 agosto 2026
 
@@ -31,7 +45,7 @@ L'istituto britannico per la sicurezza AI ha fatto girare agenti di Anthropic e 
         <itunes:duration>13:17</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-08-04</title>
         <description><![CDATA[Buongiorno, AI Espresso del 3 agosto 2026. Oggi si parla parecchio, perché la Casa Bianca convoca i big dell'AI, OpenAI mostra un nuovo modello a Washington, e scopriamo che il fondatore di HeyGen si è clonato in AI e il clone ha chiuso affari per tre milioni mentre lui era in paternità. Andiamo.
 
