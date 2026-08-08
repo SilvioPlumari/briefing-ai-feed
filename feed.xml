@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 07 Aug 2026 11:02:17 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 08 Aug 2026 11:04:27 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-08-08</title>
+        <description><![CDATA[# AI Espresso del 7 agosto 2026
+
+Buongiorno, AI Espresso del sette agosto duemilaventisei. Oggi vi racconto come Anthropic ha cancellato l'ottanta per cento del prompt di Claude Code e il sistema è diventato più intelligente, non meno.
+
+Partiamo dalla notizia grossa. Boris Cherny, il tipo che ha creato Claude Code in Anthropic, ha appena dimostrato una tesi controintuitiva: i modelli di frontiera vengono frenati dai prodotti costruiti per le versioni dell'anno scorso. La soluzione? Meno istruzio...]]></description>
+        <pubDate>Sat, 08 Aug 2026 11:04:27 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-08-08-1304</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-08/ai-espresso-2026-08-08.mp3" length="10787712"
+  type="audio/mpeg" />
+        <itunes:duration>12:03</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-08-07</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 6 agosto 2026
 
@@ -31,7 +45,7 @@ Dean era dipendente numero trenta di Google, arrivato nel novantanove quando l'u
         <itunes:duration>2:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-08-06</title>
         <description><![CDATA[# AI Espresso del 5 agosto 2026
 
