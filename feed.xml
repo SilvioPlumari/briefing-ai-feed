@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 08 Aug 2026 11:04:27 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 10 Aug 2026 11:03:27 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-08-10</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 9 agosto 2026. OpenAI ha appena suonato un campanello d'allarme che non aveva mai suonato prima, e questa volta riguarda un modello che potrebbe essere troppo potente per uscire subito.
+
+Partiamo dalla notizia grossa. OpenAI ha classificato Astra, il suo prossimo modello che dovrebbe essere GPT-6, come il primo sistema con rischio critico per la cybersicurezza. Cosa significa in pratica? Che secondo i loro test, questo modello è capace di trovare vulnerabilità zero-da...]]></description>
+        <pubDate>Mon, 10 Aug 2026 11:03:27 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-08-10-1303</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-10/ai-espresso-2026-08-10.mp3" length="6792576"
+  type="audio/mpeg" />
+        <itunes:duration>7:33</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-08-08</title>
         <description><![CDATA[# AI Espresso del 7 agosto 2026
 
@@ -31,7 +43,7 @@ Partiamo dalla notizia grossa. Boris Cherny, il tipo che ha creato Claude Code i
         <itunes:duration>12:03</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-08-07</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 6 agosto 2026
 
