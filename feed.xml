@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 01 Sep 2026 11:06:26 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 02 Sep 2026 11:06:15 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-02</title>
+        <description><![CDATA[Buongiorno, AI Espresso del primo settembre duemilaventisei. Anthropic lancia Fable cinque punto uno e chiude ufficialmente il periodo di silenzio dei lab frontier. 
+
+Partiamo dalla notizia grossa. Anthropic ha rilasciato Claude Fable cinque punto uno, che è il primo vero upgrade dopo settimane di calma piatta. Il modello spara un sessantasei sull'Intelligence Index di Artificial Analysis, più del doppio rispetto a Fable cinque sui test di ricerca scientifica. Costa il venticinque percento in me...]]></description>
+        <pubDate>Wed, 02 Sep 2026 11:06:15 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-02-1306</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-02/ai-espresso-2026-09-02.mp3" length="16298880"
+  type="audio/mpeg" />
+        <itunes:duration>18:06</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-01</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventuno agosto duemilaventisei. Runway ha appena fatto vedere un internet che non esiste finché non lo apri. Si chiama Solaris, ed è un sistema che genera siti web e app in tempo reale, come video, senza una riga di codice sotto. Ogni frame disegnato al volo mentre clicchi, trascini, interagisci. Un esperimento di camicia provata trascinandola da una gruccia virtuale a una foto, un'insalata costruita buttando dentro gli ingredienti, una demo interattiva di combustione...]]></description>
         <pubDate>Tue, 01 Sep 2026 11:06:26 GMT</pubDate>
@@ -27,7 +39,7 @@
         <itunes:duration>20:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-08-12</title>
         <description><![CDATA[# AI Espresso dell'11 agosto 2026
 
