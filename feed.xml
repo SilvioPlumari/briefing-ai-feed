@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 02 Sep 2026 11:06:15 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 03 Sep 2026 11:05:01 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-03</title>
+        <description><![CDATA[Buongiorno, AI Espresso del tre settembre duemilaventisei. Sono bastati tre giorni di settembre per scatenare una valanga di nuovi modelli AI, e stamattina parliamo di una corsa che coinvolge Meta, Google, Anthropic e pure il Pentagono.
+
+Partiamo da Anthropic che ha rilasciato i nuovi Claude Fable cinque punto uno e Mythos cinque punto uno. Fable cinque punto uno è pubblico, Mythos cinque punto uno è riservato a chi lavora in cybersecurity e scienze della vita. Stesso modello di base, diversi si...]]></description>
+        <pubDate>Thu, 03 Sep 2026 11:05:01 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-03-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-03/ai-espresso-2026-09-03.mp3" length="8474496"
+  type="audio/mpeg" />
+        <itunes:duration>9:28</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-02</title>
         <description><![CDATA[Buongiorno, AI Espresso del primo settembre duemilaventisei. Anthropic lancia Fable cinque punto uno e chiude ufficialmente il periodo di silenzio dei lab frontier. 
 
@@ -29,7 +41,7 @@ Partiamo dalla notizia grossa. Anthropic ha rilasciato Claude Fable cinque punto
         <itunes:duration>18:06</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-01</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventuno agosto duemilaventisei. Runway ha appena fatto vedere un internet che non esiste finché non lo apri. Si chiama Solaris, ed è un sistema che genera siti web e app in tempo reale, come video, senza una riga di codice sotto. Ogni frame disegnato al volo mentre clicchi, trascini, interagisci. Un esperimento di camicia provata trascinandola da una gruccia virtuale a una foto, un'insalata costruita buttando dentro gli ingredienti, una demo interattiva di combustione...]]></description>
         <pubDate>Tue, 01 Sep 2026 11:06:26 GMT</pubDate>
