@@ -16,7 +16,7 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 04 Sep 2026 11:05:13 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 04 Sep 2026 15:48:00 GMT</lastBuildDate>
       <item>
         <title>AI Espresso - 2026-09-04</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 4 settembre 2026
@@ -26,7 +26,7 @@ Buongiorno, AI Espresso del quattro settembre. Pronti? Perché oggi è una di qu
 Partiamo da Astra. OpenAI lo chiama il modello...]]></description>
         <pubDate>Fri, 04 Sep 2026 11:05:13 GMT</pubDate>
         <guid isPermaLink="false">espresso-2026-09-04-1305</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-04/ai-espresso-2026-09-04.mp3" length="16238592"
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-04.mp3" length="16238592"
   type="audio/mpeg" />
         <itunes:duration>18:02</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
