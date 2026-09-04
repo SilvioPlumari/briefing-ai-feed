@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 03 Sep 2026 11:05:01 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 04 Sep 2026 11:05:13 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-04</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 4 settembre 2026
+
+Buongiorno, AI Espresso del quattro settembre. Pronti? Perché oggi è una di quelle giornate in cui non sai dove guardare prima. OpenAI ha lanciato GPT sei Astra, quello che chiamano "salto generazionale", mentre Anthropic ha appena chiuso un accordo da quarantacinque miliardi con Nscale. E nel frattempo Nvidia ha comprato Hugging Face per quasi tredici miliardi. Sì, tutto in ventiquattro ore. Andiamo.
+
+Partiamo da Astra. OpenAI lo chiama il modello...]]></description>
+        <pubDate>Fri, 04 Sep 2026 11:05:13 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-04-1305</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-04/ai-espresso-2026-09-04.mp3" length="16238592"
+  type="audio/mpeg" />
+        <itunes:duration>18:02</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del tre settembre duemilaventisei. Sono bastati tre giorni di settembre per scatenare una valanga di nuovi modelli AI, e stamattina parliamo di una corsa che coinvolge Meta, Google, Anthropic e pure il Pentagono.
 
@@ -29,7 +43,7 @@ Partiamo da Anthropic che ha rilasciato i nuovi Claude Fable cinque punto uno e 
         <itunes:duration>9:28</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-02</title>
         <description><![CDATA[Buongiorno, AI Espresso del primo settembre duemilaventisei. Anthropic lancia Fable cinque punto uno e chiude ufficialmente il periodo di silenzio dei lab frontier. 
 
