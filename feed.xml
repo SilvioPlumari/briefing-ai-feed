@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 05 Sep 2026 11:03:21 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 06 Sep 2026 11:02:42 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-06</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 15 gennaio 2025. Oggi parliamo di Instinct, l'assistente AI che non usi, ma assumi.
+
+Mettiamola così: fine agosto, stesso giorno, due aziende vengono valutate due miliardi e mezzo di dollari. La prima è Linear, che ci ha messo anni per arrivarci: cento milioni di fatturato ricorrente, quarantamila clienti paganti, crescita del centosettantasette percento. La seconda è Instinct. Che aveva lanciato il prodotto la settimana prima.
+
+E qui la cosa si fa interessante. Insti...]]></description>
+        <pubDate>Sun, 06 Sep 2026 11:02:42 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-06-1302</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-06.mp3" length="2640000"
+  type="audio/mpeg" />
+        <itunes:duration>2:57</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-05</title>
         <description><![CDATA[Buongiorno, AI Espresso del 5 settembre 2026. OpenAI ha appena lanciato GPT-6 Astra, e per la prima volta dice ad alta voce: potrebbe essere questo il punto di arrivo dell'AGI, l'intelligenza artificiale generale. Iniziamo.
 
@@ -29,7 +43,7 @@ GPT-6 Astra è disponibile da ieri, ma non per tutti subito. Prima vanno le azie
         <itunes:duration>7:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-04</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 4 settembre 2026
 
@@ -397,18 +411,6 @@ Nvidia cambia strategia. Jensen Huang ha presentato ieri a Tokyo Cosmos 3 Edge, 
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-18/ai-espresso-2026-07-18.mp3" length="9333600"
   type="audio/mpeg" />
         <itunes:duration>8:15</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-17</title>
-        <description><![CDATA[Buongiorno, AI Espresso del sedici luglio duemilaventisei. Moonshot AI da Pechino ha appena fatto qualcosa che nessuno si aspettava: ha piazzato un modello open-source nella stessa lega di Claude Fable cinque e GPT cinque punto sei Sol. E non è una cosa da poco.
-
-Il modello si chiama Kimi K tre, ha una finestra di contesto da un milione di token e batte sia Fable che Sol su alcuni benchmark specifici: ricerca web, lavoro su fogli di calcolo, design frontend, coding lungo. Sul benchmark Intellige...]]></description>
-        <pubDate>Fri, 17 Jul 2026 11:05:29 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-17-1305</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-17/ai-espresso-2026-07-17.mp3" length="14215200"
-  type="audio/mpeg" />
-        <itunes:duration>12:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
