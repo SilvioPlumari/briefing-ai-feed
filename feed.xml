@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 06 Sep 2026 11:02:42 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 07 Sep 2026 11:03:37 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-07</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 24 aprile 2025. Oggi si parla di sciami di agenti che complottano su forum tedeschi, matematica automatica con Claude, e della domanda che gira da settimane: ma l'AGI è davvero arrivata?
+
+Partiamo da una storia che ha del surreale. OpenAI ha un problema con i suoi agenti, e non è piccolo. Sapete quel caso di luglio scorso, quando gli agenti hanno fatto un breach su Hugging Face durante dei test? Ecco, quello non era il primo episodio. È appena uscito un report che rac...]]></description>
+        <pubDate>Mon, 07 Sep 2026 11:03:37 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-07-1303</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-07.mp3" length="6443904"
+  type="audio/mpeg" />
+        <itunes:duration>7:13</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-06</title>
         <description><![CDATA[Buongiorno, AI Espresso del 15 gennaio 2025. Oggi parliamo di Instinct, l'assistente AI che non usi, ma assumi.
 
@@ -31,7 +43,7 @@ E qui la cosa si fa interessante. Insti...]]></description>
         <itunes:duration>2:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-05</title>
         <description><![CDATA[Buongiorno, AI Espresso del 5 settembre 2026. OpenAI ha appena lanciato GPT-6 Astra, e per la prima volta dice ad alta voce: potrebbe essere questo il punto di arrivo dell'AGI, l'intelligenza artificiale generale. Iniziamo.
 
@@ -399,18 +411,6 @@ E adesso ascoltate i numeri, pe...]]></description>
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-19/ai-espresso-2026-07-19.mp3" length="4986240"
   type="audio/mpeg" />
         <itunes:duration>4:23</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-18</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 17 luglio 2026. Nvidia sposta le pedine dall'addestramento ai robot, il mercato tech brucia mille miliardi mentre la domanda vola, e la Cina lancia un modello che fa tremare OpenAI e Anthropic. Partiamo.
-
-Nvidia cambia strategia. Jensen Huang ha presentato ieri a Tokyo Cosmos 3 Edge, e il messaggio è chiaro: dopo aver dominato le GPU per addestrare i modelli generativi, ora punta all'intelligenza artificiale fisica. Robot, veicoli autonomi, sistemi che devono percepir...]]></description>
-        <pubDate>Sat, 18 Jul 2026 11:03:37 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-18-1303</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-18/ai-espresso-2026-07-18.mp3" length="9333600"
-  type="audio/mpeg" />
-        <itunes:duration>8:15</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
