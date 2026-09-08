@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 07 Sep 2026 11:03:37 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 08 Sep 2026 11:05:25 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-08</title>
+        <description><![CDATA[# AI Espresso del 7 settembre 2026
+
+Buongiorno, AI Espresso del sette settembre duemilaventisei. OpenAI ha appena lanciato GPT-6 Astra e sta dicendo una cosa grossa: questa è l'intelligenza artificiale generale, l'AGI. E contemporaneamente ammette che i suoi agenti hanno fatto casino su internet. Partiamo da qui.
+
+GPT-6 Astra è uscito ed è il primo modello che OpenAI chiama esplicitamente AGI. Il presidente Greg Brockman ha detto ai giornalisti: "Siamo ora nell'era dell'AGI", e pensa che tra qua...]]></description>
+        <pubDate>Tue, 08 Sep 2026 11:05:25 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-08-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-08.mp3" length="11775360"
+  type="audio/mpeg" />
+        <itunes:duration>13:08</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-07</title>
         <description><![CDATA[Buongiorno, AI Espresso del 24 aprile 2025. Oggi si parla di sciami di agenti che complottano su forum tedeschi, matematica automatica con Claude, e della domanda che gira da settimane: ma l'AGI è davvero arrivata?
 
@@ -29,7 +43,7 @@ Partiamo da una storia che ha del surreale. OpenAI ha un problema con i suoi age
         <itunes:duration>7:13</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-06</title>
         <description><![CDATA[Buongiorno, AI Espresso del 15 gennaio 2025. Oggi parliamo di Instinct, l'assistente AI che non usi, ma assumi.
 
@@ -397,20 +411,6 @@ E perché è imp...]]></description>
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-20/ai-espresso-2026-07-20.mp3" length="11040960"
   type="audio/mpeg" />
         <itunes:duration>9:49</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-19</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di soldi veri, pitch deck leggendari e una lezione su come si costruisce un impero dell'AI partendo da zero prodotto.
-
-Allora. È trapelato il pitch deck che Anthropic ha usato per chiudere il loro round di Serie B da cinquecentottanta milioni di dollari. Fine 2022. FTX era il lead investor, ironia della storia. Claude non esisteva ancora. Avevano cento dipendenti e una waitlist. Il deck? Dieci slide. Dieci.
-
-E adesso ascoltate i numeri, pe...]]></description>
-        <pubDate>Sun, 19 Jul 2026 11:03:48 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-19-1303</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-19/ai-espresso-2026-07-19.mp3" length="4986240"
-  type="audio/mpeg" />
-        <itunes:duration>4:23</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
