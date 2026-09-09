@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 08 Sep 2026 11:05:25 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 09 Sep 2026 11:07:27 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-09</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 9 marzo 2026
+
+Allora, OpenAI sostiene di aver risolto il problema di Navier-Stokes. Uno dei sette problemi del millennio, premio da un milione di dollari, roba che i matematici inseguono da decenni. Lo avrebbero fatto con un modello interno ancora più potente di GPT-6 Astra, appena uscito, usando diecimila agenti che hanno lavorato per ottantotto ore. Costo stimato? Milioni di dollari di compute. Sam Altman dice che è uno dei momenti più incredibili nella storia di ...]]></description>
+        <pubDate>Wed, 09 Sep 2026 11:07:27 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-09-1307</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-09.mp3" length="12708096"
+  type="audio/mpeg" />
+        <itunes:duration>14:00</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-08</title>
         <description><![CDATA[# AI Espresso del 7 settembre 2026
 
@@ -31,7 +43,7 @@ GPT-6 Astra è uscito ed è il primo modello che OpenAI chiama esplicitamente AG
         <itunes:duration>13:08</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-07</title>
         <description><![CDATA[Buongiorno, AI Espresso del 24 aprile 2025. Oggi si parla di sciami di agenti che complottano su forum tedeschi, matematica automatica con Claude, e della domanda che gira da settimane: ma l'AGI è davvero arrivata?
 
@@ -397,20 +409,6 @@ Il congettura jacobiana, questa roba che dal millenovecentotrentanove tormentava
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-21/ai-espresso-2026-07-21.mp3" length="12307680"
   type="audio/mpeg" />
         <itunes:duration>10:56</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-20</title>
-        <description><![CDATA[Buongiorno, AI Espresso del diciannove luglio. E oggi parliamo di Cina, perché giovedì un lab di Pechino ha fatto una cosa che nessuno si aspettava così presto.
-
-Moonshot AI ha rilasciato Kimi K3. Due virgola otto trilioni di parametri, un milione di token di contesto, capacità visive native, e soprattutto la promessa di rilasciare i pesi completi open source entro il ventisette luglio. Quindi tra otto giorni chiunque potrà scaricare e far girare questo modello sui propri server.
-
-E perché è imp...]]></description>
-        <pubDate>Mon, 20 Jul 2026 11:03:42 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-20-1303</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-20/ai-espresso-2026-07-20.mp3" length="11040960"
-  type="audio/mpeg" />
-        <itunes:duration>9:49</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
