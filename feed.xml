@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 10 Sep 2026 11:06:09 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 11 Sep 2026 11:07:02 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-11</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 10 settembre 2026
+
+Buongiorno, AI Espresso del 10 settembre 2026. Si parla di AGI, di dimissioni eccellenti per motivi di sicurezza, e di un report di Anthropic che fa venire i brividi. Partiamo.
+
+OpenAI ha lanciato GPT-6 Astra, e Greg Brockman, presidente e co-fondatore, ha detto una cosa grossa: siamo nell'era dell'AGI. Artificial General Intelligence, quella che dovrebbe fare tutto come noi o meglio di noi. Poi ha subito aggiunto che in realtà il confine è sfumat...]]></description>
+        <pubDate>Fri, 11 Sep 2026 11:07:02 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-11-1307</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-11.mp3" length="16139520"
+  type="audio/mpeg" />
+        <itunes:duration>17:47</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-10</title>
         <description><![CDATA[# AI Espresso del 9 settembre 2026
 
@@ -31,7 +45,7 @@ Un ricercatore di Anthropic, Jacob Coxon, si è dimesso con un post che ha fatto
         <itunes:duration>12:24</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-09</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 9 marzo 2026
 
@@ -395,20 +409,6 @@ Dunque, i fatti. OpenAI stava testando GPT cinque virgola sei Sol e altri modell
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-23/ai-espresso-2026-07-23.mp3" length="19978080"
   type="audio/mpeg" />
         <itunes:duration>17:50</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-22</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 21 luglio 2026
-
-Buongiorno, AI Espresso del ventuno luglio. Google lancia tre nuovi modelli Gemini e tutti continuano a chiedersi: ma il Pro dove sta?
-
-Partiamo da Mountain View. Google ha rilasciato tre modelli della famiglia Flash: il tre punto sei Flash, il tre punto cinque Flash Lite per la velocità, e il tre punto cinque Flash Cyber per la sicurezza informatica. Tutti e tre puntano sull'efficienza, non sull'intelligenza pura. Il problema? Il tre punto sei Flash...]]></description>
-        <pubDate>Wed, 22 Jul 2026 11:06:38 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-22-1306</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-22/ai-espresso-2026-07-22.mp3" length="13000800"
-  type="audio/mpeg" />
-        <itunes:duration>11:36</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
