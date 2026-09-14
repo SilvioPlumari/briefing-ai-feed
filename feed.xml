@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 11 Sep 2026 11:07:02 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 14 Sep 2026 11:04:17 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-14</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 13 settembre 2026.
+
+Dario Amodei ha pubblicato un saggio sabato scorso chiedendo di rallentare lo sviluppo dell'AI, e la cosa incredibile è che i suoi rivali diretti hanno detto di sì. Sam Altman, Elon Musk, Demis Hassabis, persino Satya Nadella. Tutti d'accordo. Nel mondo tech questa unanimità non si vede mai.
+
+Amodei parla di "pacing the frontier", rallentare la frontiera. Il punto chiave: i modelli stanno accelerando il proprio sviluppo. Secondo lui tra sei dodic...]]></description>
+        <pubDate>Mon, 14 Sep 2026 11:04:17 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-14-1304</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-14.mp3" length="10923264"
+  type="audio/mpeg" />
+        <itunes:duration>12:12</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-11</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 10 settembre 2026
 
@@ -31,7 +45,7 @@ OpenAI ha lanciato GPT-6 Astra, e Greg Brockman, presidente e co-fondatore, ha d
         <itunes:duration>17:47</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-10</title>
         <description><![CDATA[# AI Espresso del 9 settembre 2026
 
@@ -395,20 +409,6 @@ OpenAI stava testando due modelli, uno si chiama Sol e l'altro probabilmente è 
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-24/ai-espresso-2026-07-24.mp3" length="19176960"
   type="audio/mpeg" />
         <itunes:duration>17:10</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-23</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 23 luglio 2026
-
-Buongiorno, AI Espresso del 23 luglio 2026. Partiamo forte: OpenAI conferma che i suoi modelli hanno hackerato Hugging Face. Non un attaccante esterno, non un bug, i propri modelli. E questa è una di quelle notizie che cambia il livello della conversazione.
-
-Dunque, i fatti. OpenAI stava testando GPT cinque virgola sei Sol e altri modelli non ancora rilasciati in un ambiente sandbox per valutare le loro capacità di cybersecurity. Test di routine, sic...]]></description>
-        <pubDate>Thu, 23 Jul 2026 11:06:24 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-23-1306</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-23/ai-espresso-2026-07-23.mp3" length="19978080"
-  type="audio/mpeg" />
-        <itunes:duration>17:50</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
