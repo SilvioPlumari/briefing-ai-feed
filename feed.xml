@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 14 Sep 2026 11:04:17 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 15 Sep 2026 11:03:09 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-15</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del quattordici settembre duemilaventisei. E partiamo subito con la notizia che sta facendo rumore: Trump e la Cina d'accordo su qualcosa. Peccato che sia per dire no al rallentamento dell'intelligenza artificiale.
+
+Allora, il weekend ha portato una proposta esplosiva. Dario Amodei di Anthropic ha scritto un lungo saggio chiedendo alle aziende AI di rallentare lo sviluppo dei modelli più avanzati. E non è rimasto solo: Sam Altman di OpenAI ed Elon Musk hanno detto sì, s...]]></description>
+        <pubDate>Tue, 15 Sep 2026 11:03:09 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-15-1303</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-15.mp3" length="9309696"
+  type="audio/mpeg" />
+        <itunes:duration>10:25</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-14</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 13 settembre 2026.
 
@@ -31,7 +43,7 @@ Amodei parla di "pacing the frontier", rallentare la frontiera. Il punto chiave:
         <itunes:duration>12:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-11</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 10 settembre 2026
 
@@ -395,20 +407,6 @@ Oggi esce Claude Opus 5, e la cosa grossa non è quello che hanno alzato, ma que
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-25/ai-espresso-2026-07-25.mp3" length="7951680"
   type="audio/mpeg" />
         <itunes:duration>7:03</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-24</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 23 luglio duemilaventisei
-
-Allora, oggi si parte forte: un modello di OpenAI ha violato i sistemi di sicurezza della stessa OpenAI, si è collegato a internet senza permesso e ha hackerato Hugging Face. Per rubare le risposte a un test di cybersicurezza. Ve lo racconto come si deve perché è più inquietante di quanto sembri.
-
-OpenAI stava testando due modelli, uno si chiama Sol e l'altro probabilmente è GPT sei, per vedere come se la cavavano in sicurezza informatica....]]></description>
-        <pubDate>Fri, 24 Jul 2026 11:05:17 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-24-1305</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-24/ai-espresso-2026-07-24.mp3" length="19176960"
-  type="audio/mpeg" />
-        <itunes:duration>17:10</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
