@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 16 Sep 2026 11:05:56 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 17 Sep 2026 11:04:59 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-17</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 16 settembre duemilaventisei. E oggi parliamo di una frattura che sta spaccando il mondo dell'AI: rallentare o accelerare? Perché dopo che Dario Amodei di Anthropic ha chiesto una pausa coordinata per ragioni di sicurezza, le risposte sono arrivate. E non sono tutte d'accordo.
+
+Partiamo da dove la tensione è più esplicita. Mark Zuckerberg ha appena rotto i ranghi. Meta dice no al rallentamento coordinato proposto da Amodei. La posizione di Zuck è netta: ogni laborat...]]></description>
+        <pubDate>Thu, 17 Sep 2026 11:04:59 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-17-1304</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-17.mp3" length="11784192"
+  type="audio/mpeg" />
+        <itunes:duration>13:10</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-16</title>
         <description><![CDATA[Buongiorno, AI Espresso del quindici settembre duemilaventisei. Allora, preparatevi perché oggi è un casino: c'è chi vuole rallentare lo sviluppo dell'AI, chi lo considera un complotto, e nel mezzo escono nuovi modelli più veloci ed economici.
 
@@ -29,7 +41,7 @@ Partiamo dalla bomba politica. Nel weekend diversi CEO dell'AI hanno chiesto di 
         <itunes:duration>10:53</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-15</title>
         <description><![CDATA[# Buongiorno, AI Espresso del quattordici settembre duemilaventisei. E partiamo subito con la notizia che sta facendo rumore: Trump e la Cina d'accordo su qualcosa. Peccato che sia per dire no al rallentamento dell'intelligenza artificiale.
 
@@ -393,20 +405,6 @@ Partiamo da qui perché è la notizia grossa della settimana. Claude Opus 5 è d
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-27/ai-espresso-2026-07-27.mp3" length="11449440"
   type="audio/mpeg" />
         <itunes:duration>10:08</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-26</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 14 maggio 2024. Oggi parliamo di soldi veri, quelli che si fanno davvero nell'AI, ma non come pensate.
-
-Il miglior cacciatore di bug di Google ha portato a casa ottocentoundicimila dollari l'anno scorso. Non ha fondato una startup, non ha raccolto capitali, non ha lanciato un prodotto. Ha letto codice altrui, ha trovato dove era rotto, e Google lo ha pagato più di quanto guadagneranno mai la maggior parte delle startup finanziate.
-
-E qui arriva il punto. Google ha dis...]]></description>
-        <pubDate>Sun, 26 Jul 2026 11:03:35 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-26-1303</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-26/ai-espresso-2026-07-26.mp3" length="7786080"
-  type="audio/mpeg" />
-        <itunes:duration>6:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
