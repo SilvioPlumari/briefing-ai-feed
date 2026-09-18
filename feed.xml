@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 17 Sep 2026 11:04:59 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 18 Sep 2026 11:09:55 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-18</title>
+        <description><![CDATA[Buongiorno, AI Espresso del diciassette settembre duemilaventisei. Oggi si parla solo di una cosa: quanto deve correre l'AI, e chi decide. E mentre tutti discutono, le vulnerabilità di sicurezza sono già qui.
+
+Partiamo dalla bomba della settimana. Dario Amodei, il CEO di Anthropic, ha pubblicato un saggio dal titolo chiarissimo: dobbiamo rallentare. Non fermare, rallentare. Il punto è semplice: i modelli stanno diventando più potenti più velocemente di quanto riusciamo a capirli e controllarli. ...]]></description>
+        <pubDate>Fri, 18 Sep 2026 11:09:55 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-18-1309</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-18.mp3" length="9793536"
+  type="audio/mpeg" />
+        <itunes:duration>12:42</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-17</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 16 settembre duemilaventisei. E oggi parliamo di una frattura che sta spaccando il mondo dell'AI: rallentare o accelerare? Perché dopo che Dario Amodei di Anthropic ha chiesto una pausa coordinata per ragioni di sicurezza, le risposte sono arrivate. E non sono tutte d'accordo.
 
@@ -29,7 +41,7 @@ Partiamo da dove la tensione è più esplicita. Mark Zuckerberg ha appena rotto 
         <itunes:duration>13:10</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-16</title>
         <description><![CDATA[Buongiorno, AI Espresso del quindici settembre duemilaventisei. Allora, preparatevi perché oggi è un casino: c'è chi vuole rallentare lo sviluppo dell'AI, chi lo considera un complotto, e nel mezzo escono nuovi modelli più veloci ed economici.
 
@@ -391,20 +403,6 @@ Partiamo da Kimi K3. Moonshot AI ha pubblicato i pesi del suo modello da due vir
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-28/ai-espresso-2026-07-28.mp3" length="11353440"
   type="audio/mpeg" />
         <itunes:duration>10:06</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-27</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 26 luglio 2026
-
-Buongiorno, AI Espresso del 26 luglio 2026. Anthropic ha appena ribaltato il tavolo: il nuovo Claude Opus 5 batte il suo stesso modello di punta Fable 5 su diversi benchmark, costa la metà, e sta facendo sudare freddo anche a OpenAI.
-
-Partiamo da qui perché è la notizia grossa della settimana. Claude Opus 5 è disponibile da oggi su tutte le app Claude e via API. I numeri parlano chiaro: primo posto assoluto su task di coding, ricerca agenticale, uso ...]]></description>
-        <pubDate>Mon, 27 Jul 2026 11:05:01 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-27-1305</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-27/ai-espresso-2026-07-27.mp3" length="11449440"
-  type="audio/mpeg" />
-        <itunes:duration>10:08</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
