@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 18 Sep 2026 11:09:55 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 19 Sep 2026 11:05:15 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-19</title>
+        <description><![CDATA[Buongiorno, AI Espresso del diciotto settembre. OpenAI fa shopping di talenti enterprise mentre il dibattito sulla sicurezza AI diventa politica estera.
+
+Partiamo dai movimenti in casa OpenAI, che sta ricostruendo la squadra vendite dopo una serie di abbandoni. Hanno appena preso Brian McCarthy da SpaceX, più precisamente dalla divisione Cursor, come nuovo capo vendite globale. McCarthy riporterà a Dali Rajic, il chief revenue officer appena arrivato da Google Wiz il mese scorso. Ma non finisce ...]]></description>
+        <pubDate>Sat, 19 Sep 2026 11:05:15 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-19-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-19.mp3" length="9843840"
+  type="audio/mpeg" />
+        <itunes:duration>10:57</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-18</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciassette settembre duemilaventisei. Oggi si parla solo di una cosa: quanto deve correre l'AI, e chi decide. E mentre tutti discutono, le vulnerabilità di sicurezza sono già qui.
 
@@ -29,7 +41,7 @@ Partiamo dalla bomba della settimana. Dario Amodei, il CEO di Anthropic, ha pubb
         <itunes:duration>12:42</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-17</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 16 settembre duemilaventisei. E oggi parliamo di una frattura che sta spaccando il mondo dell'AI: rallentare o accelerare? Perché dopo che Dario Amodei di Anthropic ha chiesto una pausa coordinata per ragioni di sicurezza, le risposte sono arrivate. E non sono tutte d'accordo.
 
@@ -389,20 +401,6 @@ Partiamo dalla bomba: Nvidia ha investito miliardi, e intendo diversi miliardi d
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-29/ai-espresso-2026-07-29.mp3" length="12218208"
   type="audio/mpeg" />
         <itunes:duration>11:59</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-28</title>
-        <description><![CDATA[# Testo per AI Espresso - 27 luglio 2026
-
-Buongiorno, AI Espresso del ventisette luglio. Oggi si parla di pesi aperti, perché Moonshot ha appena rilasciato il modello più grande mai reso open source nella storia, e questo sta facendo tremare parecchie certezze a Washington.
-
-Partiamo da Kimi K3. Moonshot AI ha pubblicato i pesi del suo modello da due virgola otto trilioni di parametri. È ufficialmente il più grande modello mai reso disponibile con licenza aperta. Chiunque abbia GPU abbastanza po...]]></description>
-        <pubDate>Tue, 28 Jul 2026 11:04:39 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-28-1304</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-28/ai-espresso-2026-07-28.mp3" length="11353440"
-  type="audio/mpeg" />
-        <itunes:duration>10:06</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
