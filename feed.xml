@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 19 Sep 2026 11:05:15 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 20 Sep 2026 11:04:22 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-20</title>
+        <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di robotica, investimenti e del perché ventisette miliardi di dollari siano già arrivati ma i robot umanoidi ancora non si vedono nelle fabbriche.
+
+Allora, partiamo da un paradosso che sta facendo impazzire gli investitori. Nel 2025 le startup di robotica hanno raccolto ventisette virgola sei miliardi di dollari, più del doppio dell'anno scorso. Figure, quella che fa robot umanoidi, è valutata trentanove miliardi. Skild è triplicata a quat...]]></description>
+        <pubDate>Sun, 20 Sep 2026 11:04:22 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-20-1304</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-20.mp3" length="5703552"
+  type="audio/mpeg" />
+        <itunes:duration>6:24</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-19</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciotto settembre. OpenAI fa shopping di talenti enterprise mentre il dibattito sulla sicurezza AI diventa politica estera.
 
@@ -29,7 +41,7 @@ Partiamo dai movimenti in casa OpenAI, che sta ricostruendo la squadra vendite d
         <itunes:duration>10:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-18</title>
         <description><![CDATA[Buongiorno, AI Espresso del diciassette settembre duemilaventisei. Oggi si parla solo di una cosa: quanto deve correre l'AI, e chi decide. E mentre tutti discutono, le vulnerabilità di sicurezza sono già qui.
 
@@ -387,20 +399,6 @@ Partiamo subito dalla storia che sta facendo più rumore: l'hacking autonomo di 
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-30/ai-espresso-2026-07-30.mp3" length="10552320"
   type="audio/mpeg" />
         <itunes:duration>11:42</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-29</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 28 luglio 2026
-
-Buongiorno, AI Espresso del ventotto luglio duemilaventisei. Oggi si parla di soldi grossi, di freni e di una Cina che non sta a guardare.
-
-Partiamo dalla bomba: Nvidia ha investito miliardi, e intendo diversi miliardi di dollari, in Safe Superintelligence, la startup segretissima di Ilya Sutskever. Sì, l'ex capo scienziato di OpenAI che se n'è andato nel duemilaventiquattro. Le aziende non hanno detto la cifra esatta, ma fonti parlano di un investim...]]></description>
-        <pubDate>Wed, 29 Jul 2026 11:04:59 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-29-1304</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-29/ai-espresso-2026-07-29.mp3" length="12218208"
-  type="audio/mpeg" />
-        <itunes:duration>11:59</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
