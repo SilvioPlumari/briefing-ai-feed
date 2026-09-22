@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 21 Sep 2026 11:03:50 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 22 Sep 2026 11:07:15 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-22</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del ventuno settembre duemilaventisei.
+
+Iniziamo da un ring inaspettato: Amazon contro Meta. E quando dico "contro" intendo proprio che Amazon ha chiuso la porta in faccia a Muse, l'assistente AI di Meta, impedendogli di fare acquisti su Amazon. Dodici giorni dopo il lancio.
+
+La versione di Amazon è semplice: Muse gira per il loro sito senza identificarsi, non ha mai chiesto il permesso, e pare che catturi e memorizzi le credenziali dei clienti. Meta risponde che non è ...]]></description>
+        <pubDate>Tue, 22 Sep 2026 11:07:15 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-22-1307</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-22.mp3" length="14355840"
+  type="audio/mpeg" />
+        <itunes:duration>16:04</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-21</title>
         <description><![CDATA[Buongiorno, AI Espresso del venti settembre duemilaventisei. OpenAI ha passato dall'hackerare gli altri a farsi hackerare in meno di tre giorni, e l'hanno fatto tre ragazzi con Claude. Partiamo da qui.
 
@@ -29,7 +43,7 @@ A luglio, mentre OpenAI ammetteva che i suoi modelli avevano violato Hugging Fac
         <itunes:duration>8:36</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-20</title>
         <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di robotica, investimenti e del perché ventisette miliardi di dollari siano già arrivati ma i robot umanoidi ancora non si vedono nelle fabbriche.
 
@@ -383,22 +397,6 @@ Partiamo dal botto: Anthropic ha appena confermato che i suoi modelli Claude han
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-01/ai-espresso-2026-08-01.mp3" length="7794432"
   type="audio/mpeg" />
         <itunes:duration>8:44</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-07-31</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 31 luglio duemilaventisei. 
-
-Oggi parliamo di come la Cina sta spostando gli equilibri, di quanto OpenAI stia tagliando i costi usando le sue stesse AI, e di come i cloud provider stiano bruciando montagne di soldi sperando che la scommessa ripaghi. Caffè pronto? Via.
-
-## La Cina corre, e corre forte
-
-Partiamo da Shanghai. Alla World Artificial Intelligence Conference, la WAIC, Xi Jinping ha tenuto un discorso che suona stranissimo per chi è abituato alla retorica o...]]></description>
-        <pubDate>Fri, 31 Jul 2026 11:08:05 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-07-31-1308</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-07-31/ai-espresso-2026-07-31.mp3" length="18554496"
-  type="audio/mpeg" />
-        <itunes:duration>20:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
