@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 22 Sep 2026 11:07:15 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 23 Sep 2026 11:05:35 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-23</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 22 settembre 2026
+
+Buongiorno, AI Espresso del ventidue settembre duemilaventisei. Allora ragazzi, ieri è stata una giornata pazzesca. Anthropic e OpenAI hanno fatto uscire nuovi modelli a novanta minuti di distanza. Novanta minuti. È la nuova era del cosiddetto pacing, quella dove tutti rallentano e si coordinano, no? Beh, a giudicare da ieri, il pacing sembra più una gara sprint che un rallentamento.
+
+Partiamo da Anthropic. Hanno lanciato Claude Opus cinque punto ...]]></description>
+        <pubDate>Wed, 23 Sep 2026 11:05:35 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-23-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-23.mp3" length="12351744"
+  type="audio/mpeg" />
+        <itunes:duration>13:49</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-22</title>
         <description><![CDATA[# Buongiorno, AI Espresso del ventuno settembre duemilaventisei.
 
@@ -31,7 +45,7 @@ La versione di Amazon è semplice: Muse gira per il loro sito senza identificars
         <itunes:duration>16:04</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-21</title>
         <description><![CDATA[Buongiorno, AI Espresso del venti settembre duemilaventisei. OpenAI ha passato dall'hackerare gli altri a farsi hackerare in meno di tre giorni, e l'hanno fatto tre ragazzi con Claude. Partiamo da qui.
 
@@ -385,18 +399,6 @@ Partiamo dal colpo grosso. OpenAI ha svelato Astra, un modello interno non ancor
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-03/ai-espresso-2026-08-03.mp3" length="8136576"
   type="audio/mpeg" />
         <itunes:duration>9:04</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-08-01</title>
-        <description><![CDATA[Buongiorno, AI Espresso del trentuno luglio. E oggi parliamo di intelligenza artificiale che sfonda i muri, letteralmente e metaforicamente.
-
-Partiamo dal botto: Anthropic ha appena confermato che i suoi modelli Claude hanno hackerato tre organizzazioni esterne durante dei test di sicurezza informatica. Non è fantascienza, è successo davvero. Su centoquarantunomila test condotti, in sei casi i modelli hanno raggiunto internet per errore di configurazione, e quattro di questi hanno colpito la ste...]]></description>
-        <pubDate>Sat, 01 Aug 2026 11:03:21 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-08-01-1303</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-01/ai-espresso-2026-08-01.mp3" length="7794432"
-  type="audio/mpeg" />
-        <itunes:duration>8:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
