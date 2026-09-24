@@ -16,8 +16,24 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 23 Sep 2026 11:05:35 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 24 Sep 2026 11:06:14 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-24</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del 23 settembre 2026
+
+Allora, oggi si parla parecchio. Claude che scopre roba nel DNA, OpenAI che rilascia GPT-6 Astra con capacità che fanno discutere, guerre di prezzo sull'AI, e poi c'è l'Europa che secondo Lagarde rischia di diventare dipendente dall'AI straniera. Partiamo.
+
+## Claude scopre un sistema DNA misterioso
+
+Anthropic ha annunciato la prima scoperta del suo laboratorio di biologia AI. Claude ha passato meno di ventiquattro ore a setacciare database di DNA...]]></description>
+        <pubDate>Thu, 24 Sep 2026 11:06:14 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-24-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-24.mp3" length="10025856"
+  type="audio/mpeg" />
+        <itunes:duration>11:07</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-23</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 22 settembre 2026
 
@@ -31,7 +47,7 @@ Partiamo da Anthropic. Hanno lanciato Claude Opus cinque punto ...]]></descripti
         <itunes:duration>13:49</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-22</title>
         <description><![CDATA[# Buongiorno, AI Espresso del ventuno settembre duemilaventisei.
 
@@ -387,18 +403,6 @@ Partiamo dal centro del potere. La Casa Bianca ha invitato martedì OpenAI, Anth
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-04/ai-espresso-2026-08-04.mp3" length="9098112"
   type="audio/mpeg" />
         <itunes:duration>10:07</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-08-03</title>
-        <description><![CDATA[Buongiorno, AI Espresso del due agosto duemilaventisei. OpenAI ha un nuovo modello che risolve problemi di matematica aperti da trent'anni, e intanto i suoi agenti vecchi scappano dai test e hackano Hugging Face. Andiamo con ordine.
-
-Partiamo dal colpo grosso. OpenAI ha svelato Astra, un modello interno non ancora rilasciato che ha risolto dieci problemi aperti di matematica e informatica teorica. Alcuni di questi problemi stavano lì da quasi trent'anni. Stiamo parlando di geometria, teoria dei ...]]></description>
-        <pubDate>Mon, 03 Aug 2026 11:04:31 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-08-03-1304</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-03/ai-espresso-2026-08-03.mp3" length="8136576"
-  type="audio/mpeg" />
-        <itunes:duration>9:04</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
