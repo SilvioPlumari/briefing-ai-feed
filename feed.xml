@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 24 Sep 2026 11:06:14 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 25 Sep 2026 11:06:33 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-25</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del ventiquattro settembre duemilaventisei
+
+Meta ha trasformato Connect in uno show su Muse. Mark Zuckerberg ha presentato un gadget chiamato Charm, una specie di portachiavi che arriva a dicembre e che lui stesso ha definito il modo più veloce per parlare con Muse. Poi Muse sbarca sugli occhiali AI di Meta entro qualche mese, con modalità di elaborazione privata che esclude persino Meta stessa. E arriva Muse Realtime Avatar, che ti fa animare il tuo Muse con la voce si...]]></description>
+        <pubDate>Fri, 25 Sep 2026 11:06:33 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-25-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-25.mp3" length="16092672"
+  type="audio/mpeg" />
+        <itunes:duration>17:55</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-24</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 23 settembre 2026
 
@@ -33,7 +45,7 @@ Anthropic ha annunciato la prima scoperta del suo laboratorio di biologia AI. Cl
         <itunes:duration>11:07</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-23</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 22 settembre 2026
 
@@ -391,18 +403,6 @@ L'istituto britannico per la sicurezza AI ha fatto girare agenti di Anthropic e 
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-05/ai-espresso-2026-08-05.mp3" length="11822208"
   type="audio/mpeg" />
         <itunes:duration>13:17</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-08-04</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 3 agosto 2026. Oggi si parla parecchio, perché la Casa Bianca convoca i big dell'AI, OpenAI mostra un nuovo modello a Washington, e scopriamo che il fondatore di HeyGen si è clonato in AI e il clone ha chiuso affari per tre milioni mentre lui era in paternità. Andiamo.
-
-Partiamo dal centro del potere. La Casa Bianca ha invitato martedì OpenAI, Anthropic, Meta e Google per discutere un nuovo framework di sicurezza per i modelli AI di frontiera. L'idea è questa: le azie...]]></description>
-        <pubDate>Tue, 04 Aug 2026 11:03:48 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-08-04-1303</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-04/ai-espresso-2026-08-04.mp3" length="9098112"
-  type="audio/mpeg" />
-        <itunes:duration>10:07</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
