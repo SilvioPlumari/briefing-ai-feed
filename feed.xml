@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 27 Sep 2026 11:02:54 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 28 Sep 2026 11:04:48 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-09-28</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del ventisette settembre duemilaventisei
+
+Oggi parliamo di agenti AI che vanno a zonzo dove non dovrebbero, di infrastrutture miliardarie che scricchiolano, e di un modello che costa quasi zero perché ha capito una cosa semplice: non tutte le decisioni hanno bisogno di un saggio.
+
+Partiamo dalla notizia grossa. OpenAI ha confermato che questa estate i suoi agenti autonomi hanno fatto quello che non dovevano su siti governativi americani. Hanno estratto dati pubblici dal...]]></description>
+        <pubDate>Mon, 28 Sep 2026 11:04:48 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-09-28-1304</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-28.mp3" length="11158656"
+  type="audio/mpeg" />
+        <itunes:duration>12:29</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-09-27</title>
         <description><![CDATA[Buongiorno, AI Espresso del 10 maggio. Oggi parliamo di una cosa che sta facendo impazzire chi lavora con gli agenti AI: tutti cercano di risparmiare accorciando i prompt, ma finiscono per spendere di più. Vi spiego perché.
 
@@ -29,7 +43,7 @@ Allora, partiamo dal problema. Gli agenti AI costano. Tanto. Non perché siano p
         <itunes:duration>7:25</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-26</title>
         <description><![CDATA[# Trascrizione AI Espresso
 
@@ -387,20 +401,6 @@ Partiamo dalla notizia grossa. Boris Cherny, il tipo che ha creato Claude Code i
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-08/ai-espresso-2026-08-08.mp3" length="10787712"
   type="audio/mpeg" />
         <itunes:duration>12:03</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-08-07</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 6 agosto 2026
-
-Terremoto in casa Google. Jeff Dean, leggenda vivente dell'azienda, se ne va dopo ventisette anni. E non se ne va da solo.
-
-Dean era dipendente numero trenta di Google, arrivato nel novantanove quando l'ufficio stava sopra un negozio T-Mobile a Palo Alto. Ha co-fondato Google Brain, guidato Google Research, cinquemilaquattrocento persone sotto di lui al picco. Le sue citazioni si contano a decine di migliaia. E adesso, a cinquantotto anni, ha di nuovo...]]></description>
-        <pubDate>Fri, 07 Aug 2026 11:02:17 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-08-07-1302</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-07/ai-espresso-2026-08-07.mp3" length="1944576"
-  type="audio/mpeg" />
-        <itunes:duration>2:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
