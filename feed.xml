@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 01 Oct 2026 11:05:47 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 02 Oct 2026 11:06:52 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-02</title>
+        <description><![CDATA[# Buongiorno, AI Espresso del primo ottobre duemilaventisei.
+
+Allora, Trump ha convocato i big dell'AI alla Casa Bianca, ci ha fatto firmare una specie di costituzione morale, e poi ha deciso che l'intelligenza artificiale da oggi si chiama "super intelligence". No, non sto scherzando.
+
+Martedì si sono seduti allo stesso tavolo Mark Zuckerberg, Jensen Huang di Nvidia, Sundar Pichai di Google, i capi di OpenAI, Anthropic, xAI di Musk. Una roba tipo G7 dell'AI, ma a Washington. Hanno firmato un do...]]></description>
+        <pubDate>Fri, 02 Oct 2026 11:06:52 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-02-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-02.mp3" length="13852416"
+  type="audio/mpeg" />
+        <itunes:duration>15:38</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-01</title>
         <description><![CDATA[# Buongiorno, AI Espresso del 30 settembre 2026
 
@@ -33,7 +47,7 @@ Cominciamo da Google, che dopo un anno praticamente passato in panchina rilascia
         <itunes:duration>12:31</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-09-30</title>
         <description><![CDATA[Buongiorno, AI Espresso del ventinove settembre duemilaventisei. Oggi si parla di agenti AI sempre attivi, di OpenAI che frena su un modello per motivi di sicurezza, e di un'IPO di Anthropic che sembra già partire in salita.
 
@@ -391,20 +405,6 @@ Partiamo dalla notizia grossa. Anthropic ha rilasciato Claude Fable cinque punto
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-01/ai-espresso-2026-09-01.mp3" length="18046848"
   type="audio/mpeg" />
         <itunes:duration>20:12</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-08-12</title>
-        <description><![CDATA[# AI Espresso dell'11 agosto 2026
-
-Buongiorno, AI Espresso dell'undici agosto duemilaventisei. Oggi parliamo di filigrane invisibili, agenti che lavorano in gruppo e mezzo trilione di dollari che si muovono per finanziare l'AI. Partiamo.
-
-Anthropic ha annunciato che metterà delle filigrane invisibili su tutto quello che genera Claude. Testo, codice, file, tutto. Se copi e incolli qualcosa fatto da Claude, la firma resta attaccata. Useranno lo standard C2PA per i file, quello già in uso per i con...]]></description>
-        <pubDate>Wed, 12 Aug 2026 11:05:12 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-08-12-1305</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-08-12/ai-espresso-2026-08-12.mp3" length="12155904"
-  type="audio/mpeg" />
-        <itunes:duration>13:31</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
