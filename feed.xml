@@ -16,8 +16,18 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 03 Oct 2026 11:04:30 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 12 Oct 2026 07:35:16 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-12</title>
+        <description><![CDATA[Buongiorno, AI Espresso dell'undici ottobre duemilaventisei. Partiamo dalla notizia che ha fatto crollare ieri i titoli cloud: OpenAI non fattura settanta miliardi annui. Ne fattura cinquanta. Venti miliardi di differenza, spariti da un giorno all'altro perché qualcuno aveva calcolato male il revenue annualizzato. Il Financial Times ha corretto il tiro giovedì, e nel giro di ore Nvidia, CoreWeave, Nebius, giù tutti. Il problema non sono i cinquanta miliardi, che restano comunque una cifra enorme...]]></description>
+        <pubDate>Mon, 12 Oct 2026 07:35:16 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-12-0935</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-12.mp3" length="20937600"
+  type="audio/mpeg" />
+        <itunes:duration>23:30</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del 2 ottobre 2026. OpenAI licenzia tre ricercatori di sicurezza per violazione delle policy interne, e intanto chiude un giro da venti miliardi. Partiamo.
 
@@ -29,7 +39,7 @@ Allora, fatto grosso: OpenAI ha mandato a casa tre ricercatori che lavoravano su
         <itunes:duration>8:40</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-02</title>
         <description><![CDATA[# Buongiorno, AI Espresso del primo ottobre duemilaventisei.
 
@@ -395,18 +405,6 @@ Partiamo da Anthropic che ha rilasciato i nuovi Claude Fable cinque punto uno e 
         <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-03/ai-espresso-2026-09-03.mp3" length="8474496"
   type="audio/mpeg" />
         <itunes:duration>9:28</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-02</title>
-        <description><![CDATA[Buongiorno, AI Espresso del primo settembre duemilaventisei. Anthropic lancia Fable cinque punto uno e chiude ufficialmente il periodo di silenzio dei lab frontier. 
-
-Partiamo dalla notizia grossa. Anthropic ha rilasciato Claude Fable cinque punto uno, che è il primo vero upgrade dopo settimane di calma piatta. Il modello spara un sessantasei sull'Intelligence Index di Artificial Analysis, più del doppio rispetto a Fable cinque sui test di ricerca scientifica. Costa il venticinque percento in me...]]></description>
-        <pubDate>Wed, 02 Sep 2026 11:06:15 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-02-1306</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-02/ai-espresso-2026-09-02.mp3" length="16298880"
-  type="audio/mpeg" />
-        <itunes:duration>18:06</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
