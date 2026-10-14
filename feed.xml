@@ -16,8 +16,24 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 12 Oct 2026 07:35:16 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Oct 2026 11:07:07 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-14</title>
+        <description><![CDATA[GIULIA: Buongiorno, è AI Espresso del tredici ottobre duemilaventisei.
+
+MARCO: E oggi iniziamo con una storia che sembra uscita da una spy story: un ingegnere di OpenAI arrestato dall'FBI per aver piazzato una cimice in sala riunioni.
+
+GIULIA: Aspetta, cioè letteralmente una microspia?
+
+MARCO: Letteralmente. Il Dipartimento di Giustizia americano dice che era un dispositivo di registrazione sofisticato, attaccato dietro a un televisore in una sala conferenze dove discutevano informazioni tecnich...]]></description>
+        <pubDate>Wed, 14 Oct 2026 11:07:07 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-14-1307</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-14.mp3" length="23650944"
+  type="audio/mpeg" />
+        <itunes:duration>21:14</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-12</title>
         <description><![CDATA[Buongiorno, AI Espresso dell'undici ottobre duemilaventisei. Partiamo dalla notizia che ha fatto crollare ieri i titoli cloud: OpenAI non fattura settanta miliardi annui. Ne fattura cinquanta. Venti miliardi di differenza, spariti da un giorno all'altro perché qualcuno aveva calcolato male il revenue annualizzato. Il Financial Times ha corretto il tiro giovedì, e nel giro di ore Nvidia, CoreWeave, Nebius, giù tutti. Il problema non sono i cinquanta miliardi, che restano comunque una cifra enorme...]]></description>
         <pubDate>Mon, 12 Oct 2026 07:35:16 GMT</pubDate>
@@ -27,7 +43,7 @@
         <itunes:duration>23:30</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-03</title>
         <description><![CDATA[Buongiorno, AI Espresso del 2 ottobre 2026. OpenAI licenzia tre ricercatori di sicurezza per violazione delle policy interne, e intanto chiude un giro da venti miliardi. Partiamo.
 
@@ -393,18 +409,6 @@ Partiamo da Astra. OpenAI lo chiama il modello...]]></description>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-04.mp3" length="16238592"
   type="audio/mpeg" />
         <itunes:duration>18:02</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-03</title>
-        <description><![CDATA[Buongiorno, AI Espresso del tre settembre duemilaventisei. Sono bastati tre giorni di settembre per scatenare una valanga di nuovi modelli AI, e stamattina parliamo di una corsa che coinvolge Meta, Google, Anthropic e pure il Pentagono.
-
-Partiamo da Anthropic che ha rilasciato i nuovi Claude Fable cinque punto uno e Mythos cinque punto uno. Fable cinque punto uno è pubblico, Mythos cinque punto uno è riservato a chi lavora in cybersecurity e scienze della vita. Stesso modello di base, diversi si...]]></description>
-        <pubDate>Thu, 03 Sep 2026 11:05:01 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-03-1305</guid>
-        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-09-03/ai-espresso-2026-09-03.mp3" length="8474496"
-  type="audio/mpeg" />
-        <itunes:duration>9:28</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
