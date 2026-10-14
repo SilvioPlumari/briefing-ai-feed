@@ -29,22 +29,7 @@ Allora, la notizia grossa arriva da San Francisco. Il Dipartimento di Giustizia 
         <itunes:duration>6:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
-        <title>AI Espresso - 2026-10-14</title>
-        <description><![CDATA[GIULIA: Buongiorno, è AI Espresso del tredici ottobre duemilaventisei.
-
-MARCO: E oggi iniziamo con una storia che sembra uscita da una spy story: un ingegnere di OpenAI arrestato dall'FBI per aver piazzato una cimice in sala riunioni.
-
-GIULIA: Aspetta, cioè letteralmente una microspia?
-
-MARCO: Letteralmente. Il Dipartimento di Giustizia americano dice che era un dispositivo di registrazione sofisticato, attaccato dietro a un televisore in una sala conferenze dove discutevano informazioni tecnich...]]></description>
-        <pubDate>Wed, 14 Oct 2026 11:07:07 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-14-1307</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-14.mp3" length="23650944"
-  type="audio/mpeg" />
-        <itunes:duration>21:14</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
+  
 <item>
         <title>AI Espresso - 2026-10-12</title>
         <description><![CDATA[Buongiorno, AI Espresso dell'undici ottobre duemilaventisei. Partiamo dalla notizia che ha fatto crollare ieri i titoli cloud: OpenAI non fattura settanta miliardi annui. Ne fattura cinquanta. Venti miliardi di differenza, spariti da un giorno all'altro perché qualcuno aveva calcolato male il revenue annualizzato. Il Financial Times ha corretto il tiro giovedì, e nel giro di ore Nvidia, CoreWeave, Nebius, giù tutti. Il problema non sono i cinquanta miliardi, che restano comunque una cifra enorme...]]></description>
