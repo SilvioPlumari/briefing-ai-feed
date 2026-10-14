@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 14 Oct 2026 11:07:07 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 14 Oct 2026 13:40:34 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-14</title>
+        <description><![CDATA[Buongiorno, AI Espresso di mercoledì quattordici ottobre duemilaventisei. Oggi si parla di un arresto clamoroso in OpenAI per spionaggio industriale, Apple che finalmente entra sul serio nel mercato della casa intelligente, e Character punto ai che dichiara bancarotta. Partiamo subito.
+
+Allora, la notizia grossa arriva da San Francisco. Il Dipartimento di Giustizia americano ha annunciato ieri l'arresto di un dipendente di OpenAI, Abdulrahman Alfozan, accusato di aver installato una cimice in un...]]></description>
+        <pubDate>Wed, 14 Oct 2026 13:40:34 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-14-1540</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-14.mp3" length="6280320"
+  type="audio/mpeg" />
+        <itunes:duration>6:46</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-14</title>
         <description><![CDATA[GIULIA: Buongiorno, è AI Espresso del tredici ottobre duemilaventisei.
 
@@ -33,7 +45,7 @@ MARCO: Letteralmente. Il Dipartimento di Giustizia americano dice che era un dis
         <itunes:duration>21:14</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-12</title>
         <description><![CDATA[Buongiorno, AI Espresso dell'undici ottobre duemilaventisei. Partiamo dalla notizia che ha fatto crollare ieri i titoli cloud: OpenAI non fattura settanta miliardi annui. Ne fattura cinquanta. Venti miliardi di differenza, spariti da un giorno all'altro perché qualcuno aveva calcolato male il revenue annualizzato. Il Financial Times ha corretto il tiro giovedì, e nel giro di ore Nvidia, CoreWeave, Nebius, giù tutti. Il problema non sono i cinquanta miliardi, che restano comunque una cifra enorme...]]></description>
         <pubDate>Mon, 12 Oct 2026 07:35:16 GMT</pubDate>
@@ -395,20 +407,6 @@ GPT-6 Astra è disponibile da ieri, ma non per tutti subito. Prima vanno le azie
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-05.mp3" length="6920064"
   type="audio/mpeg" />
         <itunes:duration>7:44</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-04</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 4 settembre 2026
-
-Buongiorno, AI Espresso del quattro settembre. Pronti? Perché oggi è una di quelle giornate in cui non sai dove guardare prima. OpenAI ha lanciato GPT sei Astra, quello che chiamano "salto generazionale", mentre Anthropic ha appena chiuso un accordo da quarantacinque miliardi con Nscale. E nel frattempo Nvidia ha comprato Hugging Face per quasi tredici miliardi. Sì, tutto in ventiquattro ore. Andiamo.
-
-Partiamo da Astra. OpenAI lo chiama il modello...]]></description>
-        <pubDate>Fri, 04 Sep 2026 11:05:13 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-04-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-04.mp3" length="16238592"
-  type="audio/mpeg" />
-        <itunes:duration>18:02</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
