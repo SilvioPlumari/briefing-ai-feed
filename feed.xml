@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 14 Oct 2026 13:40:34 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 15 Oct 2026 11:06:43 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-15</title>
+        <description><![CDATA[# AI Espresso - 15 ottobre 2026
+
+Buongiorno, AI Espresso di giovedì quindici ottobre duemilaventisei. Stamattina apriamo con un dato che fa rumore: oltre quattrocento scienziati, tra cui Geoffrey Hinton e Yoshua Bengio, chiedono ufficialmente di isolare i modelli AI più potenti dalla rete prima di metterli in produzione. E mentre il dibattito sulla sicurezza si infiamma, scopriamo che CoreWeave, uno dei protagonisti dell'infrastruttura AI, ha perso il quindici e mezzo per cento in borsa in un so...]]></description>
+        <pubDate>Thu, 15 Oct 2026 11:06:43 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-15-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-15.mp3" length="16575744"
+  type="audio/mpeg" />
+        <itunes:duration>17:16</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-14</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì quattordici ottobre duemilaventisei. Oggi si parla di un arresto clamoroso in OpenAI per spionaggio industriale, Apple che finalmente entra sul serio nel mercato della casa intelligente, e Character punto ai che dichiara bancarotta. Partiamo subito.
 
@@ -29,7 +41,6 @@ Allora, la notizia grossa arriva da San Francisco. Il Dipartimento di Giustizia 
         <itunes:duration>6:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  
 <item>
         <title>AI Espresso - 2026-10-12</title>
         <description><![CDATA[Buongiorno, AI Espresso dell'undici ottobre duemilaventisei. Partiamo dalla notizia che ha fatto crollare ieri i titoli cloud: OpenAI non fattura settanta miliardi annui. Ne fattura cinquanta. Venti miliardi di differenza, spariti da un giorno all'altro perché qualcuno aveva calcolato male il revenue annualizzato. Il Financial Times ha corretto il tiro giovedì, e nel giro di ore Nvidia, CoreWeave, Nebius, giù tutti. Il problema non sono i cinquanta miliardi, che restano comunque una cifra enorme...]]></description>
