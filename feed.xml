@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 15 Oct 2026 11:06:43 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 16 Oct 2026 11:05:53 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-16</title>
+        <description><![CDATA[Buongiorno, AI Espresso di venerdì sedici ottobre duemilaventisei. Sono le sette, e stamattina partiamo subito forte: qualcuno ha piazzato una microspia dentro OpenAI. No, non un cyberattacco sofisticato. Una microspia vecchio stile, nascosta nella carta igienica e collegata alla porta USB di un televisore. Sembra una barzelletta, ma l'FBI ha arrestato una persona e la storia è molto più strana di quanto sembri.
+
+Andiamo con ordine. Il tredici ottobre scorso è stato arrestato Abdulrahman Alfozan...]]></description>
+        <pubDate>Fri, 16 Oct 2026 11:05:53 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-16-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-16.mp3" length="13939584"
+  type="audio/mpeg" />
+        <itunes:duration>14:32</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-15</title>
         <description><![CDATA[# AI Espresso - 15 ottobre 2026
 
@@ -29,7 +41,7 @@ Buongiorno, AI Espresso di giovedì quindici ottobre duemilaventisei. Stamattina
         <itunes:duration>17:16</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-14</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì quattordici ottobre duemilaventisei. Oggi si parla di un arresto clamoroso in OpenAI per spionaggio industriale, Apple che finalmente entra sul serio nel mercato della casa intelligente, e Character punto ai che dichiara bancarotta. Partiamo subito.
 
@@ -391,18 +403,6 @@ E qui la cosa si fa interessante. Insti...]]></description>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-06.mp3" length="2640000"
   type="audio/mpeg" />
         <itunes:duration>2:57</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-05</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 5 settembre 2026. OpenAI ha appena lanciato GPT-6 Astra, e per la prima volta dice ad alta voce: potrebbe essere questo il punto di arrivo dell'AGI, l'intelligenza artificiale generale. Iniziamo.
-
-GPT-6 Astra è disponibile da ieri, ma non per tutti subito. Prima vanno le aziende del programma Daybreak Access per la cybersecurity, poi nei prossimi giorni arriva per gli utenti ChatGPT Plus, Pro, Business ed Enterprise, più API e Amazon Web Services. OpenAI la presenta c...]]></description>
-        <pubDate>Sat, 05 Sep 2026 11:03:21 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-05-1303</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-05.mp3" length="6920064"
-  type="audio/mpeg" />
-        <itunes:duration>7:44</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
