@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 16 Oct 2026 11:05:53 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 17 Oct 2026 11:05:08 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-17</title>
+        <description><![CDATA[Buongiorno, AI Espresso di sabato diciassette ottobre duemilaventisei. Un'azienda che nessuno conosceva diciotto mesi fa ha appena raggiunto un miliardo di dollari di ricavi annualizzati. Si chiama Higgsfield, fa video generati con l'AI, e il suo fondatore Alex Mashrabov ha appena raccontato come ci è arrivato. Spoiler: ha quasi bruciato tutto prima di capire cosa stava facendo.
+
+Partiamo dai numeri, che sono fuori scala. Higgsfield è passata da un milione a un miliardo di dollari di ricavi annu...]]></description>
+        <pubDate>Sat, 17 Oct 2026 11:05:08 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-17-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-17.mp3" length="9361152"
+  type="audio/mpeg" />
+        <itunes:duration>9:46</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-16</title>
         <description><![CDATA[Buongiorno, AI Espresso di venerdì sedici ottobre duemilaventisei. Sono le sette, e stamattina partiamo subito forte: qualcuno ha piazzato una microspia dentro OpenAI. No, non un cyberattacco sofisticato. Una microspia vecchio stile, nascosta nella carta igienica e collegata alla porta USB di un televisore. Sembra una barzelletta, ma l'FBI ha arrestato una persona e la storia è molto più strana di quanto sembri.
 
@@ -29,7 +41,7 @@ Andiamo con ordine. Il tredici ottobre scorso è stato arrestato Abdulrahman Alf
         <itunes:duration>14:32</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-15</title>
         <description><![CDATA[# AI Espresso - 15 ottobre 2026
 
@@ -389,20 +401,6 @@ Partiamo da una storia che ha del surreale. OpenAI ha un problema con i suoi age
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-07.mp3" length="6443904"
   type="audio/mpeg" />
         <itunes:duration>7:13</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-06</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 15 gennaio 2025. Oggi parliamo di Instinct, l'assistente AI che non usi, ma assumi.
-
-Mettiamola così: fine agosto, stesso giorno, due aziende vengono valutate due miliardi e mezzo di dollari. La prima è Linear, che ci ha messo anni per arrivarci: cento milioni di fatturato ricorrente, quarantamila clienti paganti, crescita del centosettantasette percento. La seconda è Instinct. Che aveva lanciato il prodotto la settimana prima.
-
-E qui la cosa si fa interessante. Insti...]]></description>
-        <pubDate>Sun, 06 Sep 2026 11:02:42 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-06-1302</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-06.mp3" length="2640000"
-  type="audio/mpeg" />
-        <itunes:duration>2:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
