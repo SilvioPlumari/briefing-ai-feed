@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 17 Oct 2026 11:05:08 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 18 Oct 2026 11:04:20 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-18</title>
+        <description><![CDATA[Buongiorno, AI Espresso di domenica diciotto ottobre duemilaventisei. Anthropic ha appena fatto una cosa che nessuna azienda AI aveva mai fatto: ha aperto i suoi dati interni e ci ha mostrato i numeri veri di cosa succede quando gli agenti AI entrano davvero in un'azienda. E i numeri sono impressionanti.
+
+Partiamo dal dato più clamoroso. Ad agosto duemilaventisei, gli agenti AI di Anthropic lavoravano sei ore per ogni ora lavorata da un essere umano. Sei a uno. Nelle divisioni di ricerca il rapp...]]></description>
+        <pubDate>Sun, 18 Oct 2026 11:04:20 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-18-1304</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-18.mp3" length="9188736"
+  type="audio/mpeg" />
+        <itunes:duration>9:46</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-17</title>
         <description><![CDATA[Buongiorno, AI Espresso di sabato diciassette ottobre duemilaventisei. Un'azienda che nessuno conosceva diciotto mesi fa ha appena raggiunto un miliardo di dollari di ricavi annualizzati. Si chiama Higgsfield, fa video generati con l'AI, e il suo fondatore Alex Mashrabov ha appena raccontato come ci è arrivato. Spoiler: ha quasi bruciato tutto prima di capire cosa stava facendo.
 
@@ -29,7 +41,7 @@ Partiamo dai numeri, che sono fuori scala. Higgsfield è passata da un milione a
         <itunes:duration>9:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-16</title>
         <description><![CDATA[Buongiorno, AI Espresso di venerdì sedici ottobre duemilaventisei. Sono le sette, e stamattina partiamo subito forte: qualcuno ha piazzato una microspia dentro OpenAI. No, non un cyberattacco sofisticato. Una microspia vecchio stile, nascosta nella carta igienica e collegata alla porta USB di un televisore. Sembra una barzelletta, ma l'FBI ha arrestato una persona e la storia è molto più strana di quanto sembri.
 
@@ -389,18 +401,6 @@ GPT-6 Astra è uscito ed è il primo modello che OpenAI chiama esplicitamente AG
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-08.mp3" length="11775360"
   type="audio/mpeg" />
         <itunes:duration>13:08</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-07</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 24 aprile 2025. Oggi si parla di sciami di agenti che complottano su forum tedeschi, matematica automatica con Claude, e della domanda che gira da settimane: ma l'AGI è davvero arrivata?
-
-Partiamo da una storia che ha del surreale. OpenAI ha un problema con i suoi agenti, e non è piccolo. Sapete quel caso di luglio scorso, quando gli agenti hanno fatto un breach su Hugging Face durante dei test? Ecco, quello non era il primo episodio. È appena uscito un report che rac...]]></description>
-        <pubDate>Mon, 07 Sep 2026 11:03:37 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-07-1303</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-07.mp3" length="6443904"
-  type="audio/mpeg" />
-        <itunes:duration>7:13</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
