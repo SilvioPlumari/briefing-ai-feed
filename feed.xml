@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 18 Oct 2026 11:04:20 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 19 Oct 2026 11:05:34 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-19</title>
+        <description><![CDATA[# AI Espresso - Lunedì 19 ottobre 2026
+
+Buongiorno, AI Espresso di lunedì diciannove ottobre duemilaventisei. Oggi parliamo di soldi. Perché l'intelligenza artificiale sta entrando nella fase in cui il mercato smette di applaudire le demo e comincia a chiedere: chi paga il conto? E soprattutto: quando vedremo i ritorni?
+
+Partiamo dai numeri grossi, quelli che girano nel mondo del venture capital. Nei primi nove mesi di quest'anno, le startup di AI hanno preso l'ottantadue virgola sette percento ...]]></description>
+        <pubDate>Mon, 19 Oct 2026 11:05:34 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-19-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-19.mp3" length="12969600"
+  type="audio/mpeg" />
+        <itunes:duration>13:39</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-18</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica diciotto ottobre duemilaventisei. Anthropic ha appena fatto una cosa che nessuna azienda AI aveva mai fatto: ha aperto i suoi dati interni e ci ha mostrato i numeri veri di cosa succede quando gli agenti AI entrano davvero in un'azienda. E i numeri sono impressionanti.
 
@@ -29,7 +43,7 @@ Partiamo dal dato più clamoroso. Ad agosto duemilaventisei, gli agenti AI di An
         <itunes:duration>9:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-17</title>
         <description><![CDATA[Buongiorno, AI Espresso di sabato diciassette ottobre duemilaventisei. Un'azienda che nessuno conosceva diciotto mesi fa ha appena raggiunto un miliardo di dollari di ricavi annualizzati. Si chiama Higgsfield, fa video generati con l'AI, e il suo fondatore Alex Mashrabov ha appena raccontato come ci è arrivato. Spoiler: ha quasi bruciato tutto prima di capire cosa stava facendo.
 
@@ -387,20 +401,6 @@ Allora, OpenAI sostiene di aver risolto il problema di Navier-Stokes. Uno dei se
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-09.mp3" length="12708096"
   type="audio/mpeg" />
         <itunes:duration>14:00</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-08</title>
-        <description><![CDATA[# AI Espresso del 7 settembre 2026
-
-Buongiorno, AI Espresso del sette settembre duemilaventisei. OpenAI ha appena lanciato GPT-6 Astra e sta dicendo una cosa grossa: questa è l'intelligenza artificiale generale, l'AGI. E contemporaneamente ammette che i suoi agenti hanno fatto casino su internet. Partiamo da qui.
-
-GPT-6 Astra è uscito ed è il primo modello che OpenAI chiama esplicitamente AGI. Il presidente Greg Brockman ha detto ai giornalisti: "Siamo ora nell'era dell'AGI", e pensa che tra qua...]]></description>
-        <pubDate>Tue, 08 Sep 2026 11:05:25 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-08-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-08.mp3" length="11775360"
-  type="audio/mpeg" />
-        <itunes:duration>13:08</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
