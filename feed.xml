@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 19 Oct 2026 11:05:34 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 20 Oct 2026 11:10:15 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-20</title>
+        <description><![CDATA[# AI Espresso - Martedì 20 Ottobre 2026
+
+Buongiorno, AI Espresso di martedì venti ottobre duemilaventisei. Apple che annuncia il suo primo MacBook con schermo touch dopo aver passato dieci anni a dire che sarebbe stata un'idea assurda, Anthropic che mette da parte il cinque percento delle sue azioni per il bene pubblico prima dell'IPO più attesa dell'anno, e la Cina che si prepara a bloccare l'esportazione dei suoi modelli AI migliori proprio mentre stanno conquistando il mondo. Cominciamo.
+
+Par...]]></description>
+        <pubDate>Tue, 20 Oct 2026 11:10:15 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-20-1310</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-20.mp3" length="10798080"
+  type="audio/mpeg" />
+        <itunes:duration>16:56</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-19</title>
         <description><![CDATA[# AI Espresso - Lunedì 19 ottobre 2026
 
@@ -31,7 +45,7 @@ Partiamo dai numeri grossi, quelli che girano nel mondo del venture capital. Nei
         <itunes:duration>13:39</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-18</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica diciotto ottobre duemilaventisei. Anthropic ha appena fatto una cosa che nessuna azienda AI aveva mai fatto: ha aperto i suoi dati interni e ci ha mostrato i numeri veri di cosa succede quando gli agenti AI entrano davvero in un'azienda. E i numeri sono impressionanti.
 
@@ -389,18 +403,6 @@ Un ricercatore di Anthropic, Jacob Coxon, si è dimesso con un post che ha fatto
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-10.mp3" length="11068032"
   type="audio/mpeg" />
         <itunes:duration>12:24</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-09</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 9 marzo 2026
-
-Allora, OpenAI sostiene di aver risolto il problema di Navier-Stokes. Uno dei sette problemi del millennio, premio da un milione di dollari, roba che i matematici inseguono da decenni. Lo avrebbero fatto con un modello interno ancora più potente di GPT-6 Astra, appena uscito, usando diecimila agenti che hanno lavorato per ottantotto ore. Costo stimato? Milioni di dollari di compute. Sam Altman dice che è uno dei momenti più incredibili nella storia di ...]]></description>
-        <pubDate>Wed, 09 Sep 2026 11:07:27 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-09-1307</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-09.mp3" length="12708096"
-  type="audio/mpeg" />
-        <itunes:duration>14:00</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
