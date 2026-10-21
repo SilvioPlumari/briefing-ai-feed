@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 20 Oct 2026 11:10:15 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 21 Oct 2026 11:09:51 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-21</title>
+        <description><![CDATA[Buongiorno, AI Espresso di mercoledì ventuno ottobre duemilaventisei. Elon Musk promette di regalare un'azione SpaceX a ogni bambino americano, mentre Cina e Stati Uniti trasformano l'intelligenza artificiale in arma geopolitica. Andiamo.
+
+Partiamo da Musk, che ieri sera ha fatto un annuncio clamoroso durante la chiamata sugli utili di SpaceX: l'anno prossimo regalerà un'azione della sua azienda spaziale a ogni ragazzo americano. Stiamo parlando di circa settantatré milioni di under diciotto. A ...]]></description>
+        <pubDate>Wed, 21 Oct 2026 11:09:51 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-21-1309</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-21.mp3" length="8821632"
+  type="audio/mpeg" />
+        <itunes:duration>15:16</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-20</title>
         <description><![CDATA[# AI Espresso - Martedì 20 Ottobre 2026
 
@@ -31,7 +43,7 @@ Par...]]></description>
         <itunes:duration>16:56</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-19</title>
         <description><![CDATA[# AI Espresso - Lunedì 19 ottobre 2026
 
@@ -389,20 +401,6 @@ OpenAI ha lanciato GPT-6 Astra, e Greg Brockman, presidente e co-fondatore, ha d
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-11.mp3" length="16139520"
   type="audio/mpeg" />
         <itunes:duration>17:47</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-10</title>
-        <description><![CDATA[# AI Espresso del 9 settembre 2026
-
-Buongiorno, AI Espresso del nove settembre. Oggi si parla di estinzione, e no, non è clickbait. Partiamo da lì.
-
-Un ricercatore di Anthropic, Jacob Coxon, si è dimesso con un post che ha fatto esplodere internet. La sua accusa: sia Anthropic che OpenAI stanno "giocando d'azzardo con le nostre vite" nella corsa verso l'intelligenza artificiale che si auto-migliora. Ma il momento vero è arrivato nella risposta di Evan Hubinger, a capo dell'Alignment Science di A...]]></description>
-        <pubDate>Thu, 10 Sep 2026 11:06:09 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-10-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-10.mp3" length="11068032"
-  type="audio/mpeg" />
-        <itunes:duration>12:24</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
