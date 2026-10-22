@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 21 Oct 2026 11:09:51 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 22 Oct 2026 11:05:24 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-22</title>
+        <description><![CDATA[Buongiorno, AI Espresso di giovedì ventidue ottobre duemilaventisei. Oggi parliamo di fusioni miliardarie, cyberattacchi potenziati dall'AI e di come i vostri dati aziendali potrebbero valere più di quanto pensiate.
+
+Partiamo dalla bomba della giornata. Ieri sera Elon Musk ha annunciato che SpaceX e Tesla hanno formato dei comitati speciali per esplorare una possibile fusione tra le due società. Avete capito bene: le auto elettriche e i razzi potrebbero diventare un'unica mega-azienda. Sarebbe l...]]></description>
+        <pubDate>Thu, 22 Oct 2026 11:05:24 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-22-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-22.mp3" length="18724608"
+  type="audio/mpeg" />
+        <itunes:duration>19:48</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-21</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì ventuno ottobre duemilaventisei. Elon Musk promette di regalare un'azione SpaceX a ogni bambino americano, mentre Cina e Stati Uniti trasformano l'intelligenza artificiale in arma geopolitica. Andiamo.
 
@@ -29,7 +41,7 @@ Partiamo da Musk, che ieri sera ha fatto un annuncio clamoroso durante la chiama
         <itunes:duration>15:16</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-20</title>
         <description><![CDATA[# AI Espresso - Martedì 20 Ottobre 2026
 
@@ -387,20 +399,6 @@ Amodei parla di "pacing the frontier", rallentare la frontiera. Il punto chiave:
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-14.mp3" length="10923264"
   type="audio/mpeg" />
         <itunes:duration>12:12</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-11</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 10 settembre 2026
-
-Buongiorno, AI Espresso del 10 settembre 2026. Si parla di AGI, di dimissioni eccellenti per motivi di sicurezza, e di un report di Anthropic che fa venire i brividi. Partiamo.
-
-OpenAI ha lanciato GPT-6 Astra, e Greg Brockman, presidente e co-fondatore, ha detto una cosa grossa: siamo nell'era dell'AGI. Artificial General Intelligence, quella che dovrebbe fare tutto come noi o meglio di noi. Poi ha subito aggiunto che in realtà il confine è sfumat...]]></description>
-        <pubDate>Fri, 11 Sep 2026 11:07:02 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-11-1307</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-11.mp3" length="16139520"
-  type="audio/mpeg" />
-        <itunes:duration>17:47</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
