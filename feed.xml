@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 23 Oct 2026 11:06:38 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 24 Oct 2026 11:05:11 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-24</title>
+        <description><![CDATA[Buongiorno, AI Espresso di sabato ventiquattro ottobre duemilaventisei. Oggi parliamo di soldi, tanti soldi. OpenAI sta chiudendo un round da trenta miliardi di dollari che la porterebbe a una valutazione da un trilione e duecentocinquanta miliardi. Sì, avete capito bene. E mentre tutti rincorrono questi numeri astronomici, scopriamo che solo il quattro virgola cinque percento degli americani paga per l'AI, ma alcuni di loro spendono novecentotre dollari al mese. Di tasca propria. Partiamo.
+
+Com...]]></description>
+        <pubDate>Sat, 24 Oct 2026 11:05:11 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-24-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-24.mp3" length="10661376"
+  type="audio/mpeg" />
+        <itunes:duration>10:59</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-23</title>
         <description><![CDATA[# Buongiorno, AI Espresso di venerdì ventitre ottobre duemilaventisei.
 
@@ -31,7 +43,7 @@ Ieri sera Meta ha annunciato i risultati del terzo trimest...]]></description>
         <itunes:duration>15:13</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-22</title>
         <description><![CDATA[Buongiorno, AI Espresso di giovedì ventidue ottobre duemilaventisei. Oggi parliamo di fusioni miliardarie, cyberattacchi potenziati dall'AI e di come i vostri dati aziendali potrebbero valere più di quanto pensiate.
 
@@ -387,18 +399,6 @@ Partiamo dalla bomba politica. Nel weekend diversi CEO dell'AI hanno chiesto di 
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-16.mp3" length="9692160"
   type="audio/mpeg" />
         <itunes:duration>10:53</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-15</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del quattordici settembre duemilaventisei. E partiamo subito con la notizia che sta facendo rumore: Trump e la Cina d'accordo su qualcosa. Peccato che sia per dire no al rallentamento dell'intelligenza artificiale.
-
-Allora, il weekend ha portato una proposta esplosiva. Dario Amodei di Anthropic ha scritto un lungo saggio chiedendo alle aziende AI di rallentare lo sviluppo dei modelli più avanzati. E non è rimasto solo: Sam Altman di OpenAI ed Elon Musk hanno detto sì, s...]]></description>
-        <pubDate>Tue, 15 Sep 2026 11:03:09 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-15-1303</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-15.mp3" length="9309696"
-  type="audio/mpeg" />
-        <itunes:duration>10:25</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
