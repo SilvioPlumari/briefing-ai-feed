@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 24 Oct 2026 11:05:11 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 25 Oct 2026 12:05:13 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-25</title>
+        <description><![CDATA[# AI Espresso
+
+Buongiorno, AI Espresso di domenica venticinque ottobre duemilaventisei. Oggi vi racconto di come un team da cinque persone può diventare un sistema da duecento dollari al mese. E non è fantascienza, è Claude Code che gira mentre voi dormite.
+
+Partiamo dalla notizia grossa. Anthropic ha appena reso disponibile a tutti gli utenti Pro, Max e Team una funzione che cambia le carte in tavola: i task schedulati nel cloud. In pratica, potete dire a Claude Code di svegliarsi alle sei e se...]]></description>
+        <pubDate>Sun, 25 Oct 2026 12:05:13 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-25-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-25.mp3" length="10722816"
+  type="audio/mpeg" />
+        <itunes:duration>11:09</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-24</title>
         <description><![CDATA[Buongiorno, AI Espresso di sabato ventiquattro ottobre duemilaventisei. Oggi parliamo di soldi, tanti soldi. OpenAI sta chiudendo un round da trenta miliardi di dollari che la porterebbe a una valutazione da un trilione e duecentocinquanta miliardi. Sì, avete capito bene. E mentre tutti rincorrono questi numeri astronomici, scopriamo che solo il quattro virgola cinque percento degli americani paga per l'AI, ma alcuni di loro spendono novecentotre dollari al mese. Di tasca propria. Partiamo.
 
@@ -29,7 +43,7 @@ Com...]]></description>
         <itunes:duration>10:59</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-23</title>
         <description><![CDATA[# Buongiorno, AI Espresso di venerdì ventitre ottobre duemilaventisei.
 
@@ -387,18 +401,6 @@ Partiamo da dove la tensione è più esplicita. Mark Zuckerberg ha appena rotto 
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-17.mp3" length="11784192"
   type="audio/mpeg" />
         <itunes:duration>13:10</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-16</title>
-        <description><![CDATA[Buongiorno, AI Espresso del quindici settembre duemilaventisei. Allora, preparatevi perché oggi è un casino: c'è chi vuole rallentare lo sviluppo dell'AI, chi lo considera un complotto, e nel mezzo escono nuovi modelli più veloci ed economici.
-
-Partiamo dalla bomba politica. Nel weekend diversi CEO dell'AI hanno chiesto di "rallentare". Sabato Dario Amodei di Anthropic pubblica un saggio intitolato "Pace the frontier", dicendo che i lab principali dovrebbero fermarsi abbastanza da permettere ver...]]></description>
-        <pubDate>Wed, 16 Sep 2026 11:05:56 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-16-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-16.mp3" length="9692160"
-  type="audio/mpeg" />
-        <itunes:duration>10:53</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
