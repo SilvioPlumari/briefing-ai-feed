@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 26 Oct 2026 12:09:07 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 27 Oct 2026 12:10:21 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-27</title>
+        <description><![CDATA[# AI Espresso - Martedì 27 ottobre 2026
+
+Buongiorno, AI Espresso di martedì ventisette ottobre duemilaventisei. Oggi parliamo di soldi. Tanti soldi. Perché ieri è stata la giornata in cui i giganti dell'intelligenza artificiale hanno deciso di aspirare tutto l'ossigeno disponibile nel mercato dei capitali. Anthropic ha depositato i documenti per quotarsi in borsa, Meta vuole raccogliere fino a novantacinque miliardi di dollari, e SpaceX ha chiuso un accordo da quaranta miliardi con Apollo per no...]]></description>
+        <pubDate>Tue, 27 Oct 2026 12:10:21 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-27-1310</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-27.mp3" length="14704896"
+  type="audio/mpeg" />
+        <itunes:duration>15:22</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-26</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì ventisei ottobre duemilaventisei. Amazon Web Services ha esaurito la capacità cloud fino al duemilaventotto. Instacart cerca acquirenti. E la sovranità digitale europea entra nel vivo. Partiamo.
 
@@ -29,7 +41,7 @@ Andy Jassy, CEO di Amazon, ha sgranato numeri impressionanti in un podcast di An
         <itunes:duration>9:27</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-25</title>
         <description><![CDATA[# AI Espresso
 
@@ -389,18 +401,6 @@ Partiamo dai movimenti in casa OpenAI, che sta ricostruendo la squadra vendite d
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-19.mp3" length="9843840"
   type="audio/mpeg" />
         <itunes:duration>10:57</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-18</title>
-        <description><![CDATA[Buongiorno, AI Espresso del diciassette settembre duemilaventisei. Oggi si parla solo di una cosa: quanto deve correre l'AI, e chi decide. E mentre tutti discutono, le vulnerabilità di sicurezza sono già qui.
-
-Partiamo dalla bomba della settimana. Dario Amodei, il CEO di Anthropic, ha pubblicato un saggio dal titolo chiarissimo: dobbiamo rallentare. Non fermare, rallentare. Il punto è semplice: i modelli stanno diventando più potenti più velocemente di quanto riusciamo a capirli e controllarli. ...]]></description>
-        <pubDate>Fri, 18 Sep 2026 11:09:55 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-18-1309</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-18.mp3" length="9793536"
-  type="audio/mpeg" />
-        <itunes:duration>12:42</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
