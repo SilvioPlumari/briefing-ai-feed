@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 27 Oct 2026 12:10:21 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 28 Oct 2026 12:08:53 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-28</title>
+        <description><![CDATA[# Testo puntata AI Espresso - 28 ottobre 2026
+
+Buongiorno, AI Espresso di mercoledì ventotto ottobre duemilaventisei. Oggi vi racconto di una coincidenza che sembra quasi orchestrata: OpenAI e Anthropic annunciano lo stesso giorno di aver demolito una teoria fondamentale della crittografia. Stessa data, stesso risultato, sedici ottobre. E non è nemmeno la notizia più grossa della settimana.
+
+Partiamo proprio da qui. OpenAI ha annunciato ieri che i suoi modelli hanno falsificato quella che si chi...]]></description>
+        <pubDate>Wed, 28 Oct 2026 12:08:53 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-28-1308</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-28.mp3" length="14995200"
+  type="audio/mpeg" />
+        <itunes:duration>15:34</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-27</title>
         <description><![CDATA[# AI Espresso - Martedì 27 ottobre 2026
 
@@ -29,7 +43,7 @@ Buongiorno, AI Espresso di martedì ventisette ottobre duemilaventisei. Oggi par
         <itunes:duration>15:22</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-26</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì ventisei ottobre duemilaventisei. Amazon Web Services ha esaurito la capacità cloud fino al duemilaventotto. Instacart cerca acquirenti. E la sovranità digitale europea entra nel vivo. Partiamo.
 
@@ -389,18 +403,6 @@ Allora, partiamo da un paradosso che sta facendo impazzire gli investitori. Nel 
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-20.mp3" length="5703552"
   type="audio/mpeg" />
         <itunes:duration>6:24</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-19</title>
-        <description><![CDATA[Buongiorno, AI Espresso del diciotto settembre. OpenAI fa shopping di talenti enterprise mentre il dibattito sulla sicurezza AI diventa politica estera.
-
-Partiamo dai movimenti in casa OpenAI, che sta ricostruendo la squadra vendite dopo una serie di abbandoni. Hanno appena preso Brian McCarthy da SpaceX, più precisamente dalla divisione Cursor, come nuovo capo vendite globale. McCarthy riporterà a Dali Rajic, il chief revenue officer appena arrivato da Google Wiz il mese scorso. Ma non finisce ...]]></description>
-        <pubDate>Sat, 19 Sep 2026 11:05:15 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-19-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-19.mp3" length="9843840"
-  type="audio/mpeg" />
-        <itunes:duration>10:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
