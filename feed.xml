@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 28 Oct 2026 12:08:53 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 29 Oct 2026 12:10:37 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-29</title>
+        <description><![CDATA[# AI Espresso - Giovedì 29 ottobre 2026
+
+Buongiorno, AI Espresso di giovedì ventinovè ottobre duemilaventisei. Benvenuti. Oggi parliamo di una giornata caldissima: Google lancia il secondo modello di punta in un mese, Anthropic si prepara a una IPO da cento miliardi di dollari che blocca tutto il mercato, Apple rompe un tabù durato anni, e vi racconto cosa significa che ora ci sono trentacinquemila persone pagate per filmare sé stesse al lavoro così i robot possono imparare. Partiamo.
+
+Google ha...]]></description>
+        <pubDate>Thu, 29 Oct 2026 12:10:37 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-29-1310</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-29.mp3" length="19283328"
+  type="audio/mpeg" />
+        <itunes:duration>20:20</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-28</title>
         <description><![CDATA[# Testo puntata AI Espresso - 28 ottobre 2026
 
@@ -31,7 +45,7 @@ Partiamo proprio da qui. OpenAI ha annunciato ieri che i suoi modelli hanno fals
         <itunes:duration>15:34</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-27</title>
         <description><![CDATA[# AI Espresso - Martedì 27 ottobre 2026
 
@@ -391,18 +405,6 @@ A luglio, mentre OpenAI ammetteva che i suoi modelli avevano violato Hugging Fac
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-21.mp3" length="7660800"
   type="audio/mpeg" />
         <itunes:duration>8:36</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-20</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 7 maggio 2025. Oggi parliamo di robotica, investimenti e del perché ventisette miliardi di dollari siano già arrivati ma i robot umanoidi ancora non si vedono nelle fabbriche.
-
-Allora, partiamo da un paradosso che sta facendo impazzire gli investitori. Nel 2025 le startup di robotica hanno raccolto ventisette virgola sei miliardi di dollari, più del doppio dell'anno scorso. Figure, quella che fa robot umanoidi, è valutata trentanove miliardi. Skild è triplicata a quat...]]></description>
-        <pubDate>Sun, 20 Sep 2026 11:04:22 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-20-1304</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-20.mp3" length="5703552"
-  type="audio/mpeg" />
-        <itunes:duration>6:24</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
