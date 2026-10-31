@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 30 Oct 2026 12:06:24 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 31 Oct 2026 12:05:28 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-10-31</title>
+        <description><![CDATA[# AI Espresso
+
+Buongiorno, AI Espresso di sabato trentuno ottobre duemilaventisei. Oggi parliamo di come si entra davvero nelle startup più calde, quelle che escono da Y Combinator e diventano unicorni. Due angel investor italiani hanno appena spiegato il loro segreto, e non è quello che pensate.
+
+Partiamo da una storia che fa sognare. Una startup del loro portafoglio faceva centomila dollari l'anno. Dodici mesi dopo era a sette milioni di ricavi annuali ricorrenti. E prima ancora di arrivare al...]]></description>
+        <pubDate>Sat, 31 Oct 2026 12:05:28 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-10-31-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-31.mp3" length="9170304"
+  type="audio/mpeg" />
+        <itunes:duration>9:27</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-10-30</title>
         <description><![CDATA[# AI Espresso - Venerdì 30 ottobre 2026
 
@@ -29,7 +43,7 @@ Buongiorno, AI Espresso di venerdì trenta ottobre duemilaventisei. E partiamo s
         <itunes:duration>16:31</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-29</title>
         <description><![CDATA[# AI Espresso - Giovedì 29 ottobre 2026
 
@@ -391,20 +405,6 @@ Partiamo da Anthropic. Hanno lanciato Claude Opus cinque punto ...]]></descripti
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-23.mp3" length="12351744"
   type="audio/mpeg" />
         <itunes:duration>13:49</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-22</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del ventuno settembre duemilaventisei.
-
-Iniziamo da un ring inaspettato: Amazon contro Meta. E quando dico "contro" intendo proprio che Amazon ha chiuso la porta in faccia a Muse, l'assistente AI di Meta, impedendogli di fare acquisti su Amazon. Dodici giorni dopo il lancio.
-
-La versione di Amazon è semplice: Muse gira per il loro sito senza identificarsi, non ha mai chiesto il permesso, e pare che catturi e memorizzi le credenziali dei clienti. Meta risponde che non è ...]]></description>
-        <pubDate>Tue, 22 Sep 2026 11:07:15 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-22-1307</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-22.mp3" length="14355840"
-  type="audio/mpeg" />
-        <itunes:duration>16:04</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
