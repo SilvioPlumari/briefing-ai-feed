@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 01 Nov 2026 12:05:42 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 02 Nov 2026 12:05:34 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-02</title>
+        <description><![CDATA[Buongiorno, AI Espresso di lunedì due novembre duemilaventisei. Quando Google e Microsoft raccolgono oltre ottanta miliardi di dollari in pochi mesi per costruire data center, e poi vedono i titoli crollare perché gli investitori si spaventano dei costi, capisci che siamo in una fase nuova. E oggi cominciamo proprio da qui.
+
+Alphabet, la casa madre di Google, ha appena raccolto qualcosa come quarantuno miliardi di dollari. Quasi ventinove miliardi attraverso obbligazioni, altri dodici e mezzo ve...]]></description>
+        <pubDate>Mon, 02 Nov 2026 12:05:34 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-02-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-02.mp3" length="10712448"
+  type="audio/mpeg" />
+        <itunes:duration>11:20</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-01</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica primo novembre duemilaventisei. Oggi parliamo di soldi veri: quanto costa davvero farsi aiutare dall'intelligenza artificiale, e chi sta risparmiando migliaia di dollari all'anno solo scegliendo il piano giusto.
 
@@ -29,7 +41,7 @@ Partiamo dalla notizia principale. È uscita un'analisi che ha passato al setacc
         <itunes:duration>13:37</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-10-31</title>
         <description><![CDATA[# AI Espresso
 
@@ -387,22 +399,6 @@ Meta ha trasformato Connect in uno show su Muse. Mark Zuckerberg ha presentato u
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-25.mp3" length="16092672"
   type="audio/mpeg" />
         <itunes:duration>17:55</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-24</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 23 settembre 2026
-
-Allora, oggi si parla parecchio. Claude che scopre roba nel DNA, OpenAI che rilascia GPT-6 Astra con capacità che fanno discutere, guerre di prezzo sull'AI, e poi c'è l'Europa che secondo Lagarde rischia di diventare dipendente dall'AI straniera. Partiamo.
-
-## Claude scopre un sistema DNA misterioso
-
-Anthropic ha annunciato la prima scoperta del suo laboratorio di biologia AI. Claude ha passato meno di ventiquattro ore a setacciare database di DNA...]]></description>
-        <pubDate>Thu, 24 Sep 2026 11:06:14 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-24-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-24.mp3" length="10025856"
-  type="audio/mpeg" />
-        <itunes:duration>11:07</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
