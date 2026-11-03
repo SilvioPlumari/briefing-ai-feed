@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 02 Nov 2026 12:05:34 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 03 Nov 2026 12:06:13 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-03</title>
+        <description><![CDATA[# AI Espresso - Martedì 3 novembre 2026
+
+Buongiorno, AI Espresso di martedì tre novembre duemilaventisei. Sono qui con il caffè in mano e una domanda: quanto costa davvero essere nel futuro? Oggi ve lo racconto con i numeri.
+
+Partiamo da una notizia che spacca. Gemini quattro Argon, il nuovo modello di punta di Google, ha macinato quasi venticinque trilioni di token nelle prime settantadue ore dal lancio. Venticinque trilioni. Per darvi l'idea, è il triplo di quello che aveva fatto Gemini tre pu...]]></description>
+        <pubDate>Tue, 03 Nov 2026 12:06:13 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-03-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-03.mp3" length="12297600"
+  type="audio/mpeg" />
+        <itunes:duration>13:00</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-02</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì due novembre duemilaventisei. Quando Google e Microsoft raccolgono oltre ottanta miliardi di dollari in pochi mesi per costruire data center, e poi vedono i titoli crollare perché gli investitori si spaventano dei costi, capisci che siamo in una fase nuova. E oggi cominciamo proprio da qui.
 
@@ -29,7 +43,7 @@ Alphabet, la casa madre di Google, ha appena raccolto qualcosa come quarantuno m
         <itunes:duration>11:20</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-01</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica primo novembre duemilaventisei. Oggi parliamo di soldi veri: quanto costa davvero farsi aiutare dall'intelligenza artificiale, e chi sta risparmiando migliaia di dollari all'anno solo scegliendo il piano giusto.
 
@@ -387,18 +401,6 @@ Partiamo dalla storia più interessante. I vostri agenti AI hanno una data di sc
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-26.mp3" length="7090176"
   type="audio/mpeg" />
         <itunes:duration>7:57</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-25</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del ventiquattro settembre duemilaventisei
-
-Meta ha trasformato Connect in uno show su Muse. Mark Zuckerberg ha presentato un gadget chiamato Charm, una specie di portachiavi che arriva a dicembre e che lui stesso ha definito il modo più veloce per parlare con Muse. Poi Muse sbarca sugli occhiali AI di Meta entro qualche mese, con modalità di elaborazione privata che esclude persino Meta stessa. E arriva Muse Realtime Avatar, che ti fa animare il tuo Muse con la voce si...]]></description>
-        <pubDate>Fri, 25 Sep 2026 11:06:33 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-25-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-25.mp3" length="16092672"
-  type="audio/mpeg" />
-        <itunes:duration>17:55</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
