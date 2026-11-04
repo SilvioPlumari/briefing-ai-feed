@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 03 Nov 2026 12:06:13 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 04 Nov 2026 12:05:01 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-04</title>
+        <description><![CDATA[Buongiorno, AI Espresso di mercoledì quattro novembre duemilaventisei. Oggi parliamo di soldi veri e di chi controlla davvero l'intelligenza artificiale. Perché mentre tutti guardavano i modelli e i benchmark, il mercato ha fatto ottanta miliardi di dollari di acquisizioni in poche ore e i governi hanno iniziato a comprare la loro sovranità tecnologica a pacchetti azionari.
+
+Partiamo dalla notizia più grossa. Marvell Technologies compra Lumentum per ottanta miliardi di dollari, tutto in azioni. ...]]></description>
+        <pubDate>Wed, 04 Nov 2026 12:05:01 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-04-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-04.mp3" length="13665408"
+  type="audio/mpeg" />
+        <itunes:duration>14:17</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-03</title>
         <description><![CDATA[# AI Espresso - Martedì 3 novembre 2026
 
@@ -31,7 +43,7 @@ Partiamo da una notizia che spacca. Gemini quattro Argon, il nuovo modello di pu
         <itunes:duration>13:00</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-02</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì due novembre duemilaventisei. Quando Google e Microsoft raccolgono oltre ottanta miliardi di dollari in pochi mesi per costruire data center, e poi vedono i titoli crollare perché gli investitori si spaventano dei costi, capisci che siamo in una fase nuova. E oggi cominciamo proprio da qui.
 
@@ -387,20 +399,6 @@ Allora, partiamo dal problema. Gli agenti AI costano. Tanto. Non perché siano p
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-27.mp3" length="6617472"
   type="audio/mpeg" />
         <itunes:duration>7:25</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-26</title>
-        <description><![CDATA[# Trascrizione AI Espresso
-
-Buongiorno, AI Espresso del venticinque settembre duemilaventisei. Oggi parliamo di agenti AI che invecchiano male, executive che saltano da OpenAI a Nvidia, e Oracle che cerca di non pagare data center troppo costosi.
-
-Partiamo dalla storia più interessante. I vostri agenti AI hanno una data di scadenza, anche se nessuno ve l'ha detto. Un agente che lavora da tre mesi non è più lo stesso che avete messo in produzione tre mesi fa. Risponde ancora veloce, sembra ancora...]]></description>
-        <pubDate>Sat, 26 Sep 2026 11:03:33 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-26-1303</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-26.mp3" length="7090176"
-  type="audio/mpeg" />
-        <itunes:duration>7:57</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
