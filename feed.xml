@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 04 Nov 2026 12:05:01 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 05 Nov 2026 12:07:01 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-05</title>
+        <description><![CDATA[Buongiorno, AI Espresso di giovedì cinque novembre duemilaventisei. Stanotte l'America ha votato, e per l'intelligenza artificiale è cambiato tutto. I democratici hanno ribaltato il Texas, Meta si allea con un'azienda cinese per costruire robot umanoidi, e il capo di DeepMind ammette che Google ha sbagliato a tenere il suo chatbot nel cassetto mentre OpenAI lanciava ChatGPT. Partiamo.
+
+Iniziamo dall'elefante nella stanza. Ieri notte in Texas hanno eletto governatore e senatore democratici per la...]]></description>
+        <pubDate>Thu, 05 Nov 2026 12:07:01 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-05-1307</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-05.mp3" length="13993344"
+  type="audio/mpeg" />
+        <itunes:duration>14:36</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-04</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì quattro novembre duemilaventisei. Oggi parliamo di soldi veri e di chi controlla davvero l'intelligenza artificiale. Perché mentre tutti guardavano i modelli e i benchmark, il mercato ha fatto ottanta miliardi di dollari di acquisizioni in poche ore e i governi hanno iniziato a comprare la loro sovranità tecnologica a pacchetti azionari.
 
@@ -29,7 +41,7 @@ Partiamo dalla notizia più grossa. Marvell Technologies compra Lumentum per ott
         <itunes:duration>14:17</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-03</title>
         <description><![CDATA[# AI Espresso - Martedì 3 novembre 2026
 
@@ -387,18 +399,6 @@ Partiamo dalla notizia grossa. OpenAI ha confermato che questa estate i suoi age
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-28.mp3" length="11158656"
   type="audio/mpeg" />
         <itunes:duration>12:29</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-27</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 10 maggio. Oggi parliamo di una cosa che sta facendo impazzire chi lavora con gli agenti AI: tutti cercano di risparmiare accorciando i prompt, ma finiscono per spendere di più. Vi spiego perché.
-
-Allora, partiamo dal problema. Gli agenti AI costano. Tanto. Non perché siano più intelligenti dei chatbot normali, ma per tutto quello che succede dietro le quinte. Un chatbot manda un messaggio e riceve una risposta. Fine. Un agente invece pianifica, chiama uno strumento, ...]]></description>
-        <pubDate>Sun, 27 Sep 2026 11:02:54 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-27-1302</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-27.mp3" length="6617472"
-  type="audio/mpeg" />
-        <itunes:duration>7:25</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
