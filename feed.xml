@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 06 Nov 2026 12:06:55 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 07 Nov 2026 12:06:48 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-07</title>
+        <description><![CDATA[# AI ESPRESSO
+
+Buongiorno, AI Espresso di sabato sette novembre duemilaventisei. Nvidia nei guai con il Congresso americano, Anthropic che lancia la finanza personale e intanto si scopre che l'intelligenza artificiale sta letteralmente raddoppiando la velocità con cui sviluppa se stessa. Giornata piena, partiamo.
+
+Cominciamo dalla notizia più grossa. Jensen Huang, amministratore delegato di Nvidia, è stato convocato dal Congresso degli Stati Uniti per un briefing a porte chiuse il diciotto novem...]]></description>
+        <pubDate>Sat, 07 Nov 2026 12:06:48 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-07-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-07.mp3" length="13843968"
+  type="audio/mpeg" />
+        <itunes:duration>14:22</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-06</title>
         <description><![CDATA[# AI Espresso - Venerdì 6 novembre 2026
 
@@ -30,7 +44,7 @@ Buongiorno, AI Espresso di venerdì sei novembre duemilaventisei. Oggi iniziamo 
         <itunes:duration>15:41</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-05</title>
         <description><![CDATA[Buongiorno, AI Espresso di giovedì cinque novembre duemilaventisei. Stanotte l'America ha votato, e per l'intelligenza artificiale è cambiato tutto. I democratici hanno ribaltato il Texas, Meta si allea con un'azienda cinese per costruire robot umanoidi, e il capo di DeepMind ammette che Google ha sbagliato a tenere il suo chatbot nel cassetto mentre OpenAI lanciava ChatGPT. Partiamo.
 
@@ -384,20 +398,6 @@ Partiamo dalla notizia grossa: OpenAI ha lanciato ieri i Dots, agenti AI che lav
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-30.mp3" length="9126528"
   type="audio/mpeg" />
         <itunes:duration>10:12</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-29</title>
-        <description><![CDATA[# AI Espresso - Lunedì 29 Settembre 2026
-
-Buongiorno, AI Espresso del ventinove settembre. OpenAI sale sul palco oggi per il DevDay, uno degli eventi più attesi dell'anno. Ma Anthropic non ha aspettato: ha appena lanciato Claude Sonnet cinque punto cinque, e improvvisamente l'asticella per OpenAI si è alzata parecchio.
-
-Partiamo da qui. Claude Sonnet cinque punto cinque è il nuovo modello mid-tier di Anthropic, costa la metà di Opus ma ci va vicinissimo in performance. Trenta per cento più veloc...]]></description>
-        <pubDate>Tue, 29 Sep 2026 11:06:35 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-29-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-29.mp3" length="13484544"
-  type="audio/mpeg" />
-        <itunes:duration>15:02</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
