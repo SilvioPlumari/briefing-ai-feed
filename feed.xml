@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 07 Nov 2026 12:06:48 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 08 Nov 2026 12:04:00 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-08</title>
+        <description><![CDATA[Buongiorno, AI Espresso di domenica otto novembre duemilaventisei. Oggi parliamo di una cosa che vi sarà capitata almeno una volta: mandare un'email a freddo sperando di ottenere qualcosa. Un lavoro, una collaborazione, un cliente. Ecco, c'è chi l'ha fatto così bene da cambiare completamente traiettoria, e stamattina vi racconto come.
+
+Partiamo da un diciassettenne che si chiama Elliot Lindberg. Questo ragazzo aveva un problema concreto: doveva collegare il sito web di un cliente a Shopify, e st...]]></description>
+        <pubDate>Sun, 08 Nov 2026 12:04:00 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-08-1304</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-08.mp3" length="7574400"
+  type="audio/mpeg" />
+        <itunes:duration>7:53</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-07</title>
         <description><![CDATA[# AI ESPRESSO
 
@@ -31,7 +43,7 @@ Cominciamo dalla notizia più grossa. Jensen Huang, amministratore delegato di N
         <itunes:duration>14:22</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-06</title>
         <description><![CDATA[# AI Espresso - Venerdì 6 novembre 2026
 
@@ -386,18 +398,6 @@ Cominciamo da Google, che dopo un anno praticamente passato in panchina rilascia
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-01.mp3" length="11151744"
   type="audio/mpeg" />
         <itunes:duration>12:31</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-09-30</title>
-        <description><![CDATA[Buongiorno, AI Espresso del ventinove settembre duemilaventisei. Oggi si parla di agenti AI sempre attivi, di OpenAI che frena su un modello per motivi di sicurezza, e di un'IPO di Anthropic che sembra già partire in salita.
-
-Partiamo dalla notizia grossa: OpenAI ha lanciato ieri i Dots, agenti AI che lavorano ventiquattro ore su ventiquattro su un computer in cloud. Pensate a un assistente che continua a lavorare anche quando voi siete a cena o dormite. Ogni Dot si collega a oltre quattromila a...]]></description>
-        <pubDate>Wed, 30 Sep 2026 11:04:43 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-09-30-1304</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-09-30.mp3" length="9126528"
-  type="audio/mpeg" />
-        <itunes:duration>10:12</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
