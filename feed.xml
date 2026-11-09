@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 08 Nov 2026 12:04:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 09 Nov 2026 12:06:10 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-09</title>
+        <description><![CDATA[Buongiorno, AI Espresso di lunedì nove novembre duemilaventisei. Benvenuti a questa puntata dove partiamo subito con un casino piuttosto serio: Nvidia ha annunciato ieri sera che il consiglio di amministrazione ha avviato un'indagine indipendente su segnalazioni secondo cui il CEO Jensen Huang sarebbe stato preso di mira da un'operazione di intelligence straniera. Sì, avete capito bene.
+
+Allora, prima di tutto cerchiamo di capire cosa sappiamo. Nvidia ha diffuso una nota in cui dice che il board...]]></description>
+        <pubDate>Mon, 09 Nov 2026 12:06:10 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-09-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-09.mp3" length="12374400"
+  type="audio/mpeg" />
+        <itunes:duration>13:25</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-08</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica otto novembre duemilaventisei. Oggi parliamo di una cosa che vi sarà capitata almeno una volta: mandare un'email a freddo sperando di ottenere qualcosa. Un lavoro, una collaborazione, un cliente. Ecco, c'è chi l'ha fatto così bene da cambiare completamente traiettoria, e stamattina vi racconto come.
 
@@ -29,7 +41,7 @@ Partiamo da un diciassettenne che si chiama Elliot Lindberg. Questo ragazzo avev
         <itunes:duration>7:53</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-07</title>
         <description><![CDATA[# AI ESPRESSO
 
@@ -382,22 +394,6 @@ Martedì si sono seduti allo stesso tavolo Mark Zuckerberg, Jensen Huang di Nvid
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-02.mp3" length="13852416"
   type="audio/mpeg" />
         <itunes:duration>15:38</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-01</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del 30 settembre 2026
-
-Buongiorno, AI Espresso del trenta settembre duemilaventisei. Google torna in gioco con Gemini quattro, Meta porta l'AI fuori dallo schermo e OpenAI vuole altri trenta miliardi prima della quotazione. Giornata piena, partiamo.
-
-## Google torna a giocare con i grandi
-
-Cominciamo da Google, che dopo un anno praticamente passato in panchina rilascia Gemini quattro Argon. E stavolta i numeri sembrano seri. Batte GPT sei Astra e Claude Opus cinque punt...]]></description>
-        <pubDate>Thu, 01 Oct 2026 11:05:47 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-01-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-01.mp3" length="11151744"
-  type="audio/mpeg" />
-        <itunes:duration>12:31</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
