@@ -16,8 +16,18 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 09 Nov 2026 12:06:10 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 10 Nov 2026 12:05:13 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-10</title>
+        <description><![CDATA[Buongiorno, AI Espresso di martedì dieci novembre duemilaventisei. Jensen Huang potrebbe dover lasciare Nvidia. Lo dice The Information, che ieri ha pubblicato un'analisi chirurgica: le indagini sul rapporto tra il CEO e una presunta spia cinese sono diventate così ingombranti che la sua permanenza rischia di danneggiare l'azienda più del suo addio. E intanto il mercato ha già iniziato a guardare altrove: ieri AMD ha guadagnato oltre il dodici per cento, Broadcom quasi il nove. Nvidia? Giù del c...]]></description>
+        <pubDate>Tue, 10 Nov 2026 12:05:13 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-10-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-10.mp3" length="13457664"
+  type="audio/mpeg" />
+        <itunes:duration>14:19</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-09</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì nove novembre duemilaventisei. Benvenuti a questa puntata dove partiamo subito con un casino piuttosto serio: Nvidia ha annunciato ieri sera che il consiglio di amministrazione ha avviato un'indagine indipendente su segnalazioni secondo cui il CEO Jensen Huang sarebbe stato preso di mira da un'operazione di intelligence straniera. Sì, avete capito bene.
 
@@ -29,7 +39,7 @@ Allora, prima di tutto cerchiamo di capire cosa sappiamo. Nvidia ha diffuso una 
         <itunes:duration>13:25</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-08</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica otto novembre duemilaventisei. Oggi parliamo di una cosa che vi sarà capitata almeno una volta: mandare un'email a freddo sperando di ottenere qualcosa. Un lavoro, una collaborazione, un cliente. Ecco, c'è chi l'ha fatto così bene da cambiare completamente traiettoria, e stamattina vi racconto come.
 
@@ -380,20 +390,6 @@ Allora, fatto grosso: OpenAI ha mandato a casa tre ricercatori che lavoravano su
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-03.mp3" length="7717632"
   type="audio/mpeg" />
         <itunes:duration>8:40</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-02</title>
-        <description><![CDATA[# Buongiorno, AI Espresso del primo ottobre duemilaventisei.
-
-Allora, Trump ha convocato i big dell'AI alla Casa Bianca, ci ha fatto firmare una specie di costituzione morale, e poi ha deciso che l'intelligenza artificiale da oggi si chiama "super intelligence". No, non sto scherzando.
-
-Martedì si sono seduti allo stesso tavolo Mark Zuckerberg, Jensen Huang di Nvidia, Sundar Pichai di Google, i capi di OpenAI, Anthropic, xAI di Musk. Una roba tipo G7 dell'AI, ma a Washington. Hanno firmato un do...]]></description>
-        <pubDate>Fri, 02 Oct 2026 11:06:52 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-02-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-02.mp3" length="13852416"
-  type="audio/mpeg" />
-        <itunes:duration>15:38</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
