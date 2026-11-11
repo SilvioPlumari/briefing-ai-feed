@@ -16,8 +16,18 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 10 Nov 2026 12:05:13 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 11 Nov 2026 12:05:53 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-11</title>
+        <description><![CDATA[Buongiorno, AI Espresso di mercoledì undici novembre duemilaventisei. Cominciamo subito con il terremoto che sta scuotendo Nvidia: ieri sera il presidente Trump ha confermato che l'FBI sta indagando sulla relazione tra Jensen Huang, CEO di Nvidia, e Alice Huang, un'imprenditrice cinese sospettata di collaborare con i servizi segreti di Pechino. Trump, in una conferenza stampa improvvisata, ha detto di aver parlato con Huang e lo ha definito "un uomo molto onorevole", ma l'aria si fa pesante. Il ...]]></description>
+        <pubDate>Wed, 11 Nov 2026 12:05:53 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-11-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-11.mp3" length="14577792"
+  type="audio/mpeg" />
+        <itunes:duration>15:03</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-10</title>
         <description><![CDATA[Buongiorno, AI Espresso di martedì dieci novembre duemilaventisei. Jensen Huang potrebbe dover lasciare Nvidia. Lo dice The Information, che ieri ha pubblicato un'analisi chirurgica: le indagini sul rapporto tra il CEO e una presunta spia cinese sono diventate così ingombranti che la sua permanenza rischia di danneggiare l'azienda più del suo addio. E intanto il mercato ha già iniziato a guardare altrove: ieri AMD ha guadagnato oltre il dodici per cento, Broadcom quasi il nove. Nvidia? Giù del c...]]></description>
         <pubDate>Tue, 10 Nov 2026 12:05:13 GMT</pubDate>
@@ -27,7 +37,7 @@
         <itunes:duration>14:19</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-09</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì nove novembre duemilaventisei. Benvenuti a questa puntata dove partiamo subito con un casino piuttosto serio: Nvidia ha annunciato ieri sera che il consiglio di amministrazione ha avviato un'indagine indipendente su segnalazioni secondo cui il CEO Jensen Huang sarebbe stato preso di mira da un'operazione di intelligence straniera. Sì, avete capito bene.
 
@@ -378,18 +388,6 @@ Allora, la notizia grossa arriva da San Francisco. Il Dipartimento di Giustizia 
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-12.mp3" length="20937600"
   type="audio/mpeg" />
         <itunes:duration>23:30</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-03</title>
-        <description><![CDATA[Buongiorno, AI Espresso del 2 ottobre 2026. OpenAI licenzia tre ricercatori di sicurezza per violazione delle policy interne, e intanto chiude un giro da venti miliardi. Partiamo.
-
-Allora, fatto grosso: OpenAI ha mandato a casa tre ricercatori che lavoravano sulla sicurezza dei modelli. Il motivo? Hanno passato informazioni sensibili a un'organizzazione esterna che fa valutazioni sui rischi dell'AI, violando le procedure aziendali. OpenAI ha rilasciato una dichiarazione durissima: "Hanno violato...]]></description>
-        <pubDate>Sat, 03 Oct 2026 11:04:30 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-03-1304</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-03.mp3" length="7717632"
-  type="audio/mpeg" />
-        <itunes:duration>8:40</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
