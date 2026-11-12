@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Wed, 11 Nov 2026 12:05:53 GMT</lastBuildDate>
+      <lastBuildDate>Thu, 12 Nov 2026 12:05:25 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-12</title>
+        <description><![CDATA[# AI Espresso - Giovedì 12 novembre 2026
+
+Buongiorno, AI Espresso di giovedì dodici novembre duemilaventisei. E cominciamo subito con la bomba: il CEO di Nvidia, Jensen Huang, potrebbe essere sul punto di lasciare l'azienda. Dopo giorni di indiscrezioni su una presunta operazione di intelligence cinese che lo avrebbe preso di mira, ieri sera il consiglio di amministrazione si è riunito per decidere il suo futuro. E la situazione è esplosiva.
+
+Facciamo ordine. Qualche giorno fa Nvidia aveva annun...]]></description>
+        <pubDate>Thu, 12 Nov 2026 12:05:25 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-12-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-12.mp3" length="15341568"
+  type="audio/mpeg" />
+        <itunes:duration>16:09</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-11</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì undici novembre duemilaventisei. Cominciamo subito con il terremoto che sta scuotendo Nvidia: ieri sera il presidente Trump ha confermato che l'FBI sta indagando sulla relazione tra Jensen Huang, CEO di Nvidia, e Alice Huang, un'imprenditrice cinese sospettata di collaborare con i servizi segreti di Pechino. Trump, in una conferenza stampa improvvisata, ha detto di aver parlato con Huang e lo ha definito "un uomo molto onorevole", ma l'aria si fa pesante. Il ...]]></description>
         <pubDate>Wed, 11 Nov 2026 12:05:53 GMT</pubDate>
@@ -27,7 +41,7 @@
         <itunes:duration>15:03</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-10</title>
         <description><![CDATA[Buongiorno, AI Espresso di martedì dieci novembre duemilaventisei. Jensen Huang potrebbe dover lasciare Nvidia. Lo dice The Information, che ieri ha pubblicato un'analisi chirurgica: le indagini sul rapporto tra il CEO e una presunta spia cinese sono diventate così ingombranti che la sua permanenza rischia di danneggiare l'azienda più del suo addio. E intanto il mercato ha già iniziato a guardare altrove: ieri AMD ha guadagnato oltre il dodici per cento, Broadcom quasi il nove. Nvidia? Giù del c...]]></description>
         <pubDate>Tue, 10 Nov 2026 12:05:13 GMT</pubDate>
@@ -378,16 +392,6 @@ Allora, la notizia grossa arriva da San Francisco. Il Dipartimento di Giustizia 
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-14.mp3" length="6280320"
   type="audio/mpeg" />
         <itunes:duration>6:46</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-12</title>
-        <description><![CDATA[Buongiorno, AI Espresso dell'undici ottobre duemilaventisei. Partiamo dalla notizia che ha fatto crollare ieri i titoli cloud: OpenAI non fattura settanta miliardi annui. Ne fattura cinquanta. Venti miliardi di differenza, spariti da un giorno all'altro perché qualcuno aveva calcolato male il revenue annualizzato. Il Financial Times ha corretto il tiro giovedì, e nel giro di ore Nvidia, CoreWeave, Nebius, giù tutti. Il problema non sono i cinquanta miliardi, che restano comunque una cifra enorme...]]></description>
-        <pubDate>Mon, 12 Oct 2026 07:35:16 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-12-0935</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-12.mp3" length="20937600"
-  type="audio/mpeg" />
-        <itunes:duration>23:30</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
