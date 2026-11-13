@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 12 Nov 2026 12:05:25 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 13 Nov 2026 12:07:47 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-13</title>
+        <description><![CDATA[# AI Espresso - Venerdì 13 novembre 2026
+
+Buongiorno, AI Espresso di venerdì tredici novembre duemilaventisei. E cominciamo proprio dalla notizia che sta scuotendo l'intera industria tech: Jensen Huang, il fondatore di Nvidia, si è dimesso. Proprio così, l'uomo con il giubbotto di pelle che per trentatré anni ha costruito l'azienda che oggi fornisce i chip a tutto l'ecosistema dell'intelligenza artificiale, ha lasciato ieri sera.
+
+Facciamo un passo indietro per capire come siamo arrivati qui, pe...]]></description>
+        <pubDate>Fri, 13 Nov 2026 12:07:47 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-13-1307</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-13.mp3" length="18522240"
+  type="audio/mpeg" />
+        <itunes:duration>19:43</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-12</title>
         <description><![CDATA[# AI Espresso - Giovedì 12 novembre 2026
 
@@ -31,7 +45,7 @@ Facciamo ordine. Qualche giorno fa Nvidia aveva annun...]]></description>
         <itunes:duration>16:09</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-11</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì undici novembre duemilaventisei. Cominciamo subito con il terremoto che sta scuotendo Nvidia: ieri sera il presidente Trump ha confermato che l'FBI sta indagando sulla relazione tra Jensen Huang, CEO di Nvidia, e Alice Huang, un'imprenditrice cinese sospettata di collaborare con i servizi segreti di Pechino. Trump, in una conferenza stampa improvvisata, ha detto di aver parlato con Huang e lo ha definito "un uomo molto onorevole", ma l'aria si fa pesante. Il ...]]></description>
         <pubDate>Wed, 11 Nov 2026 12:05:53 GMT</pubDate>
@@ -380,18 +394,6 @@ Buongiorno, AI Espresso di giovedì quindici ottobre duemilaventisei. Stamattina
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-15.mp3" length="16575744"
   type="audio/mpeg" />
         <itunes:duration>17:16</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-14</title>
-        <description><![CDATA[Buongiorno, AI Espresso di mercoledì quattordici ottobre duemilaventisei. Oggi si parla di un arresto clamoroso in OpenAI per spionaggio industriale, Apple che finalmente entra sul serio nel mercato della casa intelligente, e Character punto ai che dichiara bancarotta. Partiamo subito.
-
-Allora, la notizia grossa arriva da San Francisco. Il Dipartimento di Giustizia americano ha annunciato ieri l'arresto di un dipendente di OpenAI, Abdulrahman Alfozan, accusato di aver installato una cimice in un...]]></description>
-        <pubDate>Wed, 14 Oct 2026 13:40:34 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-14-1540</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-14.mp3" length="6280320"
-  type="audio/mpeg" />
-        <itunes:duration>6:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
