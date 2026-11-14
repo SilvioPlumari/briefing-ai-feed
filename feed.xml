@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 13 Nov 2026 12:07:47 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 14 Nov 2026 12:08:53 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-14</title>
+        <description><![CDATA[Buongiorno, AI Espresso di sabato quattordici novembre duemilaventisei. Jensen Huang si è dimesso ieri da Nvidia dopo vent'anni al comando, travolto da uno scandalo che mescola relazioni extraconiugali con dipendenti e possibile spionaggio cinese. E mentre il mondo tech si chiede se questa sia la fine di un'era, i dati ci raccontano un'altra storia: quella di un'intelligenza artificiale che sta già combattendo contro se stessa, e lo fa a una velocità che fa paura.
+
+Partiamo da Nvidia perché è im...]]></description>
+        <pubDate>Sat, 14 Nov 2026 12:08:53 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-14-1308</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-14.mp3" length="15172608"
+  type="audio/mpeg" />
+        <itunes:duration>15:50</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-13</title>
         <description><![CDATA[# AI Espresso - Venerdì 13 novembre 2026
 
@@ -31,7 +43,7 @@ Facciamo un passo indietro per capire come siamo arrivati qui, pe...]]></descrip
         <itunes:duration>19:43</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-12</title>
         <description><![CDATA[# AI Espresso - Giovedì 12 novembre 2026
 
@@ -382,18 +394,6 @@ Andiamo con ordine. Il tredici ottobre scorso è stato arrestato Abdulrahman Alf
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-16.mp3" length="13939584"
   type="audio/mpeg" />
         <itunes:duration>14:32</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-15</title>
-        <description><![CDATA[# AI Espresso - 15 ottobre 2026
-
-Buongiorno, AI Espresso di giovedì quindici ottobre duemilaventisei. Stamattina apriamo con un dato che fa rumore: oltre quattrocento scienziati, tra cui Geoffrey Hinton e Yoshua Bengio, chiedono ufficialmente di isolare i modelli AI più potenti dalla rete prima di metterli in produzione. E mentre il dibattito sulla sicurezza si infiamma, scopriamo che CoreWeave, uno dei protagonisti dell'infrastruttura AI, ha perso il quindici e mezzo per cento in borsa in un so...]]></description>
-        <pubDate>Thu, 15 Oct 2026 11:06:43 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-15-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-15.mp3" length="16575744"
-  type="audio/mpeg" />
-        <itunes:duration>17:16</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
