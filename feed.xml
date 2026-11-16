@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 15 Nov 2026 12:06:18 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 16 Nov 2026 12:08:01 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-16</title>
+        <description><![CDATA[Buongiorno, AI Espresso di lunedì sedici novembre duemilaventisei. Iniziamo con il terremoto che sta scuotendo la Silicon Valley: Nvidia senza Jensen Huang è una Nvidia dimezzata, almeno secondo gli investitori. E oggi arrivano i numeri che faranno tremare Wall Street.
+
+Partiamo dai fatti. Huang, il CEO che ha trasformato Nvidia nella star assoluta dell'AI, se n'è andato. E non in modo tranquillo. Sta emergendo uno scandalo che ha tutti gli ingredienti del thriller: affari con una presunta spia ...]]></description>
+        <pubDate>Mon, 16 Nov 2026 12:08:01 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-16-1308</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-16.mp3" length="9570048"
+  type="audio/mpeg" />
+        <itunes:duration>9:59</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-15</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica quindici novembre duemilaventisei. Jensen Huang non è più il CEO di Nvidia. Ripeto: il fondatore della compagnia che alimenta l'intera industria dell'intelligenza artificiale ha lasciato l'azienda mercoledì scorso, dopo quattro giorni di crisi e trentatré anni al comando. E la domanda che si fanno tutti stamattina è: cosa succede adesso?
 
@@ -29,7 +41,7 @@ Riavvolgiamo il nastro. La storia inizia il ventinove ottobre, quando il New Yor
         <itunes:duration>14:09</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-14</title>
         <description><![CDATA[Buongiorno, AI Espresso di sabato quattordici novembre duemilaventisei. Jensen Huang si è dimesso ieri da Nvidia dopo vent'anni al comando, travolto da uno scandalo che mescola relazioni extraconiugali con dipendenti e possibile spionaggio cinese. E mentre il mondo tech si chiede se questa sia la fine di un'era, i dati ci raccontano un'altra storia: quella di un'intelligenza artificiale che sta già combattendo contro se stessa, e lo fa a una velocità che fa paura.
 
@@ -380,18 +392,6 @@ Partiamo dal dato più clamoroso. Ad agosto duemilaventisei, gli agenti AI di An
         <pubDate>Sun, 18 Oct 2026 11:04:20 GMT</pubDate>
         <guid isPermaLink="false">espresso-2026-10-18-1304</guid>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-18.mp3" length="9188736"
-  type="audio/mpeg" />
-        <itunes:duration>9:46</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-17</title>
-        <description><![CDATA[Buongiorno, AI Espresso di sabato diciassette ottobre duemilaventisei. Un'azienda che nessuno conosceva diciotto mesi fa ha appena raggiunto un miliardo di dollari di ricavi annualizzati. Si chiama Higgsfield, fa video generati con l'AI, e il suo fondatore Alex Mashrabov ha appena raccontato come ci è arrivato. Spoiler: ha quasi bruciato tutto prima di capire cosa stava facendo.
-
-Partiamo dai numeri, che sono fuori scala. Higgsfield è passata da un milione a un miliardo di dollari di ricavi annu...]]></description>
-        <pubDate>Sat, 17 Oct 2026 11:05:08 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-17-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-17.mp3" length="9361152"
   type="audio/mpeg" />
         <itunes:duration>9:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
