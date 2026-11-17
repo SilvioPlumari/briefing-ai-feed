@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 16 Nov 2026 12:08:01 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 17 Nov 2026 12:06:48 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-17</title>
+        <description><![CDATA[# AI ESPRESSO - 17 novembre 2026
+
+Buongiorno, AI Espresso di martedì diciassette novembre duemilaventisei. E oggi partiamo da una storia che sembra una serie tv: migliaia di dipendenti Nvidia firmano petizioni, Elon Musk scende in campo, il Segretario al Tesoro americano chiede spiegazioni, e tutto ruota attorno a una domanda: riuscirà Jensen Huang a tornare al comando dell'azienda che ha costruito?
+
+Allora, ricapitoliamo velocemente. Mercoledì scorso Huang si è dimesso da CEO di Nvidia sotto la...]]></description>
+        <pubDate>Tue, 17 Nov 2026 12:06:48 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-17-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-17.mp3" length="13507584"
+  type="audio/mpeg" />
+        <itunes:duration>13:49</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-16</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì sedici novembre duemilaventisei. Iniziamo con il terremoto che sta scuotendo la Silicon Valley: Nvidia senza Jensen Huang è una Nvidia dimezzata, almeno secondo gli investitori. E oggi arrivano i numeri che faranno tremare Wall Street.
 
@@ -29,7 +43,7 @@ Partiamo dai fatti. Huang, il CEO che ha trasformato Nvidia nella star assoluta 
         <itunes:duration>9:59</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-15</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica quindici novembre duemilaventisei. Jensen Huang non è più il CEO di Nvidia. Ripeto: il fondatore della compagnia che alimenta l'intera industria dell'intelligenza artificiale ha lasciato l'azienda mercoledì scorso, dopo quattro giorni di crisi e trentatré anni al comando. E la domanda che si fanno tutti stamattina è: cosa succede adesso?
 
@@ -382,18 +396,6 @@ Partiamo dai numeri grossi, quelli che girano nel mondo del venture capital. Nei
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-19.mp3" length="12969600"
   type="audio/mpeg" />
         <itunes:duration>13:39</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-18</title>
-        <description><![CDATA[Buongiorno, AI Espresso di domenica diciotto ottobre duemilaventisei. Anthropic ha appena fatto una cosa che nessuna azienda AI aveva mai fatto: ha aperto i suoi dati interni e ci ha mostrato i numeri veri di cosa succede quando gli agenti AI entrano davvero in un'azienda. E i numeri sono impressionanti.
-
-Partiamo dal dato più clamoroso. Ad agosto duemilaventisei, gli agenti AI di Anthropic lavoravano sei ore per ogni ora lavorata da un essere umano. Sei a uno. Nelle divisioni di ricerca il rapp...]]></description>
-        <pubDate>Sun, 18 Oct 2026 11:04:20 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-18-1304</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-18.mp3" length="9188736"
-  type="audio/mpeg" />
-        <itunes:duration>9:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
