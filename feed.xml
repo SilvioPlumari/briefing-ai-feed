@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 17 Nov 2026 12:06:48 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 18 Nov 2026 12:08:00 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-18</title>
+        <description><![CDATA[Buongiorno, AI Espresso di mercoledì diciotto novembre duemilaventisei. Jensen Huang vuole tornare, il board di Nvidia gli ha sbattuto la porta in faccia. E mentre tutti litigano su chi comanda, Google si frega i clienti di Nvidia con un trucco software geniale.
+
+Partiamo dalla bomba di ieri sera. Poche ore dopo che Jensen Huang aveva pubblicato una dichiarazione dicendo che gli sarebbe piaciuto tornare a fare il CEO di Nvidia, il presidente del consiglio Harvey Jones è intervenuto durante la co...]]></description>
+        <pubDate>Wed, 18 Nov 2026 12:08:00 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-18-1308</guid>
+        <enclosure url="https://github.com/SilvioPlumari/briefing-ai-feed/releases/download/espresso-2026-11-18/ai-espresso-2026-11-18.mp3" length="17347968"
+  type="audio/mpeg" />
+        <itunes:duration>18:30</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-17</title>
         <description><![CDATA[# AI ESPRESSO - 17 novembre 2026
 
@@ -31,7 +43,7 @@ Allora, ricapitoliamo velocemente. Mercoledì scorso Huang si è dimesso da CEO 
         <itunes:duration>13:49</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-16</title>
         <description><![CDATA[Buongiorno, AI Espresso di lunedì sedici novembre duemilaventisei. Iniziamo con il terremoto che sta scuotendo la Silicon Valley: Nvidia senza Jensen Huang è una Nvidia dimezzata, almeno secondo gli investitori. E oggi arrivano i numeri che faranno tremare Wall Street.
 
@@ -382,20 +394,6 @@ Par...]]></description>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-20.mp3" length="10798080"
   type="audio/mpeg" />
         <itunes:duration>16:56</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-19</title>
-        <description><![CDATA[# AI Espresso - Lunedì 19 ottobre 2026
-
-Buongiorno, AI Espresso di lunedì diciannove ottobre duemilaventisei. Oggi parliamo di soldi. Perché l'intelligenza artificiale sta entrando nella fase in cui il mercato smette di applaudire le demo e comincia a chiedere: chi paga il conto? E soprattutto: quando vedremo i ritorni?
-
-Partiamo dai numeri grossi, quelli che girano nel mondo del venture capital. Nei primi nove mesi di quest'anno, le startup di AI hanno preso l'ottantadue virgola sette percento ...]]></description>
-        <pubDate>Mon, 19 Oct 2026 11:05:34 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-19-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-19.mp3" length="12969600"
-  type="audio/mpeg" />
-        <itunes:duration>13:39</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
