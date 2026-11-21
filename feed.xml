@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 20 Nov 2026 12:06:31 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 21 Nov 2026 12:05:29 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-21</title>
+        <description><![CDATA[Buongiorno, AI Espresso di sabato ventuno novembre duemilaventisei. Ieri è successo qualcosa che non si vedeva da anni: la più grande IPO della storia ha aperto in gloria e chiuso quasi in cenere, trascinando con sé tutto il mercato tech. Parliamo di Anthropic, e parliamo di una giornata che ha cambiato le carte in tavola.
+
+Allora, partiamo dai fatti. Mercoledì sera Anthropic ha fissato il prezzo delle sue azioni a ottantatré dollari, sopra la forchetta prevista. Giovedì mattina, campanella del ...]]></description>
+        <pubDate>Sat, 21 Nov 2026 12:05:29 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-21-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-21.mp3" length="16274688"
+  type="audio/mpeg" />
+        <itunes:duration>16:55</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-20</title>
         <description><![CDATA[# AI Espresso - Venerdì 20 novembre 2026
 
@@ -31,7 +43,7 @@ Partiamo subito dal fatto del giorno. Ieri Anthropic, la società che sviluppa C
         <itunes:duration>17:46</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-19</title>
         <description><![CDATA[Buongiorno, AI Espresso di giovedì diciannove novembre duemilaventisei. Nvidia cambia leader e alza le previsioni, Anthropic debutta in borsa con numeri stellari, e Microsoft ridisegna il lavoro intorno agli agenti AI. Giornata densa, partiamo.
 
@@ -382,18 +394,6 @@ Ieri sera Meta ha annunciato i risultati del terzo trimest...]]></description>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-23.mp3" length="14461440"
   type="audio/mpeg" />
         <itunes:duration>15:13</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-22</title>
-        <description><![CDATA[Buongiorno, AI Espresso di giovedì ventidue ottobre duemilaventisei. Oggi parliamo di fusioni miliardarie, cyberattacchi potenziati dall'AI e di come i vostri dati aziendali potrebbero valere più di quanto pensiate.
-
-Partiamo dalla bomba della giornata. Ieri sera Elon Musk ha annunciato che SpaceX e Tesla hanno formato dei comitati speciali per esplorare una possibile fusione tra le due società. Avete capito bene: le auto elettriche e i razzi potrebbero diventare un'unica mega-azienda. Sarebbe l...]]></description>
-        <pubDate>Thu, 22 Oct 2026 11:05:24 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-22-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-22.mp3" length="18724608"
-  type="audio/mpeg" />
-        <itunes:duration>19:48</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
