@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sat, 21 Nov 2026 12:05:29 GMT</lastBuildDate>
+      <lastBuildDate>Sun, 22 Nov 2026 12:05:00 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-22</title>
+        <description><![CDATA[Buongiorno, AI Espresso di domenica ventidue novembre duemilaventisei. Oggi vi racconto come si costruisce un'azienda da cinque miliardi di dollari senza scrivere nemmeno un pitch deck. Almeno fino alla serie B.
+
+La storia è quella di n8n, una piattaforma tedesca di orchestrazione AI che in quattordici mesi è passata da una valutazione di duecentosettanta milioni a cinque virgola due miliardi di dollari. Il fondatore, Jan Oberhauser, ha scritto la sua prima presentazione per investitori solo all...]]></description>
+        <pubDate>Sun, 22 Nov 2026 12:05:00 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-22-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-22.mp3" length="8497920"
+  type="audio/mpeg" />
+        <itunes:duration>8:43</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-21</title>
         <description><![CDATA[Buongiorno, AI Espresso di sabato ventuno novembre duemilaventisei. Ieri è successo qualcosa che non si vedeva da anni: la più grande IPO della storia ha aperto in gloria e chiuso quasi in cenere, trascinando con sé tutto il mercato tech. Parliamo di Anthropic, e parliamo di una giornata che ha cambiato le carte in tavola.
 
@@ -29,7 +41,7 @@ Allora, partiamo dai fatti. Mercoledì sera Anthropic ha fissato il prezzo delle
         <itunes:duration>16:55</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-20</title>
         <description><![CDATA[# AI Espresso - Venerdì 20 novembre 2026
 
@@ -380,20 +392,6 @@ Com...]]></description>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-24.mp3" length="10661376"
   type="audio/mpeg" />
         <itunes:duration>10:59</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-23</title>
-        <description><![CDATA[# Buongiorno, AI Espresso di venerdì ventitre ottobre duemilaventisei.
-
-E vi avverto subito: la puntata di oggi è corposa, perché nelle ultime ventiquattr'ore sono successe un sacco di cose. Partiamo dalla notizia più grossa: Meta ha creato una nuova classe di azioni per raccogliere soldi freschi, senza che Mark Zuckerberg perda il controllo dell'azienda. E questo la dice lunga su quanto stia costando davvero l'intelligenza artificiale.
-
-Ieri sera Meta ha annunciato i risultati del terzo trimest...]]></description>
-        <pubDate>Fri, 23 Oct 2026 11:06:38 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-23-1306</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-23.mp3" length="14461440"
-  type="audio/mpeg" />
-        <itunes:duration>15:13</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
