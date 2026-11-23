@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Sun, 22 Nov 2026 12:05:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 23 Nov 2026 14:07:52 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-23</title>
+        <description><![CDATA[# AI ESPRESSO - Lunedì 23 novembre 2026
+
+Buongiorno, AI Espresso di lunedì ventitre novembre duemilaventisei. Venerdì scorso Wall Street ha avuto un venerdì nero per l'intelligenza artificiale. Nvidia, AMD, Broadcom giù tra il dodici e il sedici percento. Anthropic, che era appena sbarcata al Nasdaq, è crollata il secondo giorno di contrattazioni. E nel weekend tutti a chiedersi: la bolla dell'AI si sta finalmente sgonfiando?
+
+Partiamo proprio da qui, perché quello che è successo venerdì raccont...]]></description>
+        <pubDate>Mon, 23 Nov 2026 14:07:52 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-23-1507</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-23.mp3" length="12086784"
+  type="audio/mpeg" />
+        <itunes:duration>12:54</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-22</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica ventidue novembre duemilaventisei. Oggi vi racconto come si costruisce un'azienda da cinque miliardi di dollari senza scrivere nemmeno un pitch deck. Almeno fino alla serie B.
 
@@ -29,7 +43,7 @@ La storia è quella di n8n, una piattaforma tedesca di orchestrazione AI che in 
         <itunes:duration>8:43</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-21</title>
         <description><![CDATA[Buongiorno, AI Espresso di sabato ventuno novembre duemilaventisei. Ieri è successo qualcosa che non si vedeva da anni: la più grande IPO della storia ha aperto in gloria e chiuso quasi in cenere, trascinando con sé tutto il mercato tech. Parliamo di Anthropic, e parliamo di una giornata che ha cambiato le carte in tavola.
 
@@ -380,18 +394,6 @@ Partiamo dalla notizia grossa. Anthropic ha appena reso disponibile a tutti gli 
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-25.mp3" length="10722816"
   type="audio/mpeg" />
         <itunes:duration>11:09</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-24</title>
-        <description><![CDATA[Buongiorno, AI Espresso di sabato ventiquattro ottobre duemilaventisei. Oggi parliamo di soldi, tanti soldi. OpenAI sta chiudendo un round da trenta miliardi di dollari che la porterebbe a una valutazione da un trilione e duecentocinquanta miliardi. Sì, avete capito bene. E mentre tutti rincorrono questi numeri astronomici, scopriamo che solo il quattro virgola cinque percento degli americani paga per l'AI, ma alcuni di loro spendono novecentotre dollari al mese. Di tasca propria. Partiamo.
-
-Com...]]></description>
-        <pubDate>Sat, 24 Oct 2026 11:05:11 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-24-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-24.mp3" length="10661376"
-  type="audio/mpeg" />
-        <itunes:duration>10:59</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
