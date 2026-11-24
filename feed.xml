@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Mon, 23 Nov 2026 14:07:52 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 24 Nov 2026 12:05:29 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-24</title>
+        <description><![CDATA[# AI Espresso - Martedì 24 novembre 2026
+
+Buongiorno, AI Espresso di martedì ventiquattro novembre duemilaventisei. Jensen Huang è tornato. Dopo sei giorni fuori da NVIDIA, il fondatore è di nuovo al comando, e dietro questa inversione a U c'è direttamente Donald Trump. Ma andiamo con ordine, perché oggi abbiamo una giornata densa.
+
+Partiamo dal terremoto NVIDIA. Ieri mattina il consiglio di amministrazione ha votato all'unanimità per reintegrare Jensen Huang come amministratore delegato, presid...]]></description>
+        <pubDate>Tue, 24 Nov 2026 12:05:29 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-24-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-24.mp3" length="16106112"
+  type="audio/mpeg" />
+        <itunes:duration>16:43</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-23</title>
         <description><![CDATA[# AI ESPRESSO - Lunedì 23 novembre 2026
 
@@ -31,7 +45,7 @@ Partiamo proprio da qui, perché quello che è successo venerdì raccont...]]></
         <itunes:duration>12:54</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-22</title>
         <description><![CDATA[Buongiorno, AI Espresso di domenica ventidue novembre duemilaventisei. Oggi vi racconto come si costruisce un'azienda da cinque miliardi di dollari senza scrivere nemmeno un pitch deck. Almeno fino alla serie B.
 
@@ -380,20 +394,6 @@ Andy Jassy, CEO di Amazon, ha sgranato numeri impressionanti in un podcast di An
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-26.mp3" length="6517632"
   type="audio/mpeg" />
         <itunes:duration>9:27</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-25</title>
-        <description><![CDATA[# AI Espresso
-
-Buongiorno, AI Espresso di domenica venticinque ottobre duemilaventisei. Oggi vi racconto di come un team da cinque persone può diventare un sistema da duecento dollari al mese. E non è fantascienza, è Claude Code che gira mentre voi dormite.
-
-Partiamo dalla notizia grossa. Anthropic ha appena reso disponibile a tutti gli utenti Pro, Max e Team una funzione che cambia le carte in tavola: i task schedulati nel cloud. In pratica, potete dire a Claude Code di svegliarsi alle sei e se...]]></description>
-        <pubDate>Sun, 25 Oct 2026 12:05:13 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-25-1305</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-25.mp3" length="10722816"
-  type="audio/mpeg" />
-        <itunes:duration>11:09</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
