@@ -16,8 +16,20 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Tue, 24 Nov 2026 12:05:29 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 25 Nov 2026 12:08:07 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-25</title>
+        <description><![CDATA[Buongiorno, AI Espresso di mercoledì venticinque novembre duemilaventisei. Jensen Huang è tornato. Dopo undici giorni di caos, il CEO di Nvidia è di nuovo al suo posto, i mercati festeggiano con un rally a due cifre, e improvvisamente tutti fanno finta che non sia successo niente. Ma le domande sul tavolo sono ancora molte, e alcune risposte arrivate ieri fanno più rumore del silenzio.
+
+Partiamo dai fatti. Lunedì sera il consiglio di amministrazione di Nvidia ha annunciato la reintegrazione di J...]]></description>
+        <pubDate>Wed, 25 Nov 2026 12:08:07 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-25-1308</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-25.mp3" length="15668736"
+  type="audio/mpeg" />
+        <itunes:duration>16:16</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-24</title>
         <description><![CDATA[# AI Espresso - Martedì 24 novembre 2026
 
@@ -31,7 +43,7 @@ Partiamo dal terremoto NVIDIA. Ieri mattina il consiglio di amministrazione ha v
         <itunes:duration>16:43</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-23</title>
         <description><![CDATA[# AI ESPRESSO - Lunedì 23 novembre 2026
 
@@ -382,18 +394,6 @@ Buongiorno, AI Espresso di martedì ventisette ottobre duemilaventisei. Oggi par
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-27.mp3" length="14704896"
   type="audio/mpeg" />
         <itunes:duration>15:22</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-26</title>
-        <description><![CDATA[Buongiorno, AI Espresso di lunedì ventisei ottobre duemilaventisei. Amazon Web Services ha esaurito la capacità cloud fino al duemilaventotto. Instacart cerca acquirenti. E la sovranità digitale europea entra nel vivo. Partiamo.
-
-Andy Jassy, CEO di Amazon, ha sgranato numeri impressionanti in un podcast di Andreessen Horowitz uscito venerdì. Amazon Web Services, il braccio cloud di Amazon, è praticamente sold out fino alla fine del duemilaventisette. Il duemilaventisei è esaurito, il duemilavent...]]></description>
-        <pubDate>Mon, 26 Oct 2026 12:09:07 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-26-1309</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-26.mp3" length="6517632"
-  type="audio/mpeg" />
-        <itunes:duration>9:27</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
