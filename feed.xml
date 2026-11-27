@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Thu, 26 Nov 2026 12:05:33 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 27 Nov 2026 12:05:13 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-27</title>
+        <description><![CDATA[# AI ESPRESSO - Venerdì 27 novembre 2026
+
+Buongiorno, AI Espresso di venerdì ventisette novembre duemilaventisei. Undici giorni. Tanto è durato l'addio di Jensen Huang a Nvidia. E dietro al suo ritorno trionfale c'è una storia che coinvolge la Casa Bianca, una guerra commerciale con la Cina, e una battaglia miliardaria sul futuro stesso dell'intelligenza artificiale. Partiamo.
+
+Allora, ricapitoliamo questa storia assurda. Jensen Huang si dimette da Nvidia, la borsa va nel panico, undici giorni d...]]></description>
+        <pubDate>Fri, 27 Nov 2026 12:05:13 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-27-1305</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-27.mp3" length="12061824"
+  type="audio/mpeg" />
+        <itunes:duration>12:39</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-26</title>
         <description><![CDATA[Buongiorno, AI Espresso di giovedì ventisei novembre duemilaventisei. Mentre il mercato tech vive una delle settimane più volatili degli ultimi anni, Jensen Huang si scusa con i dipendenti Nvidia e annuncia di essere in terapia quotidiana. E quella che sembrava una telenovela aziendale si trasforma in un caso di governance che sta facendo tremare Wall Street.
 
@@ -29,7 +43,7 @@ Partiamo proprio da qui, perché la vicenda Nvidia racconta molto di dove siamo 
         <itunes:duration>13:17</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-25</title>
         <description><![CDATA[Buongiorno, AI Espresso di mercoledì venticinque novembre duemilaventisei. Jensen Huang è tornato. Dopo undici giorni di caos, il CEO di Nvidia è di nuovo al suo posto, i mercati festeggiano con un rally a due cifre, e improvvisamente tutti fanno finta che non sia successo niente. Ma le domande sul tavolo sono ancora molte, e alcune risposte arrivate ieri fanno più rumore del silenzio.
 
@@ -380,20 +394,6 @@ Google ha...]]></description>
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-29.mp3" length="19283328"
   type="audio/mpeg" />
         <itunes:duration>20:20</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-28</title>
-        <description><![CDATA[# Testo puntata AI Espresso - 28 ottobre 2026
-
-Buongiorno, AI Espresso di mercoledì ventotto ottobre duemilaventisei. Oggi vi racconto di una coincidenza che sembra quasi orchestrata: OpenAI e Anthropic annunciano lo stesso giorno di aver demolito una teoria fondamentale della crittografia. Stessa data, stesso risultato, sedici ottobre. E non è nemmeno la notizia più grossa della settimana.
-
-Partiamo proprio da qui. OpenAI ha annunciato ieri che i suoi modelli hanno falsificato quella che si chi...]]></description>
-        <pubDate>Wed, 28 Oct 2026 12:08:53 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-28-1308</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-28.mp3" length="14995200"
-  type="audio/mpeg" />
-        <itunes:duration>15:34</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
