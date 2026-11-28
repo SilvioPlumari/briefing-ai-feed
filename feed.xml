@@ -16,8 +16,22 @@
       </itunes:owner>
       <itunes:category text="Technology" />
       <itunes:explicit>false</itunes:explicit>
-      <lastBuildDate>Fri, 27 Nov 2026 12:05:13 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 28 Nov 2026 12:06:29 GMT</lastBuildDate>
       <item>
+        <title>AI Espresso - 2026-11-28</title>
+        <description><![CDATA[# AI Espresso
+
+Buongiorno, AI Espresso di sabato ventotto novembre duemilaventisei. Nvidia sul filo del rasoio con le agenzie di rating, la privacy personale che diventa un lavoro a tempo pieno, e l'Europa che scopre quanto sia fragile la sua sovranità tecnologica. Giornata densa, partiamo.
+
+La notizia che fa più rumore arriva da S&P Global, una delle tre grandi agenzie di rating del credito. Mercoledì hanno messo Nvidia sotto osservazione negativa. Tradotto: nei prossimi novanta giorni potrebbe...]]></description>
+        <pubDate>Sat, 28 Nov 2026 12:06:29 GMT</pubDate>
+        <guid isPermaLink="false">espresso-2026-11-28-1306</guid>
+        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-11-28.mp3" length="15049344"
+  type="audio/mpeg" />
+        <itunes:duration>15:11</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+      </item>
+  <item>
         <title>AI Espresso - 2026-11-27</title>
         <description><![CDATA[# AI ESPRESSO - Venerdì 27 novembre 2026
 
@@ -31,7 +45,7 @@ Allora, ricapitoliamo questa storia assurda. Jensen Huang si dimette da Nvidia, 
         <itunes:duration>12:39</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
-  <item>
+<item>
         <title>AI Espresso - 2026-11-26</title>
         <description><![CDATA[Buongiorno, AI Espresso di giovedì ventisei novembre duemilaventisei. Mentre il mercato tech vive una delle settimane più volatili degli ultimi anni, Jensen Huang si scusa con i dipendenti Nvidia e annuncia di essere in terapia quotidiana. E quella che sembrava una telenovela aziendale si trasforma in un caso di governance che sta facendo tremare Wall Street.
 
@@ -380,20 +394,6 @@ Buongiorno, AI Espresso di venerdì trenta ottobre duemilaventisei. E partiamo s
         <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-30.mp3" length="15635328"
   type="audio/mpeg" />
         <itunes:duration>16:31</itunes:duration>
-        <itunes:explicit>false</itunes:explicit>
-      </item>
-<item>
-        <title>AI Espresso - 2026-10-29</title>
-        <description><![CDATA[# AI Espresso - Giovedì 29 ottobre 2026
-
-Buongiorno, AI Espresso di giovedì ventinovè ottobre duemilaventisei. Benvenuti. Oggi parliamo di una giornata caldissima: Google lancia il secondo modello di punta in un mese, Anthropic si prepara a una IPO da cento miliardi di dollari che blocca tutto il mercato, Apple rompe un tabù durato anni, e vi racconto cosa significa che ora ci sono trentacinquemila persone pagate per filmare sé stesse al lavoro così i robot possono imparare. Partiamo.
-
-Google ha...]]></description>
-        <pubDate>Thu, 29 Oct 2026 12:10:37 GMT</pubDate>
-        <guid isPermaLink="false">espresso-2026-10-29-1310</guid>
-        <enclosure url="https://silvioplumari.github.io/briefing-ai-feed/episodes/ai-espresso-2026-10-29.mp3" length="19283328"
-  type="audio/mpeg" />
-        <itunes:duration>20:20</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
       </item>
     </channel>
